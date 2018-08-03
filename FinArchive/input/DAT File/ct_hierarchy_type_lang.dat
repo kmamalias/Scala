@@ -1,0 +1,20 @@
+101|AUTH_APRV|en|Y|Authorized Approver||Jun 21 2005  3:48PM
+101|CONFIG|en|Y|Configuration Hierarchy||Jun 21 2005  3:47PM
+101|EMP_CL|en|Y|Employee||Jun 21 2005  3:50PM
+101|EXPCO_APRV|en|Y|Expense Cost Object Approver||Jan 17 2009  7:36AM
+101|EXP_BDGT|en|Y|Expense Budget Approver||Jun 23 2012  1:42AM
+101|EXP_CL|en|Y|Expense||Jun 21 2005  3:50PM
+101|INV_PAY|en|Y|Invoice Payment||Aug 21 2010  5:36AM
+101|INV_ROUTNG|en|Y|Invoice Routing||Jan 21 2012  3:30AM
+101|INV_VENDOR|en|Y|Invoice Vendor Employee Access||Sep 15 2012  2:06AM
+101|LEDGER|en|Y|Ledger Hierarchy||Jun 21 2005  3:48PM
+101|PMTCO_APRV|en|Y|Payment Cost Object Approver||Jan 17 2009  7:36AM
+101|PMT_CL|en|Y|Payment||Jun 21 2005  3:51PM
+101|PURAU_APRV|en|Y|Purchase Request Authorized Approver||Jan 19 2013  3:55AM
+101|PURCO_APRV|en|Y|Purchase Request Cost Object Approver||Jan 19 2013  3:55AM
+101|REQCO_APRV|en|Y|Request Cost Object Approver||Mar 23 2013  2:02AM
+101|REQ_BDGT|en|Y|Request Budget Approver||Jun 23 2012  1:42AM
+101|REQ_CL|en|Y|Request||Dec 18 2010  2:13AM
+101|SEC_BI_EXP|en|Y|Reporting Secondary - Expense||Feb  7 2015  4:07AM
+101|TAX|en|Y|Tax||Jun 21 2005  3:50PM
+101|TRAVELALL|en|Y|Travel Allowance||Jun 21 2005  3:50PM

@@ -1,0 +1,113 @@
+101|ACCT_AUDIT_MGR|en|Y|Expense Processor (Audit)|Can view but not update and delete, reports in Expense Processor.||Jun 21 2005  3:52PM
+101|ACCT_CLERK|en|Y|Expense Processor|Can view and update reports in Expense Processor. Cannot delete.||Jun 21 2005  3:48PM
+101|ACCT_MANAGER|en|Y|Expense Processor Manager|Can view, update, and delete reports in Expense Processor.||Jun 21 2005  3:48PM
+101|AC_LISTNG_ADMIN|en|Y|App Center Listing Administrator|Can manage App Center listings.||Mar 19 2016  2:21AM
+101|AMADEUS_USER|en|Y|Amadeus User|Amadeus user.||Aug 21 2010  5:36AM
+101|ATTN_ADMIN|en|Y|Attendee Administrator|Can view and update attendees.||Mar 24 2012  1:54AM
+101|ATTN_ADMIN_RO|en|Y|Attendee Administrator (Read Only)|Can view attendees.||Mar 24 2012  1:54AM
+101|AUTH_APPROVER|en|Y|Authorized Approver|Can approve, with a specified limit, specific expense reports.||Jun 21 2005  3:48PM
+101|BDGT_APPROVER|en|Y|Budget Approver|Can approve, with a specified limit, specific budgets.||Jun 23 2012  1:42AM
+101|BILLNG_ATTR|en|Y|Billing Attributes User|Can manage billing related settings for the entity.||Feb  8 2014  5:05AM
+101|BI_ADMIN|en|Y|Consolidation Configuration Administrator|Can view and update settings for Consolidation Configuration.||Jun 21 2005  3:50PM
+101|BUDGET_ADMIN|en|Y|Budget Administrator|Can create and update budget periods and assignments.||Sep 15 2012  2:07AM
+101|BUDGET_OWNER|en|Y|Budget Owner|Can own a budget.||Oct 15 2016  1:31AM
+101|BUDGET_VIEWER|en|Y|Budget Viewer|Can view budget information.||Oct 15 2016  1:31AM
+101|CARD_ADMIN|en|Y|Expense Company Card Administrator|Can administer company cards for users, in addition to viewing the import logs.||Jun 21 2005  3:48PM
+101|CASHADV_ADMIN|en|Y|Expense Cash Advance Administrator|Can issue, view, and cancel cash advances.||Jun 21 2005  3:48PM
+101|CLIQBOOK_USER|en|Y|Cliqbook User|Can integrate with Cliqbook service||Sep 30 2006 12:45AM
+101|CNQR_INVC|en|Y|Invoice Full User|Can access Invoice Processing only.  Does not have access to Concur Vendor Payment.||Jan 22 2011  2:17AM
+101|CNQR_INVC_PILOT|en|Y|Invoice Pilot User|Can access both Invoice Processing and Concur Vendor Payment Classic.||Jan 22 2011  2:17AM
+101|CNTRL_RECEIVING|en|Y|Central Receiver|Can add/update/delete receipts for purchase orders.||Jul 30 2017 12:11AM
+101|COG_HIST_DATA|en|Y|Cognos Hist Data Access|Cognos Hist Data Access.||Dec 13 2014  4:59AM
+101|CONCUR_AUDITOR|en|Y|Expense Processor(Expense Report Auditing)|Can audit reports from within Expense Report Auditing Service.||Dec 18 2010  2:14AM
+101|CO_APPROVER|en|Y|Cost Object Approver|Can approve, with a specified limit or level, specific cost objects.||Jan 17 2009  7:36AM
+101|CR_PROCESSOR|en|Y|Central Reconciliation Processor|Can process (approve) Central Reconciliations.||Feb 26 2011  2:04AM
+101|DASHBOARD_USER|en|Y|Dashboard User|Can perform Expense control and compliance reporting for your company||Mar 20 2010  4:40AM
+101|DESKTOP_ADMIN|en|Y|Company Info Administrator|Can view and update settings for the Company Info section of the My Concur page.||Jul 23 2011  1:22AM
+101|EFT_AUDITOR|en|Y|Reimbursement Auditor|Can view Reimbursement Auditor.||May 10 2008 12:48AM
+101|EFT_MANAGER|en|Y|Reimbursement Manager|Can view and edit Reimbursement Manager.||May 10 2008 12:48AM
+101|EMPLOYEE_ADMIN|en|Y|Employee Administrator|Can create, view, update, and remove employees, expense and payment preferences, and roles for Expense.||Dec 18 2010  2:14AM
+101|EMPLOYEE_MAINT|en|Y|Employee Maintenance|Can view and update employees, expense and payment preferences for Concur Expense.||Jul 23 2011  1:22AM
+101|EMP_ADMIN_RO|en|Y|Employee Administrator (Read Only)|Can view employees, expense and payment preferences.||Feb 18 2012  3:07AM
+101|EMP_ADM_BI_PER|en|Y|Employee Admin Permission on Reporting Hierarchy|Can grant Reporting Hierarchy Nodes permission to users in the Employee Admin.||Jun 21 2005  3:51PM
+101|EMP_ADM_EXP_PER|en|Y|Employee Admin Permission on Expense Hierarchy|Can grant Expense Hierarchy Nodes permission to users in the Employee Admin.||Jun 21 2005  3:51PM
+101|EMP_ADM_PMT_PER|en|Y|Employee Admin Permission on Invoice Hierarchy|Can grant Invoice Hierarchy Nodes permission to users in the Employee Admin.||May 15 2010  5:19AM
+101|EXP_ADMIN|en|Y|Expense Configuration Administrator|Can create, edit, and delete expense configuration data for Expense Reports.||Jun 21 2005  3:51PM
+101|EXP_ADMIN_RO|en|Y|Expense Configuration Administrator (Restricted)|Can view expense configuration data for Expense Reports.||Jun 21 2005  3:51PM
+101|EXP_PROXY_LOGON|en|Y|Expense Proxy Logon|Can log on as an expense proxy user for other employees in that group.||Jun 21 2005  3:48PM
+101|EXTRACT_ADMIN|en|Y|Extract Administrator|Can access the File Export Configuration tool.||Jan 19 2013  3:55AM
+101|FBT_ADMIN|en|Y|Fringe Benefits Tax Administrator|Can view and edit FBT Configurations.||Mar 17 2007  1:49AM
+101|FIND_ATN_TRVLR|en|Y|Employee (while finding attendees)|Role code to determine the field access while searching attendees||Mar 15 2008  1:00AM
+101|GROUP_ANALYST|en|Y|CAS Analyst|Can run reports for all assigned groups.||Jun 21 2005  3:50PM
+101|IMAGE_PROCESSOR|en|Y|Invoice Image Processor|Can view, attach and scan invoice images, plus set the invoice image received flag in the absence of an image to allow blocked invoices to proceed through the workflow.||Mar  8 2014  4:18AM
+101|INT_TRVL|en|Y|Travel and Expense User|User of Concur Travel and Expense||Oct  6 2007  4:08AM
+101|INVOICE_RCVR|en|Y|Invoice Receipt Processor|Can only change the Invoice Received status, from within Invoice Processor. Cannot make general updates or delete.||May 15 2010  5:19AM
+101|INV_PMT_MANAGER|en|Y|Invoice Payment Manager|Invoice Payment Manager user. Can perform vendor banking import, cash flow management etc.||Aug 21 2010  5:36AM
+101|INV_PURCHASING|en|Y|Invoice Purchasing User|Can modify Purchase Orders and validate invoice accuracy||Oct 22 2011  4:00AM
+101|IT_ADMIN|en|Y|Import/Extract Administrator|Grants access to set up, run, and view history for import feeds and extracts. Additionally it grants access to view the system log.||May 17 2014  2:22AM
+101|IT_ADMIN_RO|en|Y|Import/Extract Monitor|Can view history for import feeds and extracts.||May 17 2014  2:22AM
+101|IT_PROGRAMMER|en|Y|Integration Programmer|Grants access to functionality that allows extended configurability of imports and extracts.||Jan 16 2010  6:06AM
+101|MANAGER|en|Y|Expense Approver|Can approve expense reports and cash advances in Expense Reports.||Jun 21 2005  3:48PM
+101|MANAGER1|en|Y|Default Approver|Default Approver||Aug 24 2013  3:29AM
+101|MANAGER2|en|Y|Default Approver 2|Default Approver 2||Aug 24 2013  3:29AM
+101|OFFLINE_USER|en|Y|Concur Mobile User|Can create, or edit expense reports using Concur Connect for Laptop.||Sep  1 2007  2:09AM
+101|PASSWORD_MGR|en|Y|Password Manager|Can change passwords for Expense.||Dec 18 2010  2:14AM
+101|PAYMENT_APRVR|en|Y|Invoice Approver|Can approve payment requests in Invoice Processing.||Jan 22 2011  2:17AM
+101|PAYMENT_AP_USER|en|Y|Invoice AP User|AP Back Office user.  Canÿassign payment requests to other Invoice Users.||May 15 2010  5:19AM
+101|PAYMENT_AUDITOR|en|Y|Invoice Processor (Audit)|Can view payment requests from within Invoice Processor. Cannot update or delete.||May 15 2010  5:19AM
+101|PAYMENT_USER|en|Y|Invoice User|Can create and submit payment requests in Invoice Processing.||Jan 22 2011  2:17AM
+101|PCARD_ADMIN|en|Y|Card Program Administrator|Can administer card programs, and accounts, in addition to viewing the import logs.||Mar 24 2012  1:54AM
+101|PMT_ACCT_CLERK|en|Y|Invoice Processor|Can view and update payment requests from within Invoice Processor. Cannot delete.||May 15 2010  5:19AM
+101|PMT_ACCT_MGR|en|Y|Invoice Processor Manager|Can view update and delete payment requests from within Invoice Processor.||May 15 2010  5:19AM
+101|PMT_ADMIN|en|Y|Invoice Configuration Administrator|Can create, edit, and delete configuration data for Invoice Processing.||Jan 22 2011  2:17AM
+101|PMT_ADMIN_RO|en|Y|Invoice Configuration Administrator (Restricted)|Can view configuration data for Invoice Processing.||Jan 22 2011  2:17AM
+101|PMT_IC_VERIFIER|en|Y|Client Managed Capture Verifier|Can verify ic forms.||May 17 2014  2:22AM
+101|PMT_PROXY_LOGON|en|Y|Invoice Proxy Logon|Allows an employee to log on as a invoice proxy user for other employees in that group.||May 15 2010  5:19AM
+101|PMT_TAX_ADMIN|en|Y|Invoice Tax Administrator|Can retrieve and update calculated tax and tax rates.||Jul 12 2014  2:50AM
+101|PMT_VENAPPROVER|en|Y|Invoice Vendor Manager|Can approve new vendors for Invoice Processing.||Jan 22 2011  2:17AM
+101|PO_AUDITOR|en|Y|Purchase Order Processor (Audit)|Can view purchase orders from within PO Processor. Cannot update or delete.||Aug 13 2016  2:04AM
+101|PO_PROCESSOR|en|Y|Purchase Order Processor|Can view, transmit and void Purchase Orders.||Apr 27 2013  2:14AM
+101|PURCH_APRVR|en|Y|Purchase Request Approver|Can approve purchase requests in Invoice Processing.||Jan 19 2013  3:55AM
+101|PURCH_AUDITOR|en|Y|Purchase Request Processor (Audit)|Can view purchase requests from within Purchase Request Processor. Cannot update or delete.||Aug 13 2016  2:04AM
+101|PURCH_PROCESSOR|en|Y|Purchase Request Processor|Can view, update and delete purchase requests from within Purchase Request Processor.||Jan 19 2013  3:55AM
+101|PURCH_USER|en|Y|Purchase Request User|Can create and submit purchase requests in Invoice Processing.||Jan 19 2013  3:55AM
+101|PUR_PROXY_LOGON|en|Y|Purchase Request Proxy Logon|Allows an employee to log on as a purchase request proxy user for other employees in that group.||Jul 20 2013  2:19AM
+101|RCPT_PROCESSOR|en|Y|Expense Receipt Processor|Can update the receipt status for expense reports using Receipt Scan.||Jun 21 2005  3:48PM
+101|RECEIPT_USER|en|Y|Receipt User|Can add, update and edit receipt data of their own Purchase Orders.||Sep 22 2017 10:01PM
+101|REQ_ADMIN|en|Y|Request Configuration Administrator|Can create, edit, and delete configuration data for Requests.||Aug 21 2010  5:36AM
+101|REQ_ADMIN_RO|en|Y|Request Configuration Administrator (restricted)|Can view request configuration data for Requests.||Aug 21 2010  5:36AM
+101|REQ_EVENT|en|Y|Request Event Manager|Can create Event Requests.||May 18 2013  1:35AM
+101|REQ_MANAGER|en|Y|Request Approver|Can approve Requests.||Oct 16 2010  1:31AM
+101|REQ_PROCESSOR1|en|Y|TMC Agent|Can process travel requests waiting for TMC Agent processing and view travel requests processed by a TMC Agent.||Nov 19 2011  2:58AM
+101|REQ_PROCESSOR2|en|Y|Request Administrator|Can process requests waiting for Request Administrator processing and view submitted requests.||Mar 23 2013  2:02AM
+101|REQ_PROCESSOR3|en|Y|Request Auditor|Can view submitted requests.||Mar 23 2013  2:02AM
+101|REQ_PROXY_LOGON|en|Y|Request Proxy Logon|Can log on as a request proxy user for other employees in that group.||Apr 16 2011  1:19AM
+101|REQ_TRAVELER|en|Y|Request User|Can create and submit Requests.||Aug 21 2010  5:36AM
+101|RISK_PROCESSOR|en|Y|Risk Manager|Can process requests waiting for Risk Manager processing and view submitted requests risk||Mar 23 2013  2:02AM
+101|ROLE_ADMIN|en|Y|Role Administrator|Can assign roles.||Aug 15 2009  4:23AM
+101|ROLE_BUILDER|en|Y|Role Builder|Can view and edit custom roles.||Jul 18 2009  5:33AM
+101|RPTNET_BUDGET|en|Y|Budget Role for Cognos|Allows Budget Role for Cognos users||Aug 24 2013  3:29AM
+101|RPTNET_BUS_AUTH|en|Y|Cognos Business Author|Can perform Cognos reporting capabilities for all assigned groups.||Mar 15 2008  1:00AM
+101|RPTNET_BUS_SEC|en|Y|Cognos Business Author Secondary|Can perform Cognos reporting capabilities for all assigned groups on the secondary hierarchy.||Feb  7 2015  4:07AM
+101|RPTNET_CONSUMER|en|Y|Cognos Consumer|Can perform Cognos reporting capabilities for all assigned groups.||Mar 15 2008  1:00AM
+101|RPTNET_CON_SEC|en|Y|Cognos Consumer Secondary|Can perform Cognos reporting capabilities for all assigned groups on the secondary hierarchy.||Feb  7 2015  4:07AM
+101|RPTNET_PRO_AUTH|en|Y|Cognos Professional Author|Can perform Cognos reporting capabilities for all assigned groups.||Mar 15 2008  1:00AM
+101|RPTNET_PRO_SEC|en|Y|Cognos Professional Author Secondary|Can perform Cognos reporting capabilities for all assigned groups on the secondary hierarchy.||Feb  7 2015  4:07AM
+101|SHARED_ADMIN|en|Y|Shared Configuration Administrator|Can create, edit, and delete shared configuration data for both Expense Reports and Vendor Payments.||Jun 21 2005  3:51PM
+101|SHARED_ADMIN_RO|en|Y|Shared Configuration Administrator (Restricted)|Can view shared configuration data for both Expense Reports and Vendor Payments.||Jun 21 2005  3:51PM
+101|SPONSOR|en|Y|Sponsor|Can add sponsored users.||Oct 18 2014  2:23AM
+101|STMT_ACCT_AUDT|en|Y|Company Bill Statement Processor (Audit)|Can view but not update and delete, statement reports in Expense Processor.||May 19 2012  1:30AM
+101|STMT_ACCT_CLERK|en|Y|Company Bill Statement Processor|Can view and update statement reports in Expense Processor. Cannot delete.||May 19 2012  1:30AM
+101|STMT_ACCT_MGR|en|Y|Company Bill Statement Processor Manager|Can view, update, and delete statement reports in Expense Processor.||May 19 2012  1:30AM
+101|STMT_MANAGER|en|Y|Company Bill Statement Approver|Can approve statement reports in Expense.||May 19 2012  1:30AM
+101|STMT_USER|en|Y|Company Bill Statement User|Can create and submit statement reports in Expense Reports.||May 19 2012  1:30AM
+101|SYSTEM|en|Y|System|||Jun 21 2005  3:48PM
+101|TAX_ADMIN|en|Y|Tax Administrator|Can view and edit tax configurations.||Jun 21 2005  3:51PM
+101|TAX_ADMIN_RO|en|Y|Tax Administrator (Restricted)|Can view tax configurations.||Jun 21 2005  3:51PM
+101|TRAVELER|en|Y|Expense User|Can create and submit expense reports, authorization requests, and cash advance requests in Expense Reports.||Mar 15 2008  1:00AM
+101|TRAVEL_ADMIN|en|Y|Authorization Request Administrator|Can view and update authorization requests in Authorization Administrator. Cannot delete.||Mar 15 2008  1:00AM
+101|TRAVEL_MANAGER|en|Y|Authorization Request Approver|Can approve authorization requests in Expense Reports.||Mar 15 2008  1:00AM
+101|TRN_ADMIN|en|Y|Training Administrator|Can activate or inactivate the list of simulations provided and maintained by ConcurƒÝÝs Learning Services.||May 19 2012  1:30AM
+101|UI_PREVIEW|en|Y|UI Preview|Enable new enhanced User Interface.||Aug 23 2014  2:54AM
+101|WEBSVC_ADMIN|en|Y|Web Services Administrator|Can register and enable Partner Application access to Web Services.||Sep 18 2010  3:30AM
+101|XPRESS_UI_PREV|en|Y|Expense UI Preview|Enable new Xpressway enhanced User Interface.||Jul 30 2017 12:11AM

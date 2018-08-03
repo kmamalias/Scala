@@ -1,0 +1,965 @@
+101|AR-A|en|Y|Salta||Jun 21 2005  3:47PM
+101|AR-B|en|Y|Buenos Aires||Jun 21 2005  3:47PM
+101|AR-C|en|Y|Distrito Federal||Jun 21 2005  3:47PM
+101|AR-D|en|Y|San Luis||Jun 21 2005  3:47PM
+101|AR-E|en|Y|Entre Rios||Jun 21 2005  3:47PM
+101|AR-F|en|Y|La Rioja||Jun 21 2005  3:47PM
+101|AR-G|en|Y|Santiago del Estero||Jun 21 2005  3:47PM
+101|AR-H|en|Y|Chaco||Jun 21 2005  3:47PM
+101|AR-J|en|Y|San Juan||Jun 21 2005  3:47PM
+101|AR-K|en|Y|Catamarca||Jun 21 2005  3:47PM
+101|AR-L|en|Y|La Pampa||Jun 21 2005  3:47PM
+101|AR-M|en|Y|Mendoza||Jun 21 2005  3:47PM
+101|AR-N|en|Y|Misiones||Jun 21 2005  3:47PM
+101|AR-P|en|Y|Formosa||Jun 21 2005  3:47PM
+101|AR-Q|en|Y|NeuquÇn||Jun 21 2005  3:47PM
+101|AR-R|en|Y|Rio Negro||Jun 21 2005  3:47PM
+101|AR-S|en|Y|Santa Fe||Jun 21 2005  3:47PM
+101|AR-T|en|Y|Tucum†n||Jun 21 2005  3:47PM
+101|AR-U|en|Y|Chubut||Jun 21 2005  3:47PM
+101|AR-V|en|Y|Tierra del Fuego||Jun 21 2005  3:47PM
+101|AR-W|en|Y|Corrientes||Jun 21 2005  3:47PM
+101|AR-X|en|Y|C¢rdoba||Jun 21 2005  3:47PM
+101|AR-Y|en|Y|Jujuy||Jun 21 2005  3:47PM
+101|AR-Z|en|Y|Santa Cruz||Jun 21 2005  3:47PM
+101|AU-ACT|en|Y|Australian Capital Territory||Jun 21 2005  3:47PM
+101|AU-NSW|en|Y|New South Wales||Jun 21 2005  3:47PM
+101|AU-NT|en|Y|Northern Territory||Jun 21 2005  3:47PM
+101|AU-QLD|en|Y|Queensland||Jun 21 2005  3:47PM
+101|AU-SA|en|Y|South Australia||Jun 21 2005  3:47PM
+101|AU-TAS|en|Y|Tasmania||Jun 21 2005  3:47PM
+101|AU-VIC|en|Y|Victoria||Jun 21 2005  3:47PM
+101|AU-WA|en|Y|Western Australia||Jun 21 2005  3:47PM
+101|BE-BRU|en|Y|Brussels-Capital||Sep 10 2016  4:11AM
+101|BE-VAN|en|Y|Antwerpen||Jun 21 2005  3:47PM
+101|BE-VBR|en|Y|Vlaams Brabant||Jun 21 2005  3:47PM
+101|BE-VLI|en|Y|Limburg||Jun 21 2005  3:47PM
+101|BE-VOV|en|Y|Oost-Vlaanderen||Jun 21 2005  3:47PM
+101|BE-VWV|en|Y|West-Vlaanderen||Jun 21 2005  3:47PM
+101|BE-WBR|en|Y|Brabant Wallon||Jun 21 2005  3:47PM
+101|BE-WHT|en|Y|Hainaut||Jun 21 2005  3:47PM
+101|BE-WLG|en|Y|Liäge||Jun 21 2005  3:47PM
+101|BE-WLX|en|Y|Luxembourg||Jun 21 2005  3:47PM
+101|BE-WNA|en|Y|Namur||Jun 21 2005  3:47PM
+101|BR-AC|en|Y|Acre||Jun 21 2005  3:47PM
+101|BR-AL|en|Y|Alagoas||Jun 21 2005  3:47PM
+101|BR-AM|en|Y|Amazonas||Jun 21 2005  3:47PM
+101|BR-AP|en|Y|Amap†||Jun 21 2005  3:47PM
+101|BR-BA|en|Y|Bahia||Jun 21 2005  3:47PM
+101|BR-CE|en|Y|Cear†||Jun 21 2005  3:47PM
+101|BR-DF|en|Y|Distrito Federal||Jun 21 2005  3:47PM
+101|BR-ES|en|Y|Esp°rito Santo||Jun 21 2005  3:47PM
+101|BR-GO|en|Y|Goi†s||Jun 21 2005  3:47PM
+101|BR-MA|en|Y|Maranh›o||Jun 21 2005  3:47PM
+101|BR-MG|en|Y|Minas Gerais||Jun 21 2005  3:47PM
+101|BR-MS|en|Y|Mato Grosso do Sul||Jun 21 2005  3:47PM
+101|BR-MT|en|Y|Mato Grosso||Jun 21 2005  3:47PM
+101|BR-PA|en|Y|Par†||Jun 21 2005  3:47PM
+101|BR-PB|en|Y|Paraiba||Jun 21 2005  3:47PM
+101|BR-PE|en|Y|Pernambuco||Jun 21 2005  3:47PM
+101|BR-PI|en|Y|Piau°||Jun 21 2005  3:47PM
+101|BR-PR|en|Y|Paran†||Jun 21 2005  3:47PM
+101|BR-RJ|en|Y|Rio de Janeiro||Jun 21 2005  3:47PM
+101|BR-RN|en|Y|Rio Grande do Norte||Jun 21 2005  3:47PM
+101|BR-RO|en|Y|Rondìnia||Jun 21 2005  3:47PM
+101|BR-RR|en|Y|Roraima||Jun 21 2005  3:47PM
+101|BR-RS|en|Y|Rio Grande do Sul||Jun 21 2005  3:47PM
+101|BR-SC|en|Y|Santa Catarina||Jun 21 2005  3:47PM
+101|BR-SE|en|Y|Sergipe||Jun 21 2005  3:47PM
+101|BR-SP|en|Y|S›o Paulo||Jun 21 2005  3:47PM
+101|BR-TO|en|Y|Tocantins||Jun 21 2005  3:47PM
+101|CA-AB|en|Y|Alberta||Jun 21 2005  3:47PM
+101|CA-BC|en|Y|British Columbia||Jun 21 2005  3:47PM
+101|CA-MB|en|Y|Manitoba||Jun 21 2005  3:47PM
+101|CA-NB|en|Y|New Brunswick||Jun 21 2005  3:47PM
+101|CA-NL|en|Y|Newfoundland and Labrador||Jun 21 2005  3:47PM
+101|CA-NS|en|Y|Nova Scotia||Jun 21 2005  3:47PM
+101|CA-NT|en|Y|Northwest Territories||Jun 21 2005  3:47PM
+101|CA-NU|en|Y|Nunavut||Jun 21 2005  3:47PM
+101|CA-ON|en|Y|Ontario||Jun 21 2005  3:47PM
+101|CA-PE|en|Y|Prince Edward Island||Jun 21 2005  3:47PM
+101|CA-QC|en|Y|Quebec||Jun 21 2005  3:47PM
+101|CA-SK|en|Y|Saskatchewan||Jun 21 2005  3:47PM
+101|CA-YT|en|Y|Yukon Territory||Jun 21 2005  3:47PM
+101|CH-AG|en|Y|Aargau||Jun 21 2005  3:47PM
+101|CH-AI|en|Y|Appenzell Innerrhoden||Jun 21 2005  3:47PM
+101|CH-AR|en|Y|Appenzell Ausserrhoden||Jun 21 2005  3:47PM
+101|CH-BE|en|Y|Bern||Jun 21 2005  3:47PM
+101|CH-BL|en|Y|Basel-Landschaft||Jun 21 2005  3:47PM
+101|CH-BS|en|Y|Basel-Stadt||Jun 21 2005  3:47PM
+101|CH-FR|en|Y|Fribourg||Jun 21 2005  3:47PM
+101|CH-GE|en|Y|Genäve||Jun 21 2005  3:47PM
+101|CH-GL|en|Y|Glarus||Jun 21 2005  3:47PM
+101|CH-GR|en|Y|GraubÅnden||Jun 21 2005  3:47PM
+101|CH-JU|en|Y|Jura||Jun 21 2005  3:47PM
+101|CH-LU|en|Y|Luzern||Jun 21 2005  3:47PM
+101|CH-NE|en|Y|NeuchÉtel||Jun 21 2005  3:47PM
+101|CH-NW|en|Y|Nidwalden||Jun 21 2005  3:47PM
+101|CH-OW|en|Y|Obwalden||Jun 21 2005  3:47PM
+101|CH-SG|en|Y|Sankt Gallen||Jun 21 2005  3:47PM
+101|CH-SH|en|Y|Schaffhausen||Jun 21 2005  3:47PM
+101|CH-SO|en|Y|Solothurn||Jun 21 2005  3:47PM
+101|CH-SZ|en|Y|Schwyz||Jun 21 2005  3:47PM
+101|CH-TG|en|Y|Thurgau||Jun 21 2005  3:47PM
+101|CH-TI|en|Y|Ticino||Jun 21 2005  3:47PM
+101|CH-UR|en|Y|Uri||Jun 21 2005  3:47PM
+101|CH-VD|en|Y|Vaud||Jun 21 2005  3:47PM
+101|CH-VS|en|Y|Valais||Jun 21 2005  3:47PM
+101|CH-ZG|en|Y|Zug||Jun 21 2005  3:47PM
+101|CH-ZH|en|Y|ZÅrich||Jun 21 2005  3:47PM
+101|CL-AI|en|Y|AisÇn del General Carlos Ib†§ez del Campo||Jun 21 2005  3:47PM
+101|CL-AN|en|Y|Antofagasta||Jun 21 2005  3:47PM
+101|CL-AP|en|Y|Arica y Parinacota||Feb  8 2014  5:05AM
+101|CL-AR|en|Y|Araucan°a||Jun 21 2005  3:47PM
+101|CL-AT|en|Y|Atacama||Jun 21 2005  3:47PM
+101|CL-BI|en|Y|B°o-B°o||Jun 21 2005  3:47PM
+101|CL-CO|en|Y|Coquimbo||Jun 21 2005  3:47PM
+101|CL-LI|en|Y|Libertador General Bernardo O'Higgins||Jun 21 2005  3:47PM
+101|CL-LL|en|Y|Los Lagos||Jun 21 2005  3:47PM
+101|CL-LR|en|Y|Los R°os||Feb  8 2014  5:05AM
+101|CL-MA|en|Y|Magallanes||Jun 21 2005  3:47PM
+101|CL-ML|en|Y|Maule||Jun 21 2005  3:47PM
+101|CL-RM|en|Y|Regi¢n Metropolitana de Santiago||Jun 21 2005  3:47PM
+101|CL-TA|en|Y|Tarapac†||Jun 21 2005  3:47PM
+101|CL-VS|en|Y|Valpara°so||Jun 21 2005  3:47PM
+101|CN-11|en|Y|Beijing||Jun 21 2005  3:47PM
+101|CN-12|en|Y|Tianjin||Jun 21 2005  3:47PM
+101|CN-13|en|Y|Hebei||Jun 21 2005  3:47PM
+101|CN-14|en|Y|Shanxi||Jun 21 2005  3:47PM
+101|CN-15|en|Y|Nei Mongol||Jun 21 2005  3:47PM
+101|CN-21|en|Y|Liaoning||Jun 21 2005  3:47PM
+101|CN-22|en|Y|Jilin||Jun 21 2005  3:47PM
+101|CN-23|en|Y|Heilongjiang||Jun 21 2005  3:47PM
+101|CN-31|en|Y|Shanghai||Jun 21 2005  3:47PM
+101|CN-32|en|Y|Jiangsu||Jun 21 2005  3:47PM
+101|CN-33|en|Y|Zhejiang||Jun 21 2005  3:47PM
+101|CN-34|en|Y|Anhui||Jun 21 2005  3:47PM
+101|CN-35|en|Y|Fujian||Jun 21 2005  3:47PM
+101|CN-36|en|Y|Jiangxi||Jun 21 2005  3:47PM
+101|CN-37|en|Y|Shandong||Jun 21 2005  3:47PM
+101|CN-41|en|Y|Henan||Jun 21 2005  3:47PM
+101|CN-42|en|Y|Hubei||Jun 21 2005  3:47PM
+101|CN-43|en|Y|Hunan||Jun 21 2005  3:47PM
+101|CN-44|en|Y|Guangdong||Jun 21 2005  3:47PM
+101|CN-45|en|Y|Guangxi||Jun 21 2005  3:47PM
+101|CN-46|en|Y|Hainan||Jun 21 2005  3:47PM
+101|CN-50|en|Y|Chongging||Jun 21 2005  3:47PM
+101|CN-51|en|Y|Sichuan||Jun 21 2005  3:47PM
+101|CN-52|en|Y|Guizhou||Jun 21 2005  3:47PM
+101|CN-53|en|Y|Yunnan||Jun 21 2005  3:47PM
+101|CN-54|en|Y|Xizang||Jun 21 2005  3:47PM
+101|CN-61|en|Y|Shaanxi||Jun 21 2005  3:47PM
+101|CN-62|en|Y|Gansu||Jun 21 2005  3:47PM
+101|CN-63|en|Y|Qinghai||Jun 21 2005  3:47PM
+101|CN-64|en|Y|Ningxia||Jun 21 2005  3:47PM
+101|CN-65|en|Y|Xinjiang||Jun 21 2005  3:47PM
+101|CN-71|en|Y|Taiwan||Jun 21 2005  3:47PM
+101|CN-91|en|Y|Xianggang||Jun 21 2005  3:47PM
+101|CN-92|en|Y|Aomen||Jun 21 2005  3:47PM
+101|CR-A|en|Y|Alajuela||Jun 21 2005  3:47PM
+101|CR-C|en|Y|Cartago||Jun 21 2005  3:47PM
+101|CR-G|en|Y|Guanacaste||Jun 21 2005  3:47PM
+101|CR-H|en|Y|Heredia||Jun 21 2005  3:47PM
+101|CR-L|en|Y|Lim¢n||Jun 21 2005  3:47PM
+101|CR-P|en|Y|Puntarenas||Jun 21 2005  3:47PM
+101|CR-SJ|en|Y|San JosÇ||Jun 21 2005  3:47PM
+101|CS-CG|en|Y|Crna Gora||Jun 21 2005  3:51PM
+101|CS-KM|en|Y|Kosovo-Metohija||Jun 21 2005  3:51PM
+101|CS-SR|en|Y|Srbija||Jun 21 2005  3:51PM
+101|CS-VO|en|Y|Vojvodina||Jun 21 2005  3:51PM
+101|DE-BE|en|Y|Berlin||Jun 21 2005  3:47PM
+101|DE-BR|en|Y|Brandenburg||Jun 21 2005  3:47PM
+101|DE-BW|en|Y|Baden-WÅrttemberg||Jun 21 2005  3:47PM
+101|DE-BY|en|Y|Bayern||Jun 21 2005  3:47PM
+101|DE-HB|en|Y|Bremen||Jun 21 2005  3:47PM
+101|DE-HE|en|Y|Hessen||Jun 21 2005  3:47PM
+101|DE-HH|en|Y|Hamburg||Jun 21 2005  3:47PM
+101|DE-MV|en|Y|Mecklenburg-Vorpommern||Jun 21 2005  3:47PM
+101|DE-NI|en|Y|Niedersachsen||Jun 21 2005  3:47PM
+101|DE-NW|en|Y|Nordrhein-Westfalen||Jun 21 2005  3:47PM
+101|DE-RP|en|Y|Rheinland-Pfalz||Jun 21 2005  3:47PM
+101|DE-SH|en|Y|Schleswig-Holstein||Jun 21 2005  3:47PM
+101|DE-SL|en|Y|Saarland||Jun 21 2005  3:47PM
+101|DE-SN|en|Y|Sachsen||Jun 21 2005  3:47PM
+101|DE-ST|en|Y|Sachsen-Anhalt||Jun 21 2005  3:47PM
+101|DE-TH|en|Y|ThÅringen||Jun 21 2005  3:47PM
+101|EC-A|en|Y|Azuay||Oct 15 2016  1:31AM
+101|EC-B|en|Y|Bol°var||Oct 15 2016  1:31AM
+101|EC-C|en|Y|Carchi||Oct 15 2016  1:31AM
+101|EC-D|en|Y|Orellana||Oct 15 2016  1:31AM
+101|EC-E|en|Y|Esmeraldas||Oct 15 2016  1:31AM
+101|EC-F|en|Y|Ca§ar||Oct 15 2016  1:31AM
+101|EC-G|en|Y|Guayas||Oct 15 2016  1:31AM
+101|EC-H|en|Y|Chimborazo||Oct 15 2016  1:31AM
+101|EC-I|en|Y|Imbabura||Oct 15 2016  1:31AM
+101|EC-L|en|Y|Loja||Oct 15 2016  1:31AM
+101|EC-M|en|Y|Manab°||Oct 15 2016  1:31AM
+101|EC-N|en|Y|Napo||Oct 15 2016  1:31AM
+101|EC-O|en|Y|El Oro||Oct 15 2016  1:31AM
+101|EC-P|en|Y|Pichincha||Oct 15 2016  1:31AM
+101|EC-R|en|Y|Los R°os||Oct 15 2016  1:31AM
+101|EC-S|en|Y|Morona-Santiago||Oct 15 2016  1:31AM
+101|EC-SD|en|Y|Santo Domingo de los Ts†chilas||Oct 15 2016  1:31AM
+101|EC-SE|en|Y|Santa Elena||Oct 15 2016  1:31AM
+101|EC-T|en|Y|Tungurahua||Oct 15 2016  1:31AM
+101|EC-U|en|Y|Sucumb°os||Oct 15 2016  1:31AM
+101|EC-W|en|Y|Gal†pagos||Oct 15 2016  1:31AM
+101|EC-X|en|Y|Cotopaxi||Oct 15 2016  1:31AM
+101|EC-Y|en|Y|Pastaza||Oct 15 2016  1:31AM
+101|EC-Z|en|Y|Zamora-Chinchipe||Oct 15 2016  1:31AM
+101|EE-37|en|Y|Harjumaa||Jun 21 2005  3:47PM
+101|EE-39|en|Y|Hiiumaa||Jun 21 2005  3:47PM
+101|EE-44|en|Y|Ida-Virumaa||Jun 21 2005  3:47PM
+101|EE-49|en|Y|J›gevamaa||Jun 21 2005  3:47PM
+101|EE-51|en|Y|JÑrvamaa||Jun 21 2005  3:47PM
+101|EE-57|en|Y|LÑÑnemaa||Jun 21 2005  3:47PM
+101|EE-59|en|Y|LÑÑne-Virumaa||Jun 21 2005  3:47PM
+101|EE-65|en|Y|P›lvamaa||Jun 21 2005  3:47PM
+101|EE-67|en|Y|PÑrnumaa||Jun 21 2005  3:47PM
+101|EE-70|en|Y|Raplamaa||Jun 21 2005  3:47PM
+101|EE-74|en|Y|Saaremaa||Jun 21 2005  3:47PM
+101|EE-78|en|Y|Tartumaa||Jun 21 2005  3:47PM
+101|EE-82|en|Y|Valgamaa||Jun 21 2005  3:47PM
+101|EE-84|en|Y|Viljandimaa||Jun 21 2005  3:47PM
+101|EE-86|en|Y|V›rumaa||Jun 21 2005  3:47PM
+101|FI-AL|en|Y|Ahvenanmaan Maakunta||Jun 21 2005  3:47PM
+101|FI-ES|en|Y|EtelÑ-Suomen lÑÑni||Jun 21 2005  3:47PM
+101|FI-IS|en|Y|ItÑ-Suomen lÑÑni||Jun 21 2005  3:47PM
+101|FI-LL|en|Y|Lapin lÑÑni||Jun 21 2005  3:47PM
+101|FI-LS|en|Y|LÑnsi-Suomen lÑÑni||Jun 21 2005  3:47PM
+101|FI-OL|en|Y|Oulun lÑÑni||Jun 21 2005  3:47PM
+101|FR-01|en|Y|Ain||Jun 21 2005  3:47PM
+101|FR-02|en|Y|Aisne||Jun 21 2005  3:47PM
+101|FR-03|en|Y|Allier||Jun 21 2005  3:47PM
+101|FR-04|en|Y|Alpes-de-Haute-Provence||Jun 21 2005  3:47PM
+101|FR-05|en|Y|Hautes-Alpes||Jun 21 2005  3:47PM
+101|FR-06|en|Y|Alpes-Maritimes||Jun 21 2005  3:47PM
+101|FR-07|en|Y|Ardäche||Jun 21 2005  3:47PM
+101|FR-08|en|Y|Ardennes||Jun 21 2005  3:47PM
+101|FR-09|en|Y|Ariäge||Jun 21 2005  3:47PM
+101|FR-10|en|Y|Aube||Jun 21 2005  3:47PM
+101|FR-11|en|Y|Aude||Jun 21 2005  3:47PM
+101|FR-12|en|Y|Aveyron||Jun 21 2005  3:47PM
+101|FR-13|en|Y|Bouches-du-Rhìne||Jun 21 2005  3:47PM
+101|FR-14|en|Y|Calvados||Jun 21 2005  3:47PM
+101|FR-15|en|Y|Cantal||Jun 21 2005  3:47PM
+101|FR-16|en|Y|Charente||Jun 21 2005  3:47PM
+101|FR-17|en|Y|Charente-Maritime||Jun 21 2005  3:47PM
+101|FR-18|en|Y|Cher||Jun 21 2005  3:47PM
+101|FR-19|en|Y|Corräze||Jun 21 2005  3:47PM
+101|FR-21|en|Y|Cìte-d'Or||Jun 21 2005  3:47PM
+101|FR-22|en|Y|Cìtes-d'Armor||Jun 21 2005  3:47PM
+101|FR-23|en|Y|Creuse||Jun 21 2005  3:47PM
+101|FR-24|en|Y|Dordogne||Jun 21 2005  3:47PM
+101|FR-25|en|Y|Doubs||Jun 21 2005  3:47PM
+101|FR-26|en|Y|Drìme||Jun 21 2005  3:47PM
+101|FR-27|en|Y|Eure||Jun 21 2005  3:47PM
+101|FR-28|en|Y|Eure-et-Loir||Jun 21 2005  3:47PM
+101|FR-29|en|Y|Finistäre||Jun 21 2005  3:47PM
+101|FR-2A|en|Y|Corse-du-Sud||Jun 21 2005  3:47PM
+101|FR-2B|en|Y|Haute-Corse||Jun 21 2005  3:47PM
+101|FR-30|en|Y|Gard||Jun 21 2005  3:47PM
+101|FR-31|en|Y|Haute-Garonne||Jun 21 2005  3:47PM
+101|FR-32|en|Y|Gers||Jun 21 2005  3:47PM
+101|FR-33|en|Y|Gironde||Jun 21 2005  3:47PM
+101|FR-34|en|Y|HÇrault||Jun 21 2005  3:47PM
+101|FR-35|en|Y|Ille-et-Vilaine||Jun 21 2005  3:47PM
+101|FR-36|en|Y|Indre||Jun 21 2005  3:47PM
+101|FR-37|en|Y|Indre-et-Loire||Jun 21 2005  3:47PM
+101|FR-38|en|Y|Isäre||Jun 21 2005  3:47PM
+101|FR-39|en|Y|Jura||Jun 21 2005  3:47PM
+101|FR-40|en|Y|Landes||Jun 21 2005  3:47PM
+101|FR-41|en|Y|Loir-et-Cher||Jun 21 2005  3:47PM
+101|FR-42|en|Y|Loire||Jun 21 2005  3:47PM
+101|FR-43|en|Y|Haute-Loire||Jun 21 2005  3:47PM
+101|FR-44|en|Y|Loire-Atlantique||Jun 21 2005  3:47PM
+101|FR-45|en|Y|Loiret||Jun 21 2005  3:47PM
+101|FR-46|en|Y|Lot||Jun 21 2005  3:47PM
+101|FR-47|en|Y|Lot-et-Garonne||Jun 21 2005  3:47PM
+101|FR-48|en|Y|Lozäre||Jun 21 2005  3:47PM
+101|FR-49|en|Y|Maine-et-Loire||Jun 21 2005  3:47PM
+101|FR-50|en|Y|Manche||Jun 21 2005  3:47PM
+101|FR-51|en|Y|Marne||Jun 21 2005  3:47PM
+101|FR-52|en|Y|Haute-Marne||Jun 21 2005  3:47PM
+101|FR-53|en|Y|Mayenne||Jun 21 2005  3:47PM
+101|FR-54|en|Y|Meurthe-et-Moselle||Jun 21 2005  3:47PM
+101|FR-55|en|Y|Meuse||Jun 21 2005  3:47PM
+101|FR-56|en|Y|Morbihan||Jun 21 2005  3:47PM
+101|FR-57|en|Y|Moselle||Jun 21 2005  3:47PM
+101|FR-58|en|Y|Niävre||Jun 21 2005  3:47PM
+101|FR-59|en|Y|Nord||Jun 21 2005  3:47PM
+101|FR-60|en|Y|Oise||Jun 21 2005  3:47PM
+101|FR-61|en|Y|Orne||Jun 21 2005  3:47PM
+101|FR-62|en|Y|Pas-de-Calais||Jun 21 2005  3:47PM
+101|FR-63|en|Y|Puy-de-Dìme||Jun 21 2005  3:47PM
+101|FR-64|en|Y|PyrÇnÇes-Atlantiques||Jun 21 2005  3:47PM
+101|FR-65|en|Y|Hautes-PyrÇnÇes||Jun 21 2005  3:47PM
+101|FR-66|en|Y|PyrÇnÇes-Orientales||Jun 21 2005  3:47PM
+101|FR-67|en|Y|Bas-Rhin||Jun 21 2005  3:47PM
+101|FR-68|en|Y|Haut-Rhin||Jun 21 2005  3:47PM
+101|FR-69|en|Y|Rhìne||Jun 21 2005  3:47PM
+101|FR-70|en|Y|Haute-Saìne||Jun 21 2005  3:47PM
+101|FR-71|en|Y|Saìne-et-Loire||Jun 21 2005  3:47PM
+101|FR-72|en|Y|Sarthe||Jun 21 2005  3:47PM
+101|FR-73|en|Y|Savoie||Jun 21 2005  3:47PM
+101|FR-74|en|Y|Haute-Savoie||Jun 21 2005  3:47PM
+101|FR-75|en|Y|Paris||Jun 21 2005  3:47PM
+101|FR-76|en|Y|Seine-Maritime||Jun 21 2005  3:47PM
+101|FR-77|en|Y|Seine-et-Marne||Jun 21 2005  3:47PM
+101|FR-78|en|Y|Yvelines||Jun 21 2005  3:47PM
+101|FR-79|en|Y|Deux-Sävres||Jun 21 2005  3:47PM
+101|FR-80|en|Y|Somme||Jun 21 2005  3:47PM
+101|FR-81|en|Y|Tarn||Jun 21 2005  3:47PM
+101|FR-82|en|Y|Tarn-et-Garonne||Jun 21 2005  3:47PM
+101|FR-83|en|Y|Var||Jun 21 2005  3:47PM
+101|FR-84|en|Y|Vaucluse||Jun 21 2005  3:47PM
+101|FR-85|en|Y|VendÇe||Jun 21 2005  3:47PM
+101|FR-86|en|Y|Vienne||Jun 21 2005  3:47PM
+101|FR-87|en|Y|Haute-Vienne||Jun 21 2005  3:47PM
+101|FR-88|en|Y|Vosges||Jun 21 2005  3:47PM
+101|FR-89|en|Y|Yonne||Jun 21 2005  3:47PM
+101|FR-90|en|Y|Territoire de Belfort||Jun 21 2005  3:47PM
+101|FR-91|en|Y|Essonne||Jun 21 2005  3:47PM
+101|FR-92|en|Y|Hauts-de-Seine||Jun 21 2005  3:47PM
+101|FR-93|en|Y|Seine-Saint-Denis||Jun 21 2005  3:47PM
+101|FR-94|en|Y|Val-de-Marne||Jun 21 2005  3:47PM
+101|FR-95|en|Y|Val-d'Oise||Jun 21 2005  3:47PM
+101|GB-ABD|en|Y|Aberdeenshire||Jun 21 2005  3:47PM
+101|GB-ABE|en|Y|Aberdeen City||Jun 21 2005  3:47PM
+101|GB-AGB|en|Y|Argyll and Bute||Jun 21 2005  3:47PM
+101|GB-AGY|en|Y|Isle of Anglesey||Jun 21 2005  3:47PM
+101|GB-ANS|en|Y|Angus||Jun 21 2005  3:47PM
+101|GB-ANT|en|Y|Antrim||Jun 21 2005  3:47PM
+101|GB-ARD|en|Y|Ards||Jun 21 2005  3:47PM
+101|GB-ARM|en|Y|Armagh||Jun 21 2005  3:47PM
+101|GB-AVN|en|Y|Avon||Jun 21 2005  3:47PM
+101|GB-BAS|en|Y|Bath and North East Somerset||Jun 21 2005  3:47PM
+101|GB-BBD|en|Y|Blackburn with Darwin||Jun 21 2005  3:47PM
+101|GB-BDF|en|Y|Bedfordshire||Jun 21 2005  3:47PM
+101|GB-BDG|en|Y|Barking and Dagenham||Jun 21 2005  3:47PM
+101|GB-BEN|en|Y|Brent||Jun 21 2005  3:47PM
+101|GB-BEX|en|Y|Bexley||Jun 21 2005  3:47PM
+101|GB-BFS|en|Y|Belfast||Jun 21 2005  3:47PM
+101|GB-BGE|en|Y|Bridgend||Jun 21 2005  3:47PM
+101|GB-BGW|en|Y|Blaenau Gwent||Jun 21 2005  3:47PM
+101|GB-BIR|en|Y|Birmingham||Jun 21 2005  3:47PM
+101|GB-BKM|en|Y|Buckinghamshire||Jun 21 2005  3:47PM
+101|GB-BLA|en|Y|Ballymena||Jun 21 2005  3:47PM
+101|GB-BLY|en|Y|Ballymoney||Jun 21 2005  3:47PM
+101|GB-BMH|en|Y|Bournemouth||Jun 21 2005  3:47PM
+101|GB-BNB|en|Y|Banbridge||Jun 21 2005  3:47PM
+101|GB-BNE|en|Y|Barnet||Jun 21 2005  3:47PM
+101|GB-BNH|en|Y|Brighton and Hove||Jun 21 2005  3:47PM
+101|GB-BNS|en|Y|Barnsley||Jun 21 2005  3:47PM
+101|GB-BOL|en|Y|Bolton||Jun 21 2005  3:47PM
+101|GB-BOR|en|Y|Borders Region||Jun 21 2005  3:47PM
+101|GB-BPL|en|Y|Blackpool||Jun 21 2005  3:47PM
+101|GB-BRC|en|Y|Bracknell Forest||Jun 21 2005  3:47PM
+101|GB-BRD|en|Y|Bradford||Jun 21 2005  3:47PM
+101|GB-BRK|en|Y|Berkshire||Jun 21 2005  3:47PM
+101|GB-BRY|en|Y|Bromley||Jun 21 2005  3:47PM
+101|GB-BST|en|Y|Bristol||Jun 21 2005  3:47PM
+101|GB-BUR|en|Y|Bury||Jun 21 2005  3:47PM
+101|GB-CAM|en|Y|Cambridgeshire||Jun 21 2005  3:47PM
+101|GB-CAY|en|Y|Caerphilly||Jun 21 2005  3:47PM
+101|GB-CEN|en|Y|Central Region||Jun 21 2005  3:47PM
+101|GB-CGN|en|Y|Ceredigion||Jun 21 2005  3:47PM
+101|GB-CGV|en|Y|Craigavon||Jun 21 2005  3:47PM
+101|GB-CHA|en|Y|Channel Islands||Jun 21 2005  3:47PM
+101|GB-CHS|en|Y|Cheshire||Jun 21 2005  3:47PM
+101|GB-CKF|en|Y|Carrickfergus||Jun 21 2005  3:47PM
+101|GB-CKT|en|Y|Cookstown||Jun 21 2005  3:47PM
+101|GB-CLD|en|Y|Calderdale||Jun 21 2005  3:47PM
+101|GB-CLK|en|Y|Clackmannanshire||Jun 21 2005  3:47PM
+101|GB-CLR|en|Y|Coleraine||Jun 21 2005  3:47PM
+101|GB-CLV|en|Y|Cleveland||Jun 21 2005  3:47PM
+101|GB-CMA|en|Y|Cumbria||Jun 21 2005  3:47PM
+101|GB-CMD|en|Y|Camden||Jun 21 2005  3:47PM
+101|GB-CMN|en|Y|Carmarthenshire||Jun 21 2005  3:47PM
+101|GB-CON|en|Y|Cornwall||Jun 21 2005  3:47PM
+101|GB-COV|en|Y|Coventry||Jun 21 2005  3:47PM
+101|GB-CRF|en|Y|Cardiff||Jun 21 2005  3:47PM
+101|GB-CRY|en|Y|Croydon||Jun 21 2005  3:47PM
+101|GB-CSR|en|Y|Castlereagh||Jun 21 2005  3:47PM
+101|GB-CWD|en|Y|Clwyd||Jun 21 2005  3:47PM
+101|GB-CWY|en|Y|Conwy||Jun 21 2005  3:47PM
+101|GB-DAL|en|Y|Darlington||Jun 21 2005  3:47PM
+101|GB-DBY|en|Y|Derbyshire||Jun 21 2005  3:47PM
+101|GB-DEN|en|Y|Denbighshire||Jun 21 2005  3:47PM
+101|GB-DER|en|Y|Derby||Jun 21 2005  3:47PM
+101|GB-DEV|en|Y|Devon||Jun 21 2005  3:47PM
+101|GB-DFD|en|Y|Dyfed||Jun 21 2005  3:47PM
+101|GB-DGN|en|Y|Dungannon||Jun 21 2005  3:47PM
+101|GB-DGY|en|Y|Dumfries and Galloway||Jun 21 2005  3:47PM
+101|GB-DNC|en|Y|Doncaster||Jun 21 2005  3:47PM
+101|GB-DND|en|Y|Dundee City||Jun 21 2005  3:47PM
+101|GB-DOR|en|Y|Dorset||Jun 21 2005  3:47PM
+101|GB-DOW|en|Y|Down||Jun 21 2005  3:47PM
+101|GB-DRY|en|Y|Derry||Jun 21 2005  3:47PM
+101|GB-DUD|en|Y|Dudley||Jun 21 2005  3:47PM
+101|GB-DUR|en|Y|Durham||Jun 21 2005  3:47PM
+101|GB-DVV|en|Y|Devon||Jun 21 2005  3:47PM
+101|GB-EAL|en|Y|Ealing||Jun 21 2005  3:47PM
+101|GB-EAY|en|Y|East Ayrshire||Jun 21 2005  3:47PM
+101|GB-EDH|en|Y|Edinburgh||Jun 21 2005  3:47PM
+101|GB-EDU|en|Y|East Dunbartonshire||Jun 21 2005  3:47PM
+101|GB-ELN|en|Y|East Lothian||Jun 21 2005  3:47PM
+101|GB-ELS|en|Y|Eilean Siar||Jun 21 2005  3:47PM
+101|GB-ENF|en|Y|Enfield||Jun 21 2005  3:47PM
+101|GB-ENG|en|Y|England||Jun 21 2005  3:47PM
+101|GB-ERW|en|Y|East Renfrewshire||Jun 21 2005  3:47PM
+101|GB-ERY|en|Y|East Riding of Yorkshire||Jun 21 2005  3:47PM
+101|GB-ESS|en|Y|Essex||Jun 21 2005  3:47PM
+101|GB-ESX|en|Y|East Sussex||Jun 21 2005  3:47PM
+101|GB-FAL|en|Y|Falkirk||Jun 21 2005  3:47PM
+101|GB-FER|en|Y|Fermanagh||Jun 21 2005  3:47PM
+101|GB-FIF|en|Y|Fife||Jun 21 2005  3:47PM
+101|GB-FLN|en|Y|Flintshire||Jun 21 2005  3:47PM
+101|GB-GAT|en|Y|Gateshead||Jun 21 2005  3:47PM
+101|GB-GLG|en|Y|Glasgow City||Jun 21 2005  3:47PM
+101|GB-GLS|en|Y|Gloucestershire||Jun 21 2005  3:47PM
+101|GB-GMP|en|Y|Grampian Region||Jun 21 2005  3:47PM
+101|GB-GNT|en|Y|Gwent||Jun 21 2005  3:47PM
+101|GB-GRE|en|Y|Greenwich||Jun 21 2005  3:47PM
+101|GB-GSY|en|Y|Guernsey||Jun 21 2005  3:47PM
+101|GB-GTL|en|Y|Greater London||Jun 21 2005  3:47PM
+101|GB-GTM|en|Y|Greater Manchester||Jun 21 2005  3:47PM
+101|GB-GWN|en|Y|Gwynedd||Jun 21 2005  3:47PM
+101|GB-HAL|en|Y|Halton||Jun 21 2005  3:47PM
+101|GB-HAM|en|Y|Hampshire||Jun 21 2005  3:47PM
+101|GB-HAV|en|Y|Havering||Jun 21 2005  3:47PM
+101|GB-HCK|en|Y|Hackney||Jun 21 2005  3:47PM
+101|GB-HEF|en|Y|Herefordshire||Jun 21 2005  3:47PM
+101|GB-HIL|en|Y|Hillingdon||Jun 21 2005  3:47PM
+101|GB-HLD|en|Y|Highland||Jun 21 2005  3:47PM
+101|GB-HMF|en|Y|Hammersmith and Fulham||Jun 21 2005  3:47PM
+101|GB-HNS|en|Y|Hounslow||Jun 21 2005  3:47PM
+101|GB-HPL|en|Y|Hartlepool||Jun 21 2005  3:47PM
+101|GB-HRT|en|Y|Hertfordshire||Jun 21 2005  3:47PM
+101|GB-HRW|en|Y|Harrow||Jun 21 2005  3:47PM
+101|GB-HRY|en|Y|Haringley||Jun 21 2005  3:47PM
+101|GB-HUM|en|Y|Humberside||Jun 21 2005  3:47PM
+101|GB-HWR|en|Y|Hereford and Worcester||Jun 21 2005  3:47PM
+101|GB-IOM|en|Y|Isle of Man||Jun 21 2005  3:47PM
+101|GB-IOS|en|Y|Isles of Scilly||Jun 21 2005  3:47PM
+101|GB-IOW|en|Y|Isle of Wight||Jun 21 2005  3:47PM
+101|GB-ISL|en|Y|Islington||Jun 21 2005  3:47PM
+101|GB-IVC|en|Y|Inverclyde||Jun 21 2005  3:47PM
+101|GB-JSY|en|Y|Jersey||Jun 21 2005  3:47PM
+101|GB-KEC|en|Y|Kensington and Chelsea||Jun 21 2005  3:47PM
+101|GB-KEN|en|Y|Kent||Jun 21 2005  3:47PM
+101|GB-KHL|en|Y|Kingston upon Hull||Jun 21 2005  3:47PM
+101|GB-KIR|en|Y|Kirklees||Jun 21 2005  3:47PM
+101|GB-KTT|en|Y|Kingston upon Thames||Jun 21 2005  3:47PM
+101|GB-KWL|en|Y|Knowsley||Jun 21 2005  3:47PM
+101|GB-LAN|en|Y|Lancashire||Jun 21 2005  3:47PM
+101|GB-LBH|en|Y|Lambeth||Jun 21 2005  3:47PM
+101|GB-LCE|en|Y|Leicester||Jun 21 2005  3:47PM
+101|GB-LDS|en|Y|Leeds||Jun 21 2005  3:47PM
+101|GB-LEC|en|Y|Leicestershire||Jun 21 2005  3:47PM
+101|GB-LEW|en|Y|Lewisham||Jun 21 2005  3:47PM
+101|GB-LIN|en|Y|Lincolnshire||Jun 21 2005  3:47PM
+101|GB-LIV|en|Y|Liverpool||Jun 21 2005  3:47PM
+101|GB-LMV|en|Y|Limavady||Jun 21 2005  3:47PM
+101|GB-LND|en|Y|London||Jun 21 2005  3:47PM
+101|GB-LRN|en|Y|Larne||Jun 21 2005  3:47PM
+101|GB-LSB|en|Y|Lisburn||Jun 21 2005  3:47PM
+101|GB-LTN|en|Y|Lothian Region||Jun 21 2005  3:47PM
+101|GB-LUT|en|Y|Luton||Jun 21 2005  3:47PM
+101|GB-MAN|en|Y|Manchester||Jun 21 2005  3:47PM
+101|GB-MDB|en|Y|Middlesbrough||Jun 21 2005  3:47PM
+101|GB-MDW|en|Y|Medway||Jun 21 2005  3:47PM
+101|GB-MFT|en|Y|Magherafelt||Jun 21 2005  3:47PM
+101|GB-MGM|en|Y|Mid Glamorgan||Jun 21 2005  3:47PM
+101|GB-MIK|en|Y|Milton Keynes||Jun 21 2005  3:47PM
+101|GB-MLN|en|Y|Midlothian||Jun 21 2005  3:47PM
+101|GB-MON|en|Y|Monmouthshire||Jun 21 2005  3:47PM
+101|GB-MRT|en|Y|Merton||Jun 21 2005  3:47PM
+101|GB-MRY|en|Y|Moray||Jun 21 2005  3:47PM
+101|GB-MSY|en|Y|Merseyside||Jun 21 2005  3:47PM
+101|GB-MTY|en|Y|Merthyr Tydfil||Jun 21 2005  3:47PM
+101|GB-MYL|en|Y|Moyle||Jun 21 2005  3:47PM
+101|GB-NAY|en|Y|North Ayrshire||Jun 21 2005  3:47PM
+101|GB-NBL|en|Y|Northumberland||Jun 21 2005  3:47PM
+101|GB-NDN|en|Y|North Down||Jun 21 2005  3:47PM
+101|GB-NEL|en|Y|North East Lincolnshire||Jun 21 2005  3:47PM
+101|GB-NET|en|Y|Newcastle upon Tyne||Jun 21 2005  3:47PM
+101|GB-NFK|en|Y|Norfolk||Jun 21 2005  3:47PM
+101|GB-NGM|en|Y|Nottingham||Jun 21 2005  3:47PM
+101|GB-NIR|en|Y|Northern Ireland||Jun 21 2005  3:47PM
+101|GB-NLK|en|Y|North Lanarkshire||Jun 21 2005  3:47PM
+101|GB-NLN|en|Y|North Lincolnshire||Jun 21 2005  3:47PM
+101|GB-NSM|en|Y|North Somerset||Jun 21 2005  3:47PM
+101|GB-NTA|en|Y|Newtonabbey||Jun 21 2005  3:47PM
+101|GB-NTH|en|Y|Northamptonshire||Jun 21 2005  3:47PM
+101|GB-NTL|en|Y|Neath Port Talbot||Jun 21 2005  3:47PM
+101|GB-NTT|en|Y|Nottinghamshire||Jun 21 2005  3:47PM
+101|GB-NTY|en|Y|North Tyneside||Jun 21 2005  3:47PM
+101|GB-NWM|en|Y|Newham||Jun 21 2005  3:47PM
+101|GB-NWP|en|Y|Newport||Jun 21 2005  3:47PM
+101|GB-NYK|en|Y|North Yorkshire||Jun 21 2005  3:47PM
+101|GB-NYM|en|Y|Newry and Mourne||Jun 21 2005  3:47PM
+101|GB-OLD|en|Y|Oldham||Jun 21 2005  3:47PM
+101|GB-OMH|en|Y|Omagh||Jun 21 2005  3:47PM
+101|GB-ORK|en|Y|Orkney Islands||Jun 21 2005  3:47PM
+101|GB-OXF|en|Y|Oxfordshire||Jun 21 2005  3:47PM
+101|GB-PEM|en|Y|Pembrokeshire||Jun 21 2005  3:47PM
+101|GB-PKN|en|Y|Perth and Kinross||Jun 21 2005  3:47PM
+101|GB-PLY|en|Y|Plymouth||Jun 21 2005  3:47PM
+101|GB-POL|en|Y|Poole||Jun 21 2005  3:47PM
+101|GB-POR|en|Y|Portsmouth||Jun 21 2005  3:47PM
+101|GB-POW|en|Y|Powys||Jun 21 2005  3:47PM
+101|GB-PTE|en|Y|Peterborough||Jun 21 2005  3:47PM
+101|GB-RCC|en|Y|Redcar and Cleveland||Jun 21 2005  3:47PM
+101|GB-RCH|en|Y|Rochdale||Jun 21 2005  3:47PM
+101|GB-RCT|en|Y|Rhondda, Cynon, Taff||Jun 21 2005  3:47PM
+101|GB-RDB|en|Y|Redbridge||Jun 21 2005  3:47PM
+101|GB-RDG|en|Y|Reading||Jun 21 2005  3:47PM
+101|GB-RFW|en|Y|Renfrewshire||Jun 21 2005  3:47PM
+101|GB-RIC|en|Y|Richmond upon Thames||Jun 21 2005  3:47PM
+101|GB-ROT|en|Y|Rotherham||Jun 21 2005  3:47PM
+101|GB-RUT|en|Y|Rutland||Jun 21 2005  3:47PM
+101|GB-SAW|en|Y|Sandwell||Jun 21 2005  3:47PM
+101|GB-SAY|en|Y|South Ayrshire||Jun 21 2005  3:47PM
+101|GB-SCB|en|Y|Scottish Borders||Jun 21 2005  3:47PM
+101|GB-SCT|en|Y|Scotland||Jun 21 2005  3:47PM
+101|GB-SFK|en|Y|Suffolk||Jun 21 2005  3:47PM
+101|GB-SFT|en|Y|Sefton||Jun 21 2005  3:47PM
+101|GB-SGC|en|Y|South Gloucestershire||Jun 21 2005  3:47PM
+101|GB-SGM|en|Y|South Glamorgan||Jun 21 2005  3:47PM
+101|GB-SHF|en|Y|Sheffield||Jun 21 2005  3:47PM
+101|GB-SHN|en|Y|St. Helens||Jun 21 2005  3:47PM
+101|GB-SHR|en|Y|Shropshire||Jun 21 2005  3:47PM
+101|GB-SKP|en|Y|Stockport||Jun 21 2005  3:47PM
+101|GB-SLF|en|Y|Salford||Jun 21 2005  3:47PM
+101|GB-SLG|en|Y|Slough||Jun 21 2005  3:47PM
+101|GB-SLK|en|Y|South Lanarkshire||Jun 21 2005  3:47PM
+101|GB-SND|en|Y|Sunderland||Jun 21 2005  3:47PM
+101|GB-SOL|en|Y|Solihull||Jun 21 2005  3:47PM
+101|GB-SOM|en|Y|Somerset||Jun 21 2005  3:47PM
+101|GB-SOS|en|Y|Southend-on-Sea||Jun 21 2005  3:47PM
+101|GB-SRY|en|Y|Surrey||Jun 21 2005  3:47PM
+101|GB-STB|en|Y|Strabane||Jun 21 2005  3:47PM
+101|GB-STD|en|Y|Strathclyde Region||Jun 21 2005  3:47PM
+101|GB-STE|en|Y|Stoke-on-Trent||Jun 21 2005  3:47PM
+101|GB-STG|en|Y|Stirling||Jun 21 2005  3:47PM
+101|GB-STH|en|Y|Southampton||Jun 21 2005  3:47PM
+101|GB-STN|en|Y|Sutton||Jun 21 2005  3:47PM
+101|GB-STS|en|Y|Staffordshire||Jun 21 2005  3:47PM
+101|GB-STT|en|Y|Stockton-on-Tees||Jun 21 2005  3:47PM
+101|GB-STY|en|Y|South Tyneside||Jun 21 2005  3:47PM
+101|GB-SWA|en|Y|Swansea||Jun 21 2005  3:47PM
+101|GB-SWD|en|Y|Swindon||Jun 21 2005  3:47PM
+101|GB-SWK|en|Y|Southwark||Jun 21 2005  3:47PM
+101|GB-SYK|en|Y|South Yorkshire||Jun 21 2005  3:47PM
+101|GB-TAM|en|Y|Tameside||Jun 21 2005  3:47PM
+101|GB-TAY|en|Y|Tayside Region||Jun 21 2005  3:47PM
+101|GB-TFW|en|Y|Telford and Wrekin||Jun 21 2005  3:47PM
+101|GB-THR|en|Y|Thurrock||Jun 21 2005  3:47PM
+101|GB-TOB|en|Y|Torbay||Jun 21 2005  3:47PM
+101|GB-TOF|en|Y|Torfaen||Jun 21 2005  3:47PM
+101|GB-TRF|en|Y|Trafford||Jun 21 2005  3:47PM
+101|GB-TWH|en|Y|Tower Hamlets||Jun 21 2005  3:47PM
+101|GB-TWR|en|Y|Tyne and Wear||Jun 21 2005  3:47PM
+101|GB-VGL|en|Y|Vale of Glamorgan||Jun 21 2005  3:47PM
+101|GB-WAR|en|Y|Warwickshire||Jun 21 2005  3:47PM
+101|GB-WBK|en|Y|West Berkshire||Jun 21 2005  3:47PM
+101|GB-WDU|en|Y|West Dunbartonshire||Jun 21 2005  3:47PM
+101|GB-WFT|en|Y|Waltham Forest||Jun 21 2005  3:47PM
+101|GB-WGM|en|Y|West Glamorgan||Jun 21 2005  3:47PM
+101|GB-WGN|en|Y|Wigan||Jun 21 2005  3:47PM
+101|GB-WIL|en|Y|Wiltshire||Jun 21 2005  3:47PM
+101|GB-WIS|en|Y|Western Isles||Jun 21 2005  3:47PM
+101|GB-WLF|en|Y|Wakefield||Jun 21 2005  3:47PM
+101|GB-WLL|en|Y|Walsall||Jun 21 2005  3:47PM
+101|GB-WLN|en|Y|West Lothian||Jun 21 2005  3:47PM
+101|GB-WLS|en|Y|Wales||Jun 21 2005  3:47PM
+101|GB-WLV|en|Y|Wolverhampton||Jun 21 2005  3:47PM
+101|GB-WMD|en|Y|West Midlands||Jun 21 2005  3:47PM
+101|GB-WND|en|Y|Wandsworth||Jun 21 2005  3:47PM
+101|GB-WNM|en|Y|Windsor and Maidenhead||Jun 21 2005  3:47PM
+101|GB-WOK|en|Y|Wokingham||Jun 21 2005  3:47PM
+101|GB-WOR|en|Y|Worcestershire||Jun 21 2005  3:47PM
+101|GB-WRL|en|Y|Wirral||Jun 21 2005  3:47PM
+101|GB-WRT|en|Y|Warrington||Jun 21 2005  3:47PM
+101|GB-WRX|en|Y|Wrexham||Jun 21 2005  3:47PM
+101|GB-WSM|en|Y|Westminster||Jun 21 2005  3:47PM
+101|GB-WSX|en|Y|West Sussex||Jun 21 2005  3:47PM
+101|GB-WYK|en|Y|West Yorkshire||Jun 21 2005  3:47PM
+101|GB-YOR|en|Y|York||Jun 21 2005  3:47PM
+101|GB-ZET|en|Y|Shetland Islands||Jun 21 2005  3:47PM
+101|GW-BA|en|Y|Bafat†||Jun 21 2005  3:47PM
+101|GW-BL|en|Y|Bolama||Jun 21 2005  3:47PM
+101|GW-BM|en|Y|Biombo||Jun 21 2005  3:47PM
+101|GW-BS|en|Y|Bissau||Jun 21 2005  3:47PM
+101|GW-CA|en|Y|Cacheu||Jun 21 2005  3:47PM
+101|GW-GA|en|Y|Gab£||Jun 21 2005  3:47PM
+101|GW-OI|en|Y|Oio||Jun 21 2005  3:47PM
+101|GW-QU|en|Y|Quinara||Jun 21 2005  3:47PM
+101|GW-TO|en|Y|Tombali||Jun 21 2005  3:47PM
+101|IN-AN|en|Y|Andaman and Nicobar Islands||Jun 21 2005  3:47PM
+101|IN-AP|en|Y|Andhra Pradesh||Jun 21 2005  3:47PM
+101|IN-AR|en|Y|Arunachal Pradesh||Jun 21 2005  3:47PM
+101|IN-AS|en|Y|Assam||Jun 21 2005  3:47PM
+101|IN-BR|en|Y|Bihar||Jun 21 2005  3:47PM
+101|IN-CH|en|Y|Chandigarh||Jun 21 2005  3:47PM
+101|IN-CT|en|Y|Chhattisgarh||Jun 21 2005  3:47PM
+101|IN-DD|en|Y|Daman and Diu||Jun 21 2005  3:47PM
+101|IN-DL|en|Y|Delhi||Jun 21 2005  3:47PM
+101|IN-DN|en|Y|Dadra and Nagar Haveli||Jun 21 2005  3:47PM
+101|IN-GA|en|Y|Goa||Jun 21 2005  3:47PM
+101|IN-GJ|en|Y|Gujarat||Jun 21 2005  3:47PM
+101|IN-HP|en|Y|Himachal Pradesh||Jun 21 2005  3:47PM
+101|IN-HR|en|Y|Haryana||Jun 21 2005  3:47PM
+101|IN-JH|en|Y|Jharkhand||Jun 21 2005  3:47PM
+101|IN-JK|en|Y|Jammu and Kashmir||Jun 21 2005  3:47PM
+101|IN-KA|en|Y|Karnataka||Jun 21 2005  3:47PM
+101|IN-KL|en|Y|Kerala||Jun 21 2005  3:47PM
+101|IN-LD|en|Y|Lakshadweep||Jun 21 2005  3:47PM
+101|IN-MH|en|Y|Maharashtra||Jun 21 2005  3:47PM
+101|IN-ML|en|Y|Meghalaya||Jun 21 2005  3:47PM
+101|IN-MN|en|Y|Manipur||Jun 21 2005  3:47PM
+101|IN-MP|en|Y|Madhya Pradesh||Jun 21 2005  3:47PM
+101|IN-MZ|en|Y|Mizoram||Jun 21 2005  3:47PM
+101|IN-NL|en|Y|Nagaland||Jun 21 2005  3:47PM
+101|IN-OR|en|Y|Orissa||Jun 21 2005  3:47PM
+101|IN-PB|en|Y|Punjab||Jun 21 2005  3:47PM
+101|IN-PY|en|Y|Pondicherry||Jun 21 2005  3:47PM
+101|IN-RJ|en|Y|Rajasthan||Jun 21 2005  3:47PM
+101|IN-SK|en|Y|Sikkim||Jun 21 2005  3:47PM
+101|IN-TN|en|Y|Tamil Nadu||Jun 21 2005  3:47PM
+101|IN-TR|en|Y|Tripura||Jun 21 2005  3:47PM
+101|IN-UL|en|Y|Uttaranchal||Jun 21 2005  3:47PM
+101|IN-UP|en|Y|Uttar Pradesh||Jun 21 2005  3:47PM
+101|IN-WB|en|Y|West Bengal||Jun 21 2005  3:47PM
+101|JP-01|en|Y|Hokkaido||Jun 21 2005  3:47PM
+101|JP-02|en|Y|Aomori||Jun 21 2005  3:47PM
+101|JP-03|en|Y|Iwate||Jun 21 2005  3:47PM
+101|JP-04|en|Y|Miyagi||Jun 21 2005  3:47PM
+101|JP-05|en|Y|Akita||Jun 21 2005  3:47PM
+101|JP-06|en|Y|Yamagata||Jun 21 2005  3:47PM
+101|JP-07|en|Y|Hukusima (Fukushima)||Jun 21 2005  3:47PM
+101|JP-08|en|Y|Ibaraki||Jun 21 2005  3:47PM
+101|JP-09|en|Y|Totigi (Tochigi)||Jun 21 2005  3:47PM
+101|JP-10|en|Y|Gunma||Jun 21 2005  3:47PM
+101|JP-11|en|Y|Saitama||Jun 21 2005  3:47PM
+101|JP-12|en|Y|Tiba (Chiba)||Jun 21 2005  3:47PM
+101|JP-13|en|Y|Tokyo||Jun 21 2005  3:47PM
+101|JP-14|en|Y|Kanagawa||Jun 21 2005  3:47PM
+101|JP-15|en|Y|Niigata||Jun 21 2005  3:47PM
+101|JP-16|en|Y|Toyama||Jun 21 2005  3:47PM
+101|JP-17|en|Y|Isikawa (Ishikawa)||Jun 21 2005  3:47PM
+101|JP-18|en|Y|Hukui (Fukui)||Jun 21 2005  3:47PM
+101|JP-19|en|Y|Yamanasi (Yamanashi)||Jun 21 2005  3:47PM
+101|JP-20|en|Y|Nagano||Jun 21 2005  3:47PM
+101|JP-21|en|Y|Gihu (Gifu)||Jun 21 2005  3:47PM
+101|JP-22|en|Y|Sizuoka (Shizuoka)||Jun 21 2005  3:47PM
+101|JP-23|en|Y|Aiti (Aichi)||Jun 21 2005  3:47PM
+101|JP-24|en|Y|Mie||Jun 21 2005  3:47PM
+101|JP-25|en|Y|Siga (Shiga)||Jun 21 2005  3:47PM
+101|JP-26|en|Y|Kyoto||Jun 21 2005  3:47PM
+101|JP-27|en|Y|Osaka||Jun 21 2005  3:47PM
+101|JP-28|en|Y|Hyogo||Jun 21 2005  3:47PM
+101|JP-29|en|Y|Nara||Jun 21 2005  3:47PM
+101|JP-30|en|Y|Wakayama||Jun 21 2005  3:47PM
+101|JP-31|en|Y|Tottori||Jun 21 2005  3:47PM
+101|JP-32|en|Y|Simane (Shimane)||Jun 21 2005  3:47PM
+101|JP-33|en|Y|Okayama||Jun 21 2005  3:47PM
+101|JP-34|en|Y|Hirosima (Hiroshima)||Jun 21 2005  3:47PM
+101|JP-35|en|Y|Yamaguti (Yamaguchi)||Jun 21 2005  3:47PM
+101|JP-36|en|Y|Tokusima (Tokushima)||Jun 21 2005  3:47PM
+101|JP-37|en|Y|Kagawa||Jun 21 2005  3:47PM
+101|JP-38|en|Y|Ehime||Jun 21 2005  3:47PM
+101|JP-39|en|Y|Koti (Kochi)||Jun 21 2005  3:47PM
+101|JP-40|en|Y|Hukuoka (Fukuoka)||Jun 21 2005  3:47PM
+101|JP-41|en|Y|Saga||Jun 21 2005  3:47PM
+101|JP-42|en|Y|Nagasaki||Jun 21 2005  3:47PM
+101|JP-43|en|Y|Kumamoto||Jun 21 2005  3:47PM
+101|JP-44|en|Y|Oita||Jun 21 2005  3:47PM
+101|JP-45|en|Y|Miyazaki||Jun 21 2005  3:47PM
+101|JP-46|en|Y|Kagosima (Kagoshima)||Jun 21 2005  3:47PM
+101|JP-47|en|Y|Okinawa||Jun 21 2005  3:47PM
+101|KM-A|en|Y|Anjouan||Jun 21 2005  3:47PM
+101|KM-G|en|Y|Grande Comore||Jun 21 2005  3:47PM
+101|KM-M|en|Y|MohÇli||Jun 21 2005  3:47PM
+101|LV-AI|en|Y|Aizkraukles Aprinkis||Jun 21 2005  3:47PM
+101|LV-AL|en|Y|Alukones Aprinkis||Jun 21 2005  3:47PM
+101|LV-BL|en|Y|Balvu Aprinkis||Jun 21 2005  3:47PM
+101|LV-BU|en|Y|Bauskas Aprinkis||Jun 21 2005  3:47PM
+101|LV-CE|en|Y|Cesu Aprinkis||Jun 21 2005  3:47PM
+101|LV-DA|en|Y|Daugavpils Aprinki||Jun 21 2005  3:47PM
+101|LV-DO|en|Y|Dobeles Aprinkis||Jun 21 2005  3:47PM
+101|LV-DW|en|Y|Daugavpils||Jun 21 2005  3:47PM
+101|LV-GU|en|Y|Gulbenes Aprinkis||Jun 21 2005  3:47PM
+101|LV-JEL|en|Y|Jelgava||Jun 21 2005  3:47PM
+101|LV-JK|en|Y|Jekabpils Aprinkis||Jun 21 2005  3:47PM
+101|LV-JL|en|Y|Jelgavas Aprinkis||Jun 21 2005  3:47PM
+101|LV-JUR|en|Y|Jurmala||Jun 21 2005  3:47PM
+101|LV-KR|en|Y|Kraslavas Aprinkis||Jun 21 2005  3:47PM
+101|LV-KU|en|Y|Kuldigas Aprinkis||Jun 21 2005  3:47PM
+101|LV-LE|en|Y|Liepdjas Aprinkis||Jun 21 2005  3:47PM
+101|LV-LM|en|Y|Limba?u Aprinkis||Jun 21 2005  3:47PM
+101|LV-LPX|en|Y|Liepdja||Jun 21 2005  3:47PM
+101|LV-LU|en|Y|Ludzas Aprinkis||Jun 21 2005  3:47PM
+101|LV-MA|en|Y|Madonas Aprinkis||Jun 21 2005  3:47PM
+101|LV-OG|en|Y|Ogres Aprinkis||Jun 21 2005  3:47PM
+101|LV-PR|en|Y|Preilu Aprinkis||Jun 21 2005  3:47PM
+101|LV-RE|en|Y|Rezeknes Aprinkis||Jun 21 2005  3:47PM
+101|LV-REZ|en|Y|Rezekne||Jun 21 2005  3:47PM
+101|LV-RI|en|Y|Rigas Aprinkis||Jun 21 2005  3:47PM
+101|LV-RIX|en|Y|Riga||Jun 21 2005  3:47PM
+101|LV-SA|en|Y|Saldus Aprinkis||Jun 21 2005  3:47PM
+101|LV-TA|en|Y|Talsu Aprinkis||Jun 21 2005  3:47PM
+101|LV-TU|en|Y|Tukuma Aprinkis||Jun 21 2005  3:47PM
+101|LV-VE|en|Y|Ventspils Aprinkis||Jun 21 2005  3:47PM
+101|LV-VEN|en|Y|Ventspils||Jun 21 2005  3:47PM
+101|LV-VK|en|Y|Valkas Aprinkis||Jun 21 2005  3:47PM
+101|LV-VM|en|Y|Valmieras Aprinkis||Jun 21 2005  3:47PM
+101|MX-AGU|en|Y|Aguascalientes||Jun 21 2005  3:47PM
+101|MX-BCN|en|Y|Baja California||Jun 21 2005  3:47PM
+101|MX-BCS|en|Y|Baja California Sur||Jun 21 2005  3:47PM
+101|MX-CAM|en|Y|Campeche||Jun 21 2005  3:47PM
+101|MX-CHH|en|Y|Chihuahua||Jun 21 2005  3:47PM
+101|MX-CHP|en|Y|Chiapas||Jun 21 2005  3:47PM
+101|MX-COA|en|Y|Coahuila||Jun 21 2005  3:47PM
+101|MX-COL|en|Y|Colima||Jun 21 2005  3:47PM
+101|MX-DF|en|Y|Distrito Federal||Jun 21 2005  3:47PM
+101|MX-DUR|en|Y|Durango||Jun 21 2005  3:47PM
+101|MX-GRO|en|Y|Guerrero||Jun 21 2005  3:47PM
+101|MX-GUA|en|Y|Guanajuato||Jun 21 2005  3:47PM
+101|MX-HID|en|Y|Hidalgo||Jun 21 2005  3:47PM
+101|MX-JAL|en|Y|Jalisco||Jun 21 2005  3:47PM
+101|MX-MEX|en|Y|MÇxico||Jun 21 2005  3:47PM
+101|MX-MIC|en|Y|Michoac†n||Jun 21 2005  3:47PM
+101|MX-MOR|en|Y|Morelos||Jun 21 2005  3:47PM
+101|MX-NAY|en|Y|Nayarit||Jun 21 2005  3:47PM
+101|MX-NLE|en|Y|Nuevo Le¢n||Jun 21 2005  3:47PM
+101|MX-OAX|en|Y|Oaxaca||Jun 21 2005  3:47PM
+101|MX-PUE|en|Y|Puebla||Jun 21 2005  3:47PM
+101|MX-QUE|en|Y|QuerÇtaro||Jun 21 2005  3:47PM
+101|MX-ROO|en|Y|Quintana Roo||Jun 21 2005  3:47PM
+101|MX-SIN|en|Y|Sinaloa||Jun 21 2005  3:47PM
+101|MX-SLP|en|Y|San Luis Potos°||Jun 21 2005  3:47PM
+101|MX-SON|en|Y|Sonora||Jun 21 2005  3:47PM
+101|MX-TAB|en|Y|Tabasco||Jun 21 2005  3:47PM
+101|MX-TAM|en|Y|Tamaulipas||Jun 21 2005  3:47PM
+101|MX-TLA|en|Y|Tlaxcala||Jun 21 2005  3:47PM
+101|MX-VER|en|Y|Veracruz||Jun 21 2005  3:47PM
+101|MX-YUC|en|Y|Yucat†n||Jun 21 2005  3:47PM
+101|MX-ZAC|en|Y|Zacatecas||Jun 21 2005  3:47PM
+101|NO-01|en|Y|›stfold||Jun 21 2005  3:47PM
+101|NO-02|en|Y|Akershus||Jun 21 2005  3:47PM
+101|NO-03|en|Y|Oslo||Jun 21 2005  3:47PM
+101|NO-04|en|Y|Hedmark||Jun 21 2005  3:47PM
+101|NO-05|en|Y|Oppland||Jun 21 2005  3:47PM
+101|NO-06|en|Y|Buskerud||Jun 21 2005  3:47PM
+101|NO-07|en|Y|Vestfold||Jun 21 2005  3:47PM
+101|NO-08|en|Y|Telemark||Jun 21 2005  3:47PM
+101|NO-09|en|Y|Aust-Agder||Jun 21 2005  3:47PM
+101|NO-10|en|Y|Vest-Agder||Jun 21 2005  3:47PM
+101|NO-11|en|Y|Rogaland||Jun 21 2005  3:47PM
+101|NO-12|en|Y|Hordaland||Jun 21 2005  3:47PM
+101|NO-14|en|Y|Sogn og Fjordane||Jun 21 2005  3:47PM
+101|NO-15|en|Y|M›re og Romsdal||Jun 21 2005  3:47PM
+101|NO-16|en|Y|S›r-Tr›ndelag||Jun 21 2005  3:47PM
+101|NO-17|en|Y|Nord-Tr›ndelag||Jun 21 2005  3:47PM
+101|NO-18|en|Y|Nordland||Jun 21 2005  3:47PM
+101|NO-19|en|Y|Troms||Jun 21 2005  3:47PM
+101|NO-20|en|Y|Finnmark||Jun 21 2005  3:47PM
+101|NZ-AUK|en|Y|Auckland||Jun 21 2005  3:47PM
+101|NZ-BOP|en|Y|Bay of Plenty||Jun 21 2005  3:47PM
+101|NZ-CAN|en|Y|Canterbury||Jun 21 2005  3:47PM
+101|NZ-GIS|en|Y|Gisborne||Jun 21 2005  3:47PM
+101|NZ-HKB|en|Y|Hawkes's Bay||Jun 21 2005  3:47PM
+101|NZ-MBH|en|Y|Marlborough||Jun 21 2005  3:47PM
+101|NZ-MWT|en|Y|Manawatu-Wanganui||Jun 21 2005  3:47PM
+101|NZ-NSN|en|Y|Nelson||Jun 21 2005  3:47PM
+101|NZ-NTL|en|Y|Northland||Jun 21 2005  3:47PM
+101|NZ-OTA|en|Y|Otago||Jun 21 2005  3:47PM
+101|NZ-STL|en|Y|Southland||Jun 21 2005  3:47PM
+101|NZ-TAS|en|Y|Tasman||Jun 21 2005  3:47PM
+101|NZ-TKI|en|Y|Taranaki||Jun 21 2005  3:47PM
+101|NZ-WGN|en|Y|Wellington||Jun 21 2005  3:47PM
+101|NZ-WKO|en|Y|Waikato||Jun 21 2005  3:47PM
+101|NZ-WTC|en|Y|West Coast||Jun 21 2005  3:47PM
+101|PT-1|en|Y|Aveiro||Jun 21 2005  3:47PM
+101|PT-10|en|Y|Leiria||Jun 21 2005  3:47PM
+101|PT-11|en|Y|Lisboa||Jun 21 2005  3:47PM
+101|PT-12|en|Y|Portalegre||Jun 21 2005  3:47PM
+101|PT-13|en|Y|Porto||Jun 21 2005  3:47PM
+101|PT-14|en|Y|SantarÇm||Jun 21 2005  3:47PM
+101|PT-15|en|Y|Set£bal||Jun 21 2005  3:47PM
+101|PT-16|en|Y|Viana do Castelo||Jun 21 2005  3:47PM
+101|PT-17|en|Y|Vila Real||Jun 21 2005  3:47PM
+101|PT-18|en|Y|Viseu||Jun 21 2005  3:47PM
+101|PT-2|en|Y|Beja||Jun 21 2005  3:47PM
+101|PT-20|en|Y|Regi›o Aut¢noma dos Aáores||Jun 21 2005  3:47PM
+101|PT-3|en|Y|Braga||Jun 21 2005  3:47PM
+101|PT-30|en|Y|Regi›o Aut¢noma da Madeira||Jun 21 2005  3:47PM
+101|PT-4|en|Y|Braganáa||Jun 21 2005  3:47PM
+101|PT-5|en|Y|Castelo Branco||Jun 21 2005  3:47PM
+101|PT-6|en|Y|Coimbra||Jun 21 2005  3:47PM
+101|PT-7|en|Y|êvora||Jun 21 2005  3:47PM
+101|PT-8|en|Y|Faro||Jun 21 2005  3:47PM
+101|PT-9|en|Y|Guarda||Jun 21 2005  3:47PM
+101|SE-AB|en|Y|Stockholms lÑn||Jun 21 2005  3:47PM
+101|SE-AC|en|Y|VÑsterbottens lÑn||Jun 21 2005  3:47PM
+101|SE-BD|en|Y|Norrbottens lÑn||Jun 21 2005  3:47PM
+101|SE-C|en|Y|Uppsala lÑn||Jun 21 2005  3:47PM
+101|SE-D|en|Y|Sîdermanlands lÑn||Jun 21 2005  3:47PM
+101|SE-E|en|Y|ôstergîtlands lÑn||Jun 21 2005  3:47PM
+101|SE-F|en|Y|Jînkîpings lÑn||Jun 21 2005  3:47PM
+101|SE-G|en|Y|Kronobergs lÑn||May 21 2011  1:03AM
+101|SE-H|en|Y|Kalmar lÑn||Jun 21 2005  3:47PM
+101|SE-I|en|Y|Gotlands lÑn||Jun 21 2005  3:47PM
+101|SE-K|en|Y|Blekinge lÑn||Jun 21 2005  3:47PM
+101|SE-M|en|Y|SkÜne lÑn||Jun 21 2005  3:47PM
+101|SE-N|en|Y|Hallands lÑn||Jun 21 2005  3:47PM
+101|SE-O|en|Y|VÑstra Gîtalands lÑn||Jun 21 2005  3:47PM
+101|SE-S|en|Y|VÑrmlands lÑn||Jun 21 2005  3:47PM
+101|SE-T|en|Y|ôrebro lÑn||Jun 21 2005  3:47PM
+101|SE-U|en|Y|VÑstmanlands lÑn||Jun 21 2005  3:47PM
+101|SE-W|en|Y|Dalarnes lÑn||Jun 21 2005  3:47PM
+101|SE-X|en|Y|GÑvleborgs lÑn||Jun 21 2005  3:47PM
+101|SE-Y|en|Y|VÑsternorrlands lÑn||Jun 21 2005  3:47PM
+101|SE-Z|en|Y|JÑmtlands lÑn||Jun 21 2005  3:47PM
+101|TR-01|en|Y|Adana||Jun 21 2005  3:47PM
+101|TR-02|en|Y|Adiyaman||Jun 21 2005  3:47PM
+101|TR-03|en|Y|Afyon||Jun 21 2005  3:47PM
+101|TR-04|en|Y|Agri||Jun 21 2005  3:47PM
+101|TR-05|en|Y|Amasya||Jun 21 2005  3:47PM
+101|TR-06|en|Y|Ankara||Jun 21 2005  3:47PM
+101|TR-07|en|Y|Antalya||Jun 21 2005  3:47PM
+101|TR-08|en|Y|Artvin||Jun 21 2005  3:47PM
+101|TR-09|en|Y|Aydin||Jun 21 2005  3:47PM
+101|TR-10|en|Y|Balikesir||Jun 21 2005  3:47PM
+101|TR-11|en|Y|Bilecik||Jun 21 2005  3:47PM
+101|TR-12|en|Y|Bingol||Jun 21 2005  3:47PM
+101|TR-13|en|Y|Bitlis||Jun 21 2005  3:47PM
+101|TR-14|en|Y|Bolu||Jun 21 2005  3:47PM
+101|TR-15|en|Y|Burdur||Jun 21 2005  3:47PM
+101|TR-16|en|Y|Bursa||Jun 21 2005  3:47PM
+101|TR-17|en|Y|Canakkale||Jun 21 2005  3:47PM
+101|TR-18|en|Y|Cankiri||Jun 21 2005  3:47PM
+101|TR-19|en|Y|Corum||Jun 21 2005  3:47PM
+101|TR-20|en|Y|Denizli||Jun 21 2005  3:47PM
+101|TR-21|en|Y|Diyarbakir||Jun 21 2005  3:47PM
+101|TR-22|en|Y|Edirne||Jun 21 2005  3:47PM
+101|TR-23|en|Y|Elazig||Jun 21 2005  3:47PM
+101|TR-24|en|Y|Erzincan||Jun 21 2005  3:47PM
+101|TR-25|en|Y|Erzurum||Jun 21 2005  3:47PM
+101|TR-26|en|Y|Eskisehir||Jun 21 2005  3:47PM
+101|TR-27|en|Y|Gaziantep||Jun 21 2005  3:47PM
+101|TR-28|en|Y|Giresun||Jun 21 2005  3:47PM
+101|TR-29|en|Y|GÅmÅshane||Jun 21 2005  3:47PM
+101|TR-30|en|Y|Hakkari||Jun 21 2005  3:47PM
+101|TR-31|en|Y|Hatay||Jun 21 2005  3:47PM
+101|TR-32|en|Y|Isparta||Jun 21 2005  3:47PM
+101|TR-33|en|Y|Icel||Jun 21 2005  3:47PM
+101|TR-34|en|Y|Istanbul||Jun 21 2005  3:47PM
+101|TR-35|en|Y|Izmir||Jun 21 2005  3:47PM
+101|TR-36|en|Y|Kars||Jun 21 2005  3:47PM
+101|TR-37|en|Y|Kastamonu||Jun 21 2005  3:47PM
+101|TR-38|en|Y|Kayseri||Jun 21 2005  3:47PM
+101|TR-39|en|Y|Kirklareli||Jun 21 2005  3:47PM
+101|TR-40|en|Y|Kirsehir||Jun 21 2005  3:47PM
+101|TR-41|en|Y|Kocaeli||Jun 21 2005  3:47PM
+101|TR-42|en|Y|Konya||Jun 21 2005  3:47PM
+101|TR-43|en|Y|KÅtahya||Jun 21 2005  3:47PM
+101|TR-44|en|Y|Malatya||Jun 21 2005  3:47PM
+101|TR-45|en|Y|Manisa||Jun 21 2005  3:47PM
+101|TR-46|en|Y|Kahramanmaras||Jun 21 2005  3:47PM
+101|TR-47|en|Y|Mardin||Jun 21 2005  3:47PM
+101|TR-48|en|Y|Mugla||Jun 21 2005  3:47PM
+101|TR-49|en|Y|Mus||Jun 21 2005  3:47PM
+101|TR-50|en|Y|Nevsehir||Jun 21 2005  3:47PM
+101|TR-51|en|Y|Nigde||Jun 21 2005  3:47PM
+101|TR-52|en|Y|Ordu||Jun 21 2005  3:47PM
+101|TR-53|en|Y|Rize||Jun 21 2005  3:47PM
+101|TR-54|en|Y|Sakarya||Jun 21 2005  3:47PM
+101|TR-55|en|Y|Samsun||Jun 21 2005  3:47PM
+101|TR-56|en|Y|Siirt||Jun 21 2005  3:47PM
+101|TR-57|en|Y|Sinop||Jun 21 2005  3:47PM
+101|TR-58|en|Y|Sivas||Jun 21 2005  3:47PM
+101|TR-59|en|Y|Tekirdag||Jun 21 2005  3:47PM
+101|TR-60|en|Y|Tokat||Jun 21 2005  3:47PM
+101|TR-61|en|Y|Trabzon||Jun 21 2005  3:47PM
+101|TR-62|en|Y|Tunceli||Jun 21 2005  3:47PM
+101|TR-63|en|Y|Sanliurfa||Jun 21 2005  3:47PM
+101|TR-64|en|Y|Usak||Jun 21 2005  3:47PM
+101|TR-65|en|Y|Van||Jun 21 2005  3:47PM
+101|TR-66|en|Y|Yozgat||Jun 21 2005  3:47PM
+101|TR-67|en|Y|Zonguldak||Jun 21 2005  3:47PM
+101|TR-68|en|Y|Aksaray||Jun 21 2005  3:47PM
+101|TR-69|en|Y|Bayburt||Jun 21 2005  3:47PM
+101|TR-70|en|Y|Karaman||Jun 21 2005  3:47PM
+101|TR-71|en|Y|Kirkkale||Jun 21 2005  3:47PM
+101|TR-72|en|Y|Batman||Jun 21 2005  3:47PM
+101|TR-73|en|Y|Sirnak||Jun 21 2005  3:47PM
+101|TR-74|en|Y|Bartin||Jun 21 2005  3:47PM
+101|TR-75|en|Y|Ardahan||Jun 21 2005  3:47PM
+101|TR-76|en|Y|Igdir||Jun 21 2005  3:47PM
+101|TR-77|en|Y|Yalova||Jun 21 2005  3:47PM
+101|TR-78|en|Y|Karabuk||Jun 21 2005  3:47PM
+101|TR-79|en|Y|Kilis||Jun 21 2005  3:47PM
+101|TR-80|en|Y|Osmaniye||Jun 21 2005  3:47PM
+101|UM-67|en|Y|Johnston Atoll||Jun 21 2005  3:47PM
+101|UM-71|en|Y|Midway Islands||Jun 21 2005  3:47PM
+101|UM-76|en|Y|Navassa Island||Jun 21 2005  3:47PM
+101|UM-79|en|Y|Wake Island||Jun 21 2005  3:47PM
+101|UM-81|en|Y|Baker Island||Jun 21 2005  3:47PM
+101|UM-84|en|Y|Howland Island||Jun 21 2005  3:47PM
+101|UM-86|en|Y|Jarvis Island||Jun 21 2005  3:47PM
+101|UM-89|en|Y|Kingman Reef||Jun 21 2005  3:47PM
+101|UM-95|en|Y|Palmyra Atoll||Jun 21 2005  3:47PM
+101|US-AK|en|Y|Alaska||Jun 21 2005  3:47PM
+101|US-AL|en|Y|Alabama||Jun 21 2005  3:47PM
+101|US-AR|en|Y|Arkansas||Jun 21 2005  3:47PM
+101|US-AZ|en|Y|Arizona||Jun 21 2005  3:47PM
+101|US-CA|en|Y|California||Jun 21 2005  3:47PM
+101|US-CO|en|Y|Colorado||Jun 21 2005  3:47PM
+101|US-CT|en|Y|Connecticut||Jun 21 2005  3:47PM
+101|US-DC|en|Y|District of Columbia||Jun 21 2005  3:47PM
+101|US-DE|en|Y|Delaware||Jun 21 2005  3:47PM
+101|US-FL|en|Y|Florida||Jun 21 2005  3:47PM
+101|US-GA|en|Y|Georgia||Jun 21 2005  3:47PM
+101|US-HI|en|Y|Hawaii||Jun 21 2005  3:47PM
+101|US-IA|en|Y|Iowa||Jun 21 2005  3:47PM
+101|US-ID|en|Y|Idaho||Jun 21 2005  3:47PM
+101|US-IL|en|Y|Illinois||Jun 21 2005  3:47PM
+101|US-IN|en|Y|Indiana||Jun 21 2005  3:47PM
+101|US-KS|en|Y|Kansas||Jun 21 2005  3:47PM
+101|US-KY|en|Y|Kentucky||Jun 21 2005  3:47PM
+101|US-LA|en|Y|Louisiana||Jun 21 2005  3:47PM
+101|US-MA|en|Y|Massachusetts||Jun 21 2005  3:47PM
+101|US-MD|en|Y|Maryland||Jun 21 2005  3:47PM
+101|US-ME|en|Y|Maine||Jun 21 2005  3:47PM
+101|US-MI|en|Y|Michigan||Jun 21 2005  3:47PM
+101|US-MN|en|Y|Minnesota||Jun 21 2005  3:47PM
+101|US-MO|en|Y|Missouri||Jun 21 2005  3:47PM
+101|US-MS|en|Y|Mississippi||Jun 21 2005  3:47PM
+101|US-MT|en|Y|Montana||Jun 21 2005  3:47PM
+101|US-NC|en|Y|North Carolina||Jun 21 2005  3:47PM
+101|US-ND|en|Y|North Dakota||Jun 21 2005  3:47PM
+101|US-NE|en|Y|Nebraska||Jun 21 2005  3:47PM
+101|US-NH|en|Y|New Hampshire||Jun 21 2005  3:47PM
+101|US-NJ|en|Y|New Jersey||Jun 21 2005  3:47PM
+101|US-NM|en|Y|New Mexico||Jun 21 2005  3:47PM
+101|US-NV|en|Y|Nevada||Jun 21 2005  3:47PM
+101|US-NY|en|Y|New York||Jun 21 2005  3:47PM
+101|US-OH|en|Y|Ohio||Jun 21 2005  3:47PM
+101|US-OK|en|Y|Oklahoma||Jun 21 2005  3:47PM
+101|US-OR|en|Y|Oregon||Jun 21 2005  3:47PM
+101|US-PA|en|Y|Pennsylvania||Jun 21 2005  3:47PM
+101|US-RI|en|Y|Rhode Island||Jun 21 2005  3:47PM
+101|US-SC|en|Y|South Carolina||Jun 21 2005  3:47PM
+101|US-SD|en|Y|South Dakota||Jun 21 2005  3:47PM
+101|US-TN|en|Y|Tennessee||Jun 21 2005  3:47PM
+101|US-TX|en|Y|Texas||Jun 21 2005  3:47PM
+101|US-UT|en|Y|Utah||Jun 21 2005  3:47PM
+101|US-VA|en|Y|Virginia||Jun 21 2005  3:47PM
+101|US-VT|en|Y|Vermont||Jun 21 2005  3:47PM
+101|US-WA|en|Y|Washington||Jun 21 2005  3:47PM
+101|US-WI|en|Y|Wisconsin||Jun 21 2005  3:47PM
+101|US-WV|en|Y|West Virginia||Jun 21 2005  3:47PM
+101|US-WY|en|Y|Wyoming||Jun 21 2005  3:47PM

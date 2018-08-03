@@ -1,0 +1,177 @@
+101|2|en|Y|An appropriate exchange rate is not found for currency that the report/request references. Select another policy or contact the system administrator. (Error evaluating rule: %rulename%).||Jun 21 2005  3:48PM
+101|3|en|Y|An error occurred attempting to evaluate the rule: %rulename%.||Jun 21 2005  3:48PM
+101|4|en|Y|An error occurred attempting to look up the account code(s) for this entry. The account code lookup was based on : %values%. This report cannot be submitted until your system administrator adds an account code for this expense type with the above ledger segment data.||Jun 21 2005  3:48PM
+101|5|en|Y|Journal entries do not balance to the approved amount for this entry.  Contact your Concur Customer Support Representative for further assistance.||Jun 21 2005  3:48PM
+101|6|en|Y|Journal entries for %paymenttype% do not equal the billed amount from the vendor.  Contact your Concur Customer Support Representative for further assistance.||Jun 21 2005  3:48PM
+101|7|en|Y|An unexpected error occurred when performing the prepay journal entry validation.  Contact your Concur Customer Support Representative for further assistance.||Jun 21 2005  3:48PM
+101|10|en|Y|The transaction date of this entry is outside the date range of the associated itinerary.||Jun 21 2005  3:50PM
+101|11|en|Y|There is a possible Travel Allowance conflict with another entry having the same expense code for this date. (Report: %reportName%  Entry: %entryDate%, %expType%, %transactionAmount% %transactionCurrency%)||Jun 21 2005  3:50PM
+101|12|en|Y|This entry cannot be submitted until a Travel Allowance Itinerary is created.||Jun 21 2005  3:50PM
+101|13|en|Y|The transaction date for this entry must be provided, and it must be within the date range of the associated itinerary.||Jun 21 2005  3:50PM
+101|100|en|Y|The currency used is not the expected currency for this location.||Jun 21 2005  3:50PM
+101|101|en|Y|A receipt is required for this expense and the receipt status is 'No Receipt Available.'||Jun 21 2005  3:50PM
+101|1000|en|Y|The authorization request references an unsupported currency and cannot be processed.  Select another policy or contact the system administrator.  (Error evaluating rule: %rulename%).||Mar 15 2008  1:00AM
+101|1001|en|Y|The previous step was skipped because the selected approver no longer has the approver role. Select another approver or contact the system administrator.||Jun 21 2005  3:51PM
+101|1002|en|Y|This authorization request was rejected by the system because the approver is no longer authorized to approve. Select another approver or contact the system administrator.||Mar 15 2008  1:00AM
+101|1003|en|Y|The entry has Undefined expense type. You must select an expense type for the entry before you can submit the expense report.||Jun 21 2005  3:51PM
+101|2004|en|Y|Journal entries do not balance to the approved amount for this line item.  Contact your Concur Customer Support Representative for further assistance.||Jun 21 2005  3:52PM
+101|2005|en|Y|Journal entries for %requestname% do not balance to the request total. Contact your Concur Customer Support Representative for further assistance||Jun 21 2005  3:52PM
+101|2006|en|Y|An unexpected error occurred when performing the prepay journal entry validation.  Contact your Concur Customer Support Representative for further assistance.||Jun 21 2005  3:52PM
+101|2007|en|Y|The previous step was skipped because the selected approver no longer has the approver role.||Jun 21 2005  3:52PM
+101|2008|en|Y|The previous step was skipped because the selected approver would be self-approving the payment request.||Jun 21 2005  3:52PM
+101|2009|en|Y|An error occurred attempting to look up the account code(s) for this line item. The account code lookup was based on : %values%. This request cannot be submitted until your system administrator adds an account code for this expense type with the above ledger segment data.||Jun 21 2005  3:52PM
+101|2010|en|Y|The previous step was skipped because the selected approver would be self-approving the report.||Jun 21 2005  3:52PM
+101|2011|en|Y|An appropriate exchange rate is not found for the currency that the report/entry references. Select another policy or contact the system administrator.  (Error evaluating receipt limit rule: %rulename%).||Jun 21 2005  3:52PM
+101|2012|en|Y|The expense amount exceeds $75.00 per attendee.||Jun 21 2005  3:55PM
+101|2013|en|Y|Expense does not conform to corporate travel policy.||Jun 21 2005  3:55PM
+101|2014|en|Y|This entry must be itemized before the report can be submitted.||Jun 21 2005  3:55PM
+101|2015|en|Y|Amount for the Lunch expense type has exceeded the weekly limit.||Jun 21 2005  3:55PM
+101|2016|en|Y|The preferred payment method for this expense type is your company credit card.||Jun 21 2005  3:55PM
+101|2017|en|Y|This vendor is not a preferred vendor, please provide an explanation for your approver.||Jun 21 2005  3:55PM
+101|2018|en|Y|Manager approval and audit required.||Jun 21 2005  3:55PM
+101|2019|en|Y|Warning: This expense entry may be a duplicate.||Jun 21 2005  3:55PM
+101|2020|en|Y|This report has been selected for random audit.||Jun 21 2005  3:55PM
+101|2021|en|Y|Gross Journal entries for %requestname% do not balance to the request total. Contact your Concur Customer Support Representative for further assistance.||Nov  3 2005  7:11PM
+101|2022|en|Y|The Transaction Date is Greater than 90 days.  Approval from the Regional Vice President, Managing Director, or functional Vice President is required before processing for payment.||Jun  7 2010  7:40PM
+101|2023|en|Y|ERROR: Future dated transactions cannot be saved.  Please correct the transaction date.||Apr 21 2008  5:14PM
+101|2024|en|Y|Faxing of receipts is required before submission.||Sep 12 2006  6:50PM
+101|2025|en|Y|Warning: This expense entry may be a duplicate.||Sep 27 2006  9:35PM
+101|2026|en|Y|The Average Cost Per Attendee is High.  Please Review for Accuracy and Add Comment to Explain.||Oct 22 2009  8:38PM
+101|2027|en|Y|The Class of Service is not Economy. Please provide an explanation in the comments.||Sep 13 2006  3:57AM
+101|2028|en|Y|The Class of Service is not Economy. Review traveler comments.||Sep 13 2006  4:02AM
+101|2029|en|Y|Daily Meals limit is high.  Please review for reasonableness and accuracy.||May  8 2009  5:51PM
+101|2030|en|Y|Employee is flagged for review and audit.;||Nov 21 2006  2:03AM
+101|2031|en|Y|You have selected a non-preferred vendor.  Please provide an explanation in the Comments section.||Jun 23 2007  8:04AM
+101|2032|en|Y|This vendor is not a preferred vendor. Review traveler comments.||Sep 13 2006 10:46PM
+101|2033|en|Y|Report Total greater than $2000.00.||Sep 27 2006  6:21PM
+101|2034|en|Y|Amount Due Employee greater than $250.00.||Sep 13 2006 10:50PM
+101|2035|en|Y|Review required for Expense "Miscellaneous".||Sep 13 2006 10:53PM
+101|2036|en|Y|Exchange rate variance is high. Please review the exchange rate used for accuracy and attach receipt indicating exchange rate.||Jun 30 2009  1:45PM
+101|2042|en|Y|Airfare Class of Service not Coach. Please review.||Sep 27 2006  6:16PM
+101|2043|en|Y|Daily Meals limit has been exceeded||Sep 27 2006  6:18PM
+101|2044|en|Y|Monthly Cell Phone limit has been exceeded||Sep 27 2006  6:19PM
+101|2049|en|Y|Manager approval and audit required.||Sep 19 2007  6:59PM
+101|2051|en|Y|The preferred payment method for this expense type is your company credit card.||Sep 27 2006  9:09PM
+101|2053|en|Y|Expense does not conform to corporate travel policy.||Sep 27 2006  9:19PM
+101|2054|en|Y|Amount for the Lunch expense type has exceeded the weekly limit.;||Sep 27 2006  9:42PM
+101|2055|en|Y|This entry must be itemized before the report can be submitted.;||Sep 27 2006  9:45PM
+101|2056|en|Y|Please Fax Receipts or Attach Receipt Images and click 'Check Receipts' in order to submit this Report.||Aug 23 2007  6:18PM
+101|2063|en|Y|The currency used is not the expected currency for this location.;||Sep 27 2006 10:24PM
+101|2064|en|Y|A receipt is required for this expense and the receipt status is 'No Receipt Available.';||Sep 27 2006 10:25PM
+101|2072|en|Y|Concur Audit Service selected report for audit.||Dec 30 2006 12:20AM
+101|2082|en|Y|This expense entry may be a duplicate of the following expense. %lines%||Feb  3 2007  1:39AM
+101|2083|en|Y|This report has been pending approval longer than allowed by policy. The report owner should contact their Approver for instructions before resubmitting. If you are not the owner but have been forwarded the report, follow the approval steps according to your policy - this may involve approving the report or assigning it to another Approver for further review.||Jun 16 2007 12:47AM
+101|2084|en|Y|The report header is missing required fields:	%missingfields%.||Feb  3 2007  1:39AM
+101|2085|en|Y|The ticket number for this expense is different than the ticket number on the associated record: %tickets%||Feb  3 2007  1:39AM
+101|2086|en|Y|Another expense has been submitted with the identical air ticket number. %lines%||Feb  3 2007  1:39AM
+101|2097|en|Y|This Payment Request has been selected for Random Audit.||Mar 30 2007  9:21PM
+101|2098|en|Y|You must enter the Tax ID Number for this Vendor prior to submitting this request.  If you don't know the Tax ID Number then ask the Vendor to provide you a IRS W-9 form.||Mar  7 2007  9:29PM
+101|2099|en|Y|You must fax the IRS W-9  form prior to submitting this payment request.||Mar  7 2007  9:27PM
+101|2100|en|Y|You must fax the appropriate check request back-up documentation prior to submitting this payment request.||Mar  7 2007  9:28PM
+101|2101|en|Y|This is a duplicate invoice number, please research before proceeding.||Mar  7 2007  9:31PM
+101|2102|en|Y|Employee is flagged for review and audit.||Mar  7 2007  9:34PM
+101|2107|en|Y|The FBT configuration needed to process this report is incomplete.  Please contact the Expense Administrator for assistance.  Missing configurations: %missing_configurations%||Mar 17 2007  1:49AM
+101|2108|en|Y|This Report has a Net Credit amount of credit card transactions, please hold the credit(s) until you have credit card charges to offset.||Apr 10 2007  9:21PM
+101|2118|en|Y|This report has been selected for Expense Report Auditing.||Dec 18 2010  2:14AM
+101|2119|en|Y|The expense is greater than the estimated expense in the travel reservation.||May 29 2007  3:19AM
+101|2120|en|Y|The expense is greater than the estimated expense in the travel reservation.||May 29 2007  3:22AM
+101|2121|en|Y|The per-day expense is greater than the estimated per-day expense in the travel reservation.||May 29 2007  3:24AM
+101|2122|en|Y|The per-day expense is greater than the estimated per-day expense in the travel reservation.||May 29 2007  3:26AM
+101|2123|en|Y|INFO: Air reservations made through Cliqbook should be charged to a company card.||Apr 21 2008  5:14PM
+101|2129|en|Y|Warning: This expense report contains a regular expense entry created from a Cash Advance transaction.  The transaction should be itemized and marked as personal prior to submittal.||Jun 16 2007 12:47AM
+101|2130|en|Y|A corporate card credit transaction (negative amount) has been marked as a personal expense. This is an unusual situation. Please explain the circumstances in detail.||Jun 23 2007  8:14AM
+101|2140|en|Y|This expense has no matching travel reservation.  Please use the one-click feature in Cliqbook to create expense reports or use the expense report comments to explain why there was no reservation made for this expense.||Jul  2 2007  3:45AM
+101|2150|en|Y|The sum of the cost per attendee does not add up to the expense total.||Jul 28 2007  8:09AM
+101|2151|en|Y|Attendee (%attendee%) was removed because it matched multiple existing attendee records.||Jul 28 2007  8:09AM
+101|2152|en|Y|;Processor -;This expense report was approved by a delegate. Please ensure the original Approver assigned the appropriate Delegate Approver to approve their reports. Review the Audit Trail and/or the Approval Flow links at the top of this report.||Aug 23 2007 11:13PM
+101|2162|en|Y|This report was submitted by Delegate, please review for accuracy.||Dec 18 2007  8:16PM
+101|2163|en|Y|This report was approved by a delegate.  Please review for accuracy.||Dec 18 2007  8:17PM
+101|2164|en|Y|WARN: Per the Fairchild T&E Policy, you have exceeded the Airfare limit of $1,000.  Please use the comments sections below to explain overage.||Apr 21 2008  5:13PM
+101|2172|en|Y|This expense report has been cross charged.  ;Approving manager - Please forward to cross charged dept. manager for approval.||May  8 2009  5:40PM
+101|2182|en|Y|The Cell Limit is $150/month.  Please explain in the comments the overage.||Apr 21 2008  5:32PM
+101|2183|en|Y|The Breakfast limit is $25.00.  Please explain in the comments section the overage.||Jun 26 2015  2:43PM
+101|2184|en|Y|The lunch limit is $40.00.  Please explain the overage in the comments section.||Jun 26 2015  2:43PM
+101|2192|en|Y|You have an Unused Cash Advance Balance, please click Cash Advance and associate the available cash advance to your report.||Sep 23 2014  3:31PM
+101|2193|en|Y|You have selected Cash Advance Return.  Please enter the unused amount of cash advance and then save.  Please forward payment of unused cash advance to your local Finance department for processing.||May 19 2009  5:52PM
+101|2194|en|Y|The expense report system has not been turned on for your location at this time.||Jun 19 2008  3:45PM
+101|2204|en|Y|Warning: You have an expense that has an e-receipt but does not have corresponding corporate card transaction. Please wait for card transaction to be available before you submit this report||Jul 19 2008  6:23AM
+101|2205|en|Y|You are not enrolled in the Fairchild T&E direct deposit program or do not have a balance account listed.  Please contact your local Payroll department for instructions on enrolling and/or creating a balance account.  Direct Deposit enrollment is a requirement of using the Concur system.||Jun 21 2015  9:15PM
+101|2215|en|Y|One or more Cost objects could not be approved by the right authority (%costObjects%). The expense report has been moved to the next workflow step.||Mar 21 2009  5:21AM
+101|2216|en|Y|No approvers were found for cost object %costObjects%.||Jan 17 2009  7:36AM
+101|2217|en|Y|The appropriate authority (limit or level) could not be reached for the following cost object(s) (%costObjects%)||Jun 20 2009  5:24AM
+101|2218|en|Y|The authorization request header is missing required fields:	%missingfields%.||Apr 18 2009  5:00AM
+101|2219|en|Y|Airfare reservation has no matching Corporate Card transaction.  If airfare was paid for by company or submitted on a previous expense report, please mark the entry as "Personal or Company Paid Expense" before submitting.||Jun 25 2010  9:11PM
+101|2229|en|Y|The entry has prepopulated payment type with no credit card information. You must select a valid payment type for the entry before you can submit the expense report.||May 16 2009  5:16AM
+101|2230|en|Y|No approvers were configured for the following cost object(s) (%costObjects%).||Jun 20 2009  5:24AM
+101|2231|en|Y|Please ensure HR approval has been obtained.||Oct  7 2009  7:00PM
+101|2232|en|Y|An appropriate exchange rate is not found for currency that the request references. Select another policy or contact the system administrator. (Error evaluating rule: %rulename%).||Mar 20 2010  4:40AM
+101|2233|en|Y|You have marked this company paid transaction as personal.  Is this correct?  If so please remit payment to the Payroll department for reimbursement to the company.  Company paid cards should not be used for personal items.||Jun 14 2010  8:32PM
+101|2234|en|Y|You have unsubmitted company card transactions that exceed the age limit allowed by your company policy.  These transactions must be submitted before this report can be submitted.  If these transactions are already  assigned to another unsubmitted report, it is listed below and must be submitted first.||Jun 19 2010  5:30AM
+101|2235|en|Y|You are requesting to be reimbursed a negative amount.  Please review for accuracy.  If accurate please wait until further expenses are incurred before submitting or make payment to your local Payroll department.||Jun 23 2010  7:50PM
+101|2236|en|Y|The request header is missing required fields: %missingfields%.||Mar 23 2013  2:02AM
+101|2237|en|Y|You have exceeded the daily limit.  Please modify the number of units driven or describe the circumstances.||Sep 20 2010  4:15PM
+101|2238|en|Y|This request has been pending approval longer than allowed by policy. The request owner should contact their Approver for instructions before resubmitting. If you are not the owner but have been forwarded the request, follow the approval steps according to your policy - this may involve approving the request or assigning it to another Approver for further review.||Nov 13 2010  2:26AM
+101|2239|en|Y|An appropriate exchange rate is not found for currency that the report/request references. Select another policy or contact the system administrator. (Error evaluating rule: %rulename%).||Mar 19 2011  1:05AM
+101|2240|en|Y|The Expense occurs during a week-end.||Jun 18 2011  1:30AM
+101|2241|en|Y|The Expense occurs during a week-end.||Jun 18 2011  1:30AM
+101|2242|en|Y|The reimbursement currency for this report does not match the currency for your Expense Pay bank account. You are not allowed to submit this report until these currencies are the same. To correct this, you must:</br>1. Ensure that all submitted, but not yet approved expense reports reach final approval. Work with your approvers to gain these approvals.</br>2. Once all submitted reports have reached final approval, create a new Expense Pay bank account with the same currency as this report.||Jul 23 2011  1:22AM
+101|2243|en|Y|This expense cannot be submitted until it is matched to an imported card transaction.  If this was not paid for via card, you may edit the payment type of the expense to reflect the actual payment method.||Jan 21 2012  3:30AM
+101|2244|en|Y|The report cannot be submitted because the amount to be paid on your behalf to your company card exceeds the amount available from your company reimbursement.  Adjust the payment to match the available amount before submitting the report.||Apr 21 2012  3:25AM
+101|2245|en|Y|The request has no segments or expenses. You must create at least one entry in order to submit the Request.||Mar 23 2013  2:02AM
+101|2246|en|Y|A purchasing card transaction can only be submitted within a statement report. Remove the transaction from this expense report and add it to the statement report for the statement period of (%startdate% - %enddate%).||Apr 21 2012  3:25AM
+101|2247|en|Y|A regular transaction cannot be submitted with a statement report, but only within an expense report. Remove the transaction from this statement report and add it to an expense report.||Apr 21 2012  3:25AM
+101|2248|en|Y|The purchasing card transaction account %last_segment% does not match the statement report account and so cannot be submitted. Remove the transaction from this report and add it to a report that shares a common purchasing card account.||Apr 21 2012  3:25AM
+101|2249|en|Y|The purchasing card transaction statement dates of %startdate1% - %enddate1% and the statement report dates of %startdate2% - %enddate2% do not match. Remove the transaction from this report and add it to a report that shares a common statement period.||Apr 21 2012  3:25AM
+101|2250|en|Y|One or more cost objects could not be approved by the proper authority (%costObjects%). The request has been moved to the next workflow step.||Mar 23 2013  2:02AM
+101|2251|en|Y|No approvers were found for cost object %costObjects%.||Jun 23 2012  1:42AM
+101|2252|en|Y|This expense is above the reasonable amount set by your company. You may want to provide a comment to your manager with more information about this expense.||Jun 23 2012  1:42AM
+101|2253|en|Y|This expense is over the limit allowed by your expense policy. Please reduce the amount claimed or itemize this expense and mark personal the over limit amount.||Jun 23 2012  1:42AM
+101|2254|en|Y|Please select a city in the 'City' list, or enter the place of your choice in 'Detail'.||Jun 23 2012  1:42AM
+101|2255|en|Y|Only 'INTEGRAL', 'BAGAGES' or 'RAPATRIEMENT' values are authorized for the Insurance Type field; please adjust your entry.||Jun 23 2012  1:42AM
+101|2256|en|Y|The segment type key [%SegmentTypeKey%] is not authorized for the authorization request policy [%ArPolKey%].||Aug 18 2012  1:50AM
+101|2257|en|Y|Unknown city code %LnKey% (vendor %VendorKey%). Please contact your administrator.||Aug 18 2012  1:50AM
+101|2258|en|Y|The meal limit is high.  Please explain the overage in the comments section.||Sep 12 2012  7:54PM
+101|2259|en|Y|Please select a city in the 'To' list, or enter the place of your choice in 'Detail'.||Oct 20 2012  2:06AM
+101|2260|en|Y|Please select a city in the 'From' list, or enter the place of your choice in 'Detail'.||Oct 20 2012  2:06AM
+101|2261|en|Y|The agency has just released new proposals for this request. Please replace your current selection with one of these new proposals.||Mar 23 2013  2:02AM
+101|2262|en|Y|One or more Budget objects could not be approved by the right authority (%costObjects%). The expense report has been moved to the next workflow step.||Nov 17 2012  3:30AM
+101|2263|en|Y|One or more budget items could not be approved by the proper authority (%costObjects%). The request has been moved to the next workflow step.||Mar 23 2013  2:02AM
+101|2264|en|Y|The Cash Advance requested is above the limit allowed by your company policy: %CashAdvanceLimit%. Please reduce the amount requested.||Nov 17 2012  4:26AM
+101|2265|en|Y|The Cash Advance requested is above the limit allowed by your company policy wich is defined as 60% of the total of: %CaRelatedEntries%. Please reduce the amount requested||Nov 17 2012  4:26AM
+101|2266|en|Y|Attendees were selected based on names written on your receipt, however there were other matches that might apply: %atn_name_list%||Dec 15 2012  3:55AM
+101|2267|en|Y|Please set the attendee type and review this attendee for accuracy.||Feb  8 2014  5:05AM
+101|2268|en|Y|Itinerary cost changed after approval. Effective amount of the request is %TotalPostApprovedMnt%.||Mar 23 2013  2:02AM
+101|2269|en|Y|This expense type is not available for this policy. Please change the expense type.||Feb 23 2013  4:02AM
+101|2270|en|Y|The allocation fields are different from the prior policy. Please review the allocations.||Feb 23 2013  4:02AM
+101|2271|en|Y|Some attendees have been removed from this expense because they are not allowed under the new policy.  Please review the attendee information.||Feb 23 2013  4:02AM
+101|2272|en|Y|At least one destination is missing Traveler Consent or required fields %missingfields%. Please review your Travel Advisory.||Mar 23 2013  2:02AM
+101|2273|en|Y|The exchange rate has been overwritten by the cash advance exchange rate.||Apr 27 2013  2:14AM
+101|2274|en|Y|This expense type does not support itemization.  Please change the expense type or delete the itemizations.||Nov 21 2015  3:41AM
+101|2275|en|Y|This expense type is not available to use in an itemized entry.  Please change the expense type.||Apr 27 2013  2:14AM
+101|2276|en|Y|This report has been flagged by the behavioral analysis feature.  If enabled, the report will be selected for Expense Report Auditing.  Additional information is available for review in Concur Insight.||Jan 18 2014  4:58AM
+101|2277|en|Y|According to your company policy, your trip should be booked online.||Aug 24 2013  3:29AM
+101|2278|en|Y|This report has been flagged by the benchmark analysis feature.  If enabled, the report will be selected for Expense Report Auditing.  Additional information is available for review in Concur Insight.||Jan 18 2014  4:58AM
+101|2279|en|Y|This request has been pending approval longer than allowed by policy. The request owner should contact their Approver for instructions before resubmitting. If you are not the owner but have been forwarded the request, follow the approval steps according to your policy - this may involve approving the request or assigning it to another Approver for further review.||Nov  9 2013  3:36AM
+101|2280|en|Y|Please review the comments for this expense and action accordingly.||Dec 14 2013  6:35AM
+101|2281|en|Y|Please review the comments for this expense for additional information.||Dec 14 2013  6:35AM
+101|2282|en|Y|Please review the comments for this expense for additional information. However, no action is necessary.||Dec 14 2013  6:35AM
+101|2283|en|Y|View the digital tax invoice for important information about the validation status.||Jan 18 2014  4:58AM
+101|2284|en|Y|View the digital tax invoice for important information about the validation status.||Feb  8 2014  5:06AM
+101|2285|en|Y|Unable to create Recurring payment request. Please check audit trail for more details.||Feb  8 2014  5:06AM
+101|2286|en|Y|This request has tracked changes.||May 17 2014  2:22AM
+101|2287|en|Y|Please list other attendees besides yourself.  Please choose the breakfast, lunch, or dinner expense type if you are the only attendee of this meal.||Aug 14 2014  1:59PM
+101|2288|en|Y|Please attach a receipt to this line item.||Jun 25 2014  6:19PM
+101|2289|en|Y|At least one item on your itinerary is missing an amount or a currency. Please contact your Concur administrator.||Nov 15 2014  3:46AM
+101|2290|en|Y|This cash advance return was created as a result of a partial approval.||Mar 14 2015  3:10AM
+101|2291|en|Y|Some allocation values were cleared.  Please review the allocations.||Jul 11 2015  2:17AM
+101|2292|en|Y|This CFD file has been used on a different item: %lines%||Jul 11 2015  2:17AM
+101|2293|en|Y|Late payment charges are the responsibility of the card holder. Please tick the 'Personal or Company Paid Airfare (do not reimburse)' box.||Jul 29 2015  3:02PM
+101|2294|en|Y|The sum of the cost per attendee does not add up to the line item total.||Sep 19 2015  3:38AM
+101|2295|en|Y|Expense type of line item requires attendees||Sep 19 2015  3:38AM
+101|2296|en|Y|Some attendees have been removed from this line item because they are not allowed under the current policy settings.  Please review the attendee information.||Oct 17 2015  1:45AM
+101|2297|en|Y|The line item has attendees with invalid attendee types.Edit and save the line item to automatically remove the invalid attendees.||Oct 17 2015  1:45AM
+101|2298|en|Y|A regular expense cannot be submitted with a statement report, but only within an expense report. Remove the transaction from this statement report and add it to an expense report or match it with an existing purchasing card transaction.||Nov 21 2015  3:41AM
+101|2299|en|Y|Posting failed. Check audit trail for detailed error messages.||Feb 20 2016  3:27AM
+101|2300|en|Y|Financial Integration Posting failed. Check audit trail for detailed error messages.||Mar 19 2016  2:21AM
+101|2301|en|Y|Payroll Posting failed. Check audit trail for detailed error messages.||Sep 29 2017 10:02PM
+101|2302|en|Y|Missing account code. No action required; your system administrator will add an account code for this expense type before processing.||Oct 27 2017  9:38PM

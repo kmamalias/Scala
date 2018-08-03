@@ -1,0 +1,6 @@
+The scripts for this case study is created using Oracle PL/SQL 11.2.0.4.0. 
+For automation, Cron is used to schedule the jobs.
+We will create a shell script to monitor the upload directory.
+If a new .csv file arrives, the ETL job is triggered to execute.
+If the process succeeded. Move the processed file to an Archive folder. Also, delete older archived files.
+If the job encounters an error while processing the file, log the error. Send an email to the developer/team informing of the error as well as the error encountered. Move the offending file to an Error folder for review.

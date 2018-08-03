@@ -1,0 +1,16 @@
+user_id,time,action,destination,hotel
+2017032000000000097,00:00:00,Click,Rimini,Regina Elena 57
+2017032000000000097,00:03:53,Click,Rimini,Regina Elena 57
+2017032000000000097,00:01:16,Click,Rimini,Regina Elena 57
+2017032000000000097,00:04:34,Click,Rimini,Regina Elena 57
+2017032000000000129,00:07:32,Click,Berlin,Müggelsee Berlin
+2017032000000000129,00:18:36,Click,Berlin,SensCity Berlin Spandau
+2017032000000000129,00:16:12,Click,Berlin,Azimut Berlin City South
+2017032000000000129,00:05:04,Click,Cottbus,City Cottbus
+2017032000000000129,00:01:50,Click,Cottbus,Ostrow
+2017032000000000129,00:12:05,Click,Berlin,Days Inn Berlin West
+2017032000000000129,00:11:20,Click,Berlin,Days Inn Berlin West
+2017032000000000129,00:04:27,Click,Cottbus,City Cottbus
+2017032000000000153,00:02:47,Homepage,,
+2017032000000000153,00:00:23,Homepage,,
+

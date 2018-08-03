@@ -1,0 +1,8 @@
+101|CALCULATE_AMOUNT|en|Y|Calculate Amount||Sep 24 2011  3:04AM
+101|CHANGE_APPROVER|en|Y|Change Approver||Jun 21 2005  3:48PM
+101|GENERATE_EXCEPTION|en|Y|Generate Exception||Jun 21 2005  3:48PM
+101|REJECT|en|Y|Reject||Jun 21 2005  3:48PM
+101|RESUBMIT|en|Y|Send Back to Employee||Jun 21 2005  3:48PM
+101|SEND_EMAIL|en|Y|Send Email||Jun 21 2005  3:48PM
+101|SKIP_STEP|en|Y|Skip Step||Jun 21 2005  3:48PM
+101|UPDATE_FIELD|en|Y|Update Field||Jun 21 2008  8:52AM

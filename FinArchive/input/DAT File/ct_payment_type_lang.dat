@@ -1,0 +1,22 @@
+101|1000|en|Y|Citibank APA MasterCard|Citibank APA MasterCard IBIP||Jan 15 2013  3:19PM
+101|1010|en|Y|CitiBank Japan|CitiBank Japan IBIP||Jul 20 2011  2:59PM
+101|1011|en|Y|Purchasing Type|Purchasing Card IBCP||Mar  7 2014  8:39PM
+101|1012|en|Y|US Bank Visa CBCP|US Bank Visa CBCP||Sep 12 2014  8:27PM
+101|1013|en|Y|US Bank Visa IBCP|US Bank Visa IBCP||Sep 12 2014  8:27PM
+101|1014|en|Y|Elavon IBCP - Test|Corporate Card IBCP||Nov 20 2014  6:38PM
+101|1015|en|Y|US Bank CBCP NON-US|US Bank CBCP NON-US||Nov 21 2014  4:52PM
+101|1016|en|Y|Elavon IBCP GBP|Elavon IBCP GBP||Nov 20 2014  8:52PM
+101|1017|en|Y|Elavon IBCP EMEA|Elavon IBCP EMEA||Nov 21 2014  4:51PM
+101|1018|en|Y|USBank Korea CBCP|USBank Korea CBCP||Dec  3 2014  4:43PM
+101|1019|en|Y|China Trust Visa CBCP CO 9443126|China Trust Visa CBCP CO 9443126||May  7 2015  2:09AM
+101|1020|en|Y|China Trust Visa CBCP CO 16089830|China Trust Visa CBCP CO 16089830||May  7 2015  2:12AM
+101|CASH|en|Y|Out of Pocket|Payment in cash||Dec 18 2007  7:57PM
+101|CBCP|en|Y|Corporate Card CBCP|Company-paid corporate card CBCP||Nov  4 2007  5:16AM
+101|COMP|en|Y|Company|Company Pseudo Payment Type - used in CT_JOURNAL Only||Jun 21 2005  3:48PM
+101|COPD|en|Y|Corporate Card IBCP (offsets applied)|Corporate Card||Sep 26 2006 10:48PM
+101|CRTN|en|Y|Cash Advance Return|Cash Advance Return Pseudo Payment Type||Jun 21 2005  3:48PM
+101|EMPL|en|Y|Employee|Employee Pseudo Payment Type - used in CT_JOURNAL Only||Jun 21 2005  3:48PM
+101|IBCP|en|Y|Purchasing Card|Corporate Card IBCP||Mar  7 2014  8:39PM
+101|IBIP|en|Y|IBIP|Employee-paid corporate card IBIP||May  5 2009  9:02PM
+101|PCCD|en|Y|Pending Card Transaction|Payment in cash||Jan 21 2012  3:30AM
+101|PERS|en|Y|Personal Credit Card|Employee personal card||Sep 26 2006 10:48PM

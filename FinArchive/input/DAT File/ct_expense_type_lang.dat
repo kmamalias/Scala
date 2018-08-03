@@ -1,0 +1,97 @@
+101|01000|en|Y|Meals (Breakfast/Lunch/Dinner)|||Oct 13 2007  4:48AM
+101|01020|en|Y|Applicant|||Dec 18 2007  9:05PM
+101|01021|en|Y|Tuition|||Dec 18 2007  9:05PM
+101|01022|en|Y|Tuition Expenses|||Dec 18 2007  9:05PM
+101|01023|en|Y|Outside Services - Professional|||Aug 12 2013 10:54PM
+101|01024|en|Y|Employee Morale|||Dec 18 2007  9:06PM
+101|01025|en|Y|Staff Time (Fairchild employees only)|||Dec 18 2007  9:06PM
+101|01040|en|Y|Employee housing - Travel|||Dec 21 2007 12:23AM
+101|01041|en|Y|Expendable Equipment & Fixtures|||Jul  1 2008  6:44PM
+101|01042|en|Y|Outside Svcs-Maint-Struct|||Jul  1 2008  6:44PM
+101|01043|en|Y|Supplies-Technical Training|||Jul  1 2008  6:45PM
+101|01044|en|Y|Supplies-General Operating|||Jul  1 2008  6:45PM
+101|01045|en|Y|Supplies-Maintenance-General|||Jul  1 2008  6:45PM
+101|01051|en|Y|Personnel Expense - Misc|||Sep 22 2009  6:38PM
+101|01052|en|Y|Medical Expense|||Sep 22 2009  6:33PM
+101|01053|en|Y|Foreign Based Personnel Expense|||Sep 22 2009  6:33PM
+101|01054|en|Y|Outside Technical Training|||Sep 22 2009  6:33PM
+101|01061|en|Y|Medical Claims - Dependents (Sgpore)|||Mar  4 2010  5:31PM
+101|01071|en|Y|Recruiting|||Apr 15 2010  6:41PM
+101|01072|en|Y|Public Relations|||Apr 15 2010  6:41PM
+101|01081|en|Y|Immigration & Visa Expenses|||Aug 19 2010  2:16AM
+101|01082|en|Y|Business License Fees & Taxes|||Aug 19 2010  2:17AM
+101|01083|en|Y|VAT - T&E expenses|||Aug 25 2010  2:07PM
+101|01084|en|Y|Water Bill|||May 15 2013  1:10AM
+101|01085|en|Y|Outside Services - General|||Aug 12 2013 10:55PM
+101|01086|en|Y|Mileage|||Apr 23 2014  3:54PM
+101|01087|en|Y|Cafeteria|||Jul  6 2015  1:54PM
+101|01088|en|Y|Late Payment Fee |||Jul 29 2015  2:53PM
+101|01089|en|Y|Cash Rebate|||Aug  4 2015  4:04PM
+101|01090|en|Y|Gratuity/Tip|||Nov 10 2015  9:53AM
+101|01091|en|Y|PCIM|||Dec 14 2015  4:15PM
+101|AIRFR|en|Y|Airfare|Eligible for Prepop. All charges with the SIC code for airlines will map to this expense type. Origin/Destination functionality. Ticket Number is an available field definition. Predefined vendor list.||Jun 21 2005  3:50PM
+101|AIRTX|en|Y|Airfare Ticket Tax|||Jun 21 2005  3:50PM
+101|AWRDS|en|Y|Awards (recipients)|||Dec 18 2007  9:04PM
+101|BANKF|en|Y|Bank Fees|||Jan 14 2008  7:36PM
+101|BRKFT|en|Y|Breakfast|If there is only one meal expense type needed, rename Dinner before using Lunch.||Jun 21 2005  3:50PM
+101|BUSML|en|Y|Business Meal (attendees)|||Jun 21 2005  3:50PM
+101|BUSPR|en|Y|Misc. Promotional Expense|||Jan 14 2008  7:35PM
+101|BUSXX|en|Y|zBus|||Oct  3 2014  9:02PM
+101|CAREX|en|Y|Company Car Expense|Attached to Company Car Mileage coding.||Jun 21 2005  3:50PM
+101|CARMA|en|Y|zCompany Car Maintenance|||Oct  3 2014  9:02PM
+101|CARMI|en|Y|Company Car Mileage|||Jun 21 2005  3:50PM
+101|CAROL|en|Y|zCompany Car Oil|||Oct  3 2014  9:02PM
+101|CARRT|en|Y|Car Rental|Eligible for Prepop. Eligible for VAT. Predefined vendor list.||Jun 21 2005  3:50PM
+101|CARWA|en|Y|Company Car Charges|Eligible for Prepop.||Oct  3 2014  9:03PM
+101|CELPH|en|Y|Cellular Phone|||Jan 14 2008  7:35PM
+101|COMMU|en|Y|Communications|||Jun 21 2005  3:50PM
+101|CSHAD|en|Y|Cash Advance|Parent expense type for cash advance related expense types.||Jun 21 2005  3:50PM
+101|CSHRN|en|Y|Cash Advance Return|Required for returning unused cash advances.||Jun 21 2005  3:50PM
+101|CURGL|en|Y|Currency Gain/Loss|Required for entering a currency conversion gain or loss.||Jun 21 2005  3:50PM
+101|DINNR|en|Y|Dinner|Eligible for Prepop. All charges with the SIC code for restaurants will map to this expense type.  If only one expense type for meals is needed, use the Dinner type.||Jun 21 2005  3:50PM
+101|DUESX|en|Y|Dues and Memberships|||Aug  4 2011  9:50AM
+101|DUPLC|en|Y|zDuplicating|Eligible for Prepop.||Oct  3 2014  8:55PM
+101|ENTOT|en|Y|Entertainment-Other|Eligible for VAT.||Jun 21 2005  3:50PM
+101|ENTRT|en|Y|Entertainment|Eligible for VAT.||Jun 21 2005  3:50PM
+101|FXINC|en|Y|Daily Allowance (Incidentals)|Cannot delete. This expense type is used when generating fixed travel allowance expense entries.||Apr 13 2017 10:57PM
+101|FXLDG|en|Y|Fixed Lodging|Can not delete. This expense type is used when generating fixed travel allowance expense entries.||Jun 21 2005  3:50PM
+101|FXMLG|en|Y|Fixed Meals (gross)|Can not delete. This expense type is used when generating fixed travel allowance expense entries.||Mar 15 2008  1:00AM
+101|FXMLS|en|Y|Fixed Meals|Can not delete. This expense type is used when generating fixed travel allowance expense entries.||Jun 21 2005  3:50PM
+101|GASXX|en|Y|Gasoline|Eligible for Prepop. Eligible for VAT. Predefined vendor list.||Jul 20 2007 12:50AM
+101|GIFTS|en|Y|Gifts (recipients)|Eligible for Prepop.||Dec 18 2007  9:04PM
+101|INCTS|en|Y|zIncidentals|||Oct  3 2014  8:59PM
+101|JTRAN|en|Y|Japan Public Transportation|||Jan 21 2012  3:30AM
+101|LIMOS|en|Y|zLimousine|||Oct  3 2014  9:03PM
+101|LNDRY|en|Y|zLaundry|Eligible for Prepop.||Oct  3 2014  9:01PM
+101|LOCPH|en|Y|zLocal Phone|||Oct  3 2014  8:56PM
+101|LODGE|en|Y|Lodging|||Jun 21 2005  3:50PM
+101|LODNG|en|Y|Room Rate|Eligible for Prepop. HotelXpert attached. Automatically itemized. Use Expense type LODTX for Room Tax. Eligible for VAT. Predefined vendor list.||Dec 21 2007 12:23AM
+101|LODTX|en|Y|Hotel Tax|Do not use for any expense other than room tax. Product associates this ID to Lodging.||Jun 21 2007  6:42AM
+101|LONGD|en|Y|zLong Distance|||Oct  3 2014  8:56PM
+101|LUNCH|en|Y|Lunch|Eligible for VAT. If there is only one meal expense type needed, rename Dinner before using Lunch.||Jun 21 2005  3:50PM
+101|MEALS|en|Y|Individual Meals|||Sep 12 2006  4:34PM
+101|MILEG|en|Y|Personal Car Mileage (Per Diem)|||Jan 17 2008 12:35AM
+101|MISCL|en|Y|Miscellaneous Travel and Incidentals|||Oct  3 2014  9:04PM
+101|MTNGS|en|Y|Meetings and Conferences|||Dec 19 2007  8:24PM
+101|MTRLS|en|Y|Hardware & Materials|||Dec 18 2007  9:04PM
+101|OFCSP|en|Y|Office Supplies|Eligible for Prepop.||Jun 21 2005  3:50PM
+101|ONLIN|en|Y|Online Fees & Phone Charges|||Oct  3 2014  9:04PM
+101|OTHER|en|Y|Other & Purchasing|Rename type with a similar expense. Product will automatically select this type for itemization amounts that exceed the amount of the parent entry. Sub Expense Type available in Field Definitions.||Jul  1 2008  6:44PM
+101|OVRNT|en|Y|Overnight|Can not delete. This expense type is used when generating fixed travel allowance expense entries.||Mar 15 2008  1:00AM
+101|PAGER|en|Y|zPager|||Oct  3 2014  8:55PM
+101|PARKG|en|Y|zParking|Eligible for Prepop.||Oct  3 2014  9:03PM
+101|PCARX|en|Y|Personal Car Expense|||Jun 21 2005  3:50PM
+101|POSTG|en|Y|Postage|Eligible for Prepop. Predefined vendor list.||Jun 21 2005  3:50PM
+101|PROMO|en|Y|Business Promotions|||Jun 21 2005  3:50PM
+101|PVMLS|en|Y|Provided Meals|Can not delete. This expense type is used when generating fixed travel allowance expense entries.||Mar 15 2008  1:00AM
+101|SEMNR|en|Y|zSeminar Fees|Eligible for VAT.||Oct  3 2014  8:56PM
+101|SUBSC|en|Y|Subscriptions|Eligible for Prepop.||Jun 21 2005  3:50PM
+101|SUBWY|en|Y|Train, Bus and Subway|||Oct  3 2014  9:05PM
+101|TAGFE|en|Y|zBooking Fees|||Oct  3 2014  8:57PM
+101|TAXIX|en|Y|Taxi and Limousine|Eligible for Prepop.||Oct  3 2014  9:05PM
+101|TOLLS|en|Y|Parking and Tolls|Eligible for Prepop.||Oct  3 2014  9:04PM
+101|TRAIN|en|Y|zTrain|Eligible for Prepop. Origin/Destination functionality. Eligible for VAT.||Oct  3 2014  9:02PM
+101|TRANS|en|Y|Transportation|||Jun 21 2005  3:50PM
+101|TRDSH|en|Y|Seminar Fees & Trade Shows|||Oct  3 2014  9:05PM
+101|TXMLS|en|Y|Taxable Meals|Can not delete. This expense type is used when generating fixed travel allowance expense entries.||Mar 15 2008  1:00AM
+101|UNDEF|en|Y|Undefined|Can not delete. This expense type is used when no mapping can be established between a credit card transaction (SIC Code) and an expense type.||Jun 21 2005  3:50PM

@@ -1,0 +1,47 @@
+101|2008|2010|2007|2012|CES_SAE|AP/GL CES Standard Extract|Jun 21 2005  8:55AM||;|Y||Y|Y||yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N|||N|2|U|Y|S|A|N||Sep 14 2005  6:13PM
+101|2010|2010|2009|2012|cash|Employee Payable Data Entry|Jun 21 2005  8:55AM|extract||N||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.|15|CRLF|N|0|Y|N|2|U|Y|S|A|N||Sep 14 2005  6:13PM
+101|2011|2010|2009|2012|payroll|Payroll Interface|Jun 21 2005  8:55AM|extract|,|Y||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N|||N|2|U|Y|S|A|Y||Sep 14 2005  6:13PM
+101|2012|2010|2009|2012|cash_gl|SAE_CASH|Jun 21 2005  8:55AM|extract|;|Y||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N|||N|2|U|Y|S|A|N||Sep 14 2005  6:13PM
+101|2014|2010|2013|2012|creditcard|Paid to Credit Card Data Entry|Jun 21 2005  8:55AM|extract||N||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.|15|CRLF|N|0|Y|N|2|U|Y|S|A|N||Sep 14 2005  6:13PM
+101|2015|2010|2013|2012|IBCP|Credit Card Remittance File|Jun 21 2005  8:55AM|extract||N||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.|10|CRLF|N|0|Y|N|2|U|Y|S|S|Y||Oct  4 2005  3:35PM
+101|2016|2010|2013|2012|creditcard_gl|SAE_CARD|Jun 21 2005  8:55AM|extract|;|Y||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N|||N|2|U|Y|S|A|N||Sep 14 2005  6:13PM
+101|2018|2010|2017|2012|creditcard|Paid to Credit Card Data Entry|Jun 21 2005  8:55AM|extract||N||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.|15|CRLF|N|0|Y|N|2|U|Y|S|A|N||Sep 14 2005  6:13PM
+101|2019|2010|2017|2012|IBCP|Credit Card Remittance File|Jun 21 2005  8:55AM|extract||N||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.|10|CRLF|N|0|Y|N|2|U|Y|S|S|Y||Oct  4 2005  3:30PM
+101|2020|2010|2017|2012|creditcard_gl|SAE_CARD|Jun 21 2005  8:55AM|extract|;|Y||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N|||N|2|U|Y|S|A|N||Sep 14 2005  6:13PM
+101|2030|2010|2029|2012|CES_SAE_v2|AP/GL CES Standard Extract v.2|Jun 21 2005  8:55AM|extract|;|Y||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N|||N|2|U|Y|S|A|N||Apr 24 2006  8:54PM
+101|2032|2010|2031|2012|cash|Employee Payable Data Entry|Jun 21 2005  8:55AM|extract||N||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.|15|CRLF|N|0|Y|N|2|U|Y|S|A|N||Apr 24 2006  8:54PM
+101|2033|2010|2031|2012|payroll|Payroll Interface|Jun 21 2005  8:55AM|extract|,|Y||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N|||N|2|U|Y|S|A|Y||Apr 24 2006  8:54PM
+101|2034|2010|2031|2012|CASH_GL_V2|SAE_CASH_v2|Jun 21 2005  8:55AM|extract|;|Y||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N|||N|2|U|Y|S|A|N||Apr 24 2006  8:54PM
+101|2036|2010|2035|2012|creditcard|Paid to Credit Card Data Entry|Jun 21 2005  8:55AM|extract||N||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.|15|CRLF|N|0|Y|N|2|U|Y|S|A|N||Apr 24 2006  8:54PM
+101|2037|2010|2035|2012|IBCP|Credit Card Remittance File|Jun 21 2005  8:55AM|extract||N||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.|10|CRLF|N|0|Y|N|2|U|Y|S|S|Y||Apr 24 2006  8:54PM
+101|2038|2010|2035|2012|CC_GL_V2|SAE_CARD_v2|Jun 21 2005  8:55AM|extract|;|Y||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N|||N|2|U|Y|S|A|N||Apr 24 2006  8:54PM
+101|2058|2010|2057|2012|Payroll_Remittance_(US)|Payroll_Interface-does_not_include_Cash_Advance|Mar 22 2007  3:59PM|extract|,|Y||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N||N|N|2|N|Y|S|A|Y||Apr 17 2007  8:52PM
+101|2068|2000|2067|2002|payment_gl|Standard Payment Request Accounting Extract|Nov 18 2005  9:45PM|extract|;|Y|"|Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N||N|N|2|N|Y|S|A|N||Mar 27 2007  7:59PM
+101|2070|2000|2069|2002|payment_gl|Standard Payment Request Accounting Extract|Nov 18 2005  9:45PM|extract|;|Y|"|Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N||N|N|2|N|Y|S|A|N||Mar 27 2007  7:59PM
+101|2072|2000|2071|2002|payment_gl|Standard Payment Request Accounting Extract|Nov 18 2005  9:45PM|extract|;|Y|"|Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N||N|N|2|N|Y|S|A|N||Mar 27 2007  7:59PM
+101|2078|2010|2077|2012|IBCP|Credit Card Remittance File|Jun 21 2005  8:55AM|extract||N||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.|10|CRLF|N|0|Y|N|2|U|Y|S|S|Y||Apr 30 2007  8:35PM
+101|2080|2010|2079|2012|CES_SAE_v2|AP/GL CES Standard Extract v.2|Jun 21 2005  8:55AM|extract|;|Y||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N|||N|2|U|Y|S|A|N||Apr 30 2007  8:35PM
+101|2082|2010|2081|2012|cash|Employee Payable Data Entry|Jun 21 2005  8:55AM|extract||N||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.|15|CRLF|N|0|Y|N|2|U|Y|S|A|N||Apr 30 2007  8:35PM
+101|2083|2010|2081|2012|payroll|Payroll Interface|Jun 21 2005  8:55AM|extract|,|Y||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N|||N|2|U|Y|S|A|Y||Apr 30 2007  8:35PM
+101|2084|2010|2081|2012|CASH_GL_V2|SAE_CASH_v2|Jun 21 2005  8:55AM|extract|;|Y||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N|||N|2|U|Y|S|A|N||Apr 30 2007  8:35PM
+101|2086|2010|2085|2012|creditcard|Paid to Credit Card Data Entry|Jun 21 2005  8:55AM|extract||N||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.|15|CRLF|N|0|Y|N|2|U|Y|S|A|N||Apr 30 2007  8:35PM
+101|2087|2010|2085|2012|CC_GL_V2|SAE_CARD_v2|Jun 21 2005  8:55AM|extract|;|Y||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N|||N|2|U|Y|S|A|N||Apr 30 2007  8:35PM
+101|2098|2010|2097|2012|IBCP|Credit Card Remittance File|Jun 21 2005  8:55AM|extract||N||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.|10|CRLF|N|0|Y|N|2|U|Y|S|S|Y||Jun  8 2007 12:21AM
+101|2100|2010|2099|2012|CES_SAE_v2|AP/GL CES Standard Extract v.2|Jun 21 2005  8:55AM|extract|;|Y||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N|||N|2|U|Y|S|A|N||Jun  8 2007 12:21AM
+101|2102|2010|2101|2012|cash|Employee Payable Data Entry|Jun 21 2005  8:55AM|extract||N||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.|15|CRLF|N|0|Y|N|2|U|Y|S|A|N||Jun  8 2007 12:21AM
+101|2103|2010|2101|2012|payroll|Payroll Interface|Jun 21 2005  8:55AM|extract|,|Y||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N|||N|2|U|Y|S|A|Y||Jun  8 2007 12:21AM
+101|2104|2010|2101|2012|CASH_GL_V2.1|SAE_CASH_v2|Jun 21 2005  8:55AM|extract|;|Y||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N|||N|2|U|Y|S|A|N||Jun  8 2007 12:21AM
+101|2106|2010|2105|2012|creditcard|Paid to Credit Card Data Entry|Jun 21 2005  8:55AM|extract||N||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.|15|CRLF|N|0|Y|N|2|U|Y|S|A|N||Jun  8 2007 12:21AM
+101|2107|2010|2105|2012|CC_GL_V2|SAE_CARD_v2.1|Jun 21 2005  8:55AM|extract|;|Y||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N|||N|2|U|Y|S|A|N||Jun  8 2007 12:21AM
+101|2109|2010|2108|2012|extract_sae_vat|AP/GL 256 Extract Tax on One Line|Sep 26 2006  6:31AM||;|Y|"|Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N||N|N|2|U|Y|S|A|N||Jun  8 2007 12:21AM
+101|2128|2015|2127|2017|extract_dr|Direct Reimbursement Extract|Jun 21 2007 11:16AM||;|Y|"|Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N||N|N|2|N|Y|S|A|N||Oct 10 2007  3:52PM
+101|2130|2015|2129|2017|extract_cp|Standard Direct Reimbursement Client Pay Extract|Jun 21 2007 11:28AM||;|Y|"|Y|Y||yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N||N|N|2|N|Y|S|A|N||Oct 10 2007  3:52PM
+101|2137|2020|2099|2012|attendee_detail|Attendee Detail|Oct 10 2007  2:59PM|extract|;|Y||Y|Y|txt|yyyMMddHHmmss|yyyy-MM-dd|N| |.|30|CRLF|N|||N|2|N|Y|S|A|N||Nov 30 2007  7:47PM
+101|2138|2020|2101|2012|attendee_detail_cash|Attendee Detail|Oct 10 2007  3:00PM|extract|;|Y||Y|Y|txt|yyyMMddHHmmss|yyyy-MM-dd|N| |.|30|CRLF|N|||N|2|N|Y|S|A|N||Nov 30 2007  7:47PM
+101|2139|2020|2108|2012|attendee_detail|Attendee Detail|Oct 10 2007  3:01PM|extract|;|Y||Y|Y|txt|yyyMMddHHmmss|yyyy-MM-dd|N| |.|30|CRLF|N|||N|2|N|Y|S|A|N||Nov 30 2007  7:47PM
+101|2140|2020|2105|2012|attendee_detail_cc|Attendee Detail|Nov  5 2007  3:27PM|extract|;|Y||Y|Y|txt|yyyMMddHHmmss|yyyy-MM-dd|N| |.|30|CRLF|N|||N|2|N|Y|S|A|N||Nov 30 2007  7:47PM
+101|2200|2026|2199|2028|Travel_Request_Extract|Travel Request Extract|Feb 17 2012  7:08PM||;|Y||Y|Y|txt|yyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N|||N|2|U|Y|S|A|N||Feb 18 2012  3:08AM
+101|2215|2010|2214|2012|TEST_CES_SAE_v2|AP/GL CES Standard Extract v.2 - Test User|Jun 21 2005  8:55AM||;|Y||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N|||N|2|U|Y|S|A|N||Feb  9 2015  9:49AM
+101|2216|2020|2214|2012|test_attendee_detail|Attendee Detail - Test User|Oct 10 2007  2:59PM||;|Y||Y|Y|txt|yyyMMddHHmmss|yyyy-MM-dd|N| |.|30|CRLF|N|||N|2|N|Y|S|A|N||Feb  9 2015  9:50AM
+101|2219|2020|2218|2012|test_attendee_detail_EMEA|Attendee Detail - EMEA - Test User|Oct 10 2007  2:59PM||;|Y||Y|Y|txt|yyyMMddHHmmss|yyyy-MM-dd|N| |.|30|CRLF|N|||N|2|N|Y|S|A|N||Feb  9 2015  4:31PM
+101|2220|2010|2218|2012|TEST_CES_SAE_v2_EMEA|AP/GL CES Standard Extract v.2 - EMEA - Test User|Jun 21 2005  8:55AM||;|Y||Y|Y|txt|yyyyMMddHHmmss|yyyy-MM-dd|N| |.||CRLF|N|||N|2|U|Y|S|A|N||Feb  9 2015  4:31PM

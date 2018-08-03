@@ -1,0 +1,1749 @@
+101|1|en|Y|Employee First Name||Jun 21 2005  3:53PM
+101|2|en|Y|Employee ID||Jun 21 2005  3:53PM
+101|3|en|Y|Employee Last Name||Jun 21 2005  3:53PM
+101|4|en|Y|Employee Middle Initial||Jun 21 2005  3:53PM
+101|5|en|Y|Employee Email Address||Jun 21 2005  3:53PM
+101|6|en|Y|Employee Login ID||Jun 21 2005  3:53PM
+101|7|en|Y|Employee Org Unit 1||Jun 21 2005  3:53PM
+101|8|en|Y|Employee Org Unit 2||Jun 21 2005  3:53PM
+101|9|en|Y|Employee Org Unit 3||Jun 21 2005  3:53PM
+101|10|en|Y|Employee Org Unit 4||Jun 21 2005  3:53PM
+101|11|en|Y|Employee Org Unit 5||Jun 21 2005  3:53PM
+101|12|en|Y|Employee Org Unit 6||Jun 21 2005  3:53PM
+101|13|en|Y|Employee Custom 1||Jun 21 2005  3:53PM
+101|14|en|Y|Employee Custom 2||Jun 21 2005  3:53PM
+101|15|en|Y|Employee Custom 3||Jun 21 2005  3:53PM
+101|16|en|Y|Employee Custom 4||Jun 21 2005  3:53PM
+101|17|en|Y|Employee Custom 5||Jun 21 2005  3:53PM
+101|18|en|Y|Employee Custom 6||Jun 21 2005  3:53PM
+101|19|en|Y|Employee Custom 7||Jun 21 2005  3:53PM
+101|20|en|Y|Employee Custom 8||Jun 21 2005  3:53PM
+101|21|en|Y|Employee Custom 9||Jun 21 2005  3:53PM
+101|22|en|Y|Employee Custom 10||Jun 21 2005  3:53PM
+101|23|en|Y|Employee Custom 11||Jun 21 2005  3:53PM
+101|24|en|Y|Employee Custom 12||Jun 21 2005  3:53PM
+101|25|en|Y|Employee Custom 13||Jun 21 2005  3:53PM
+101|26|en|Y|Employee Custom 14||Jun 21 2005  3:53PM
+101|27|en|Y|Employee Custom 15||Jun 21 2005  3:53PM
+101|28|en|Y|Employee Custom 16||Jun 21 2005  3:53PM
+101|29|en|Y|Employee Custom 17||Jun 21 2005  3:53PM
+101|30|en|Y|Employee Custom 18||Jun 21 2005  3:53PM
+101|31|en|Y|Employee Custom 19||Jun 21 2005  3:53PM
+101|32|en|Y|Employee Custom 20||Jun 21 2005  3:53PM
+101|33|en|Y|Vendor Name||Jun 21 2005  3:53PM
+101|34|en|Y|Vendor Code||Jun 21 2005  3:53PM
+101|35|en|Y|Vendor Remit To Address ID||Nov  3 2005  7:11PM
+101|36|en|Y|Vendor Remit To Address Code||Nov  3 2005  7:11PM
+101|37|en|Y|Vendor Remit To Vendor Address Name||Nov  3 2005  7:11PM
+101|38|en|Y|Vendor Remit To Vendor Location Image Received||Nov  3 2005  7:11PM
+101|39|en|Y|Vendor Remit To Address 1||Nov  3 2005  7:11PM
+101|40|en|Y|Vendor Remit To Address 2||Nov  3 2005  7:11PM
+101|41|en|Y|Vendor Remit To Address 3||Nov  3 2005  7:11PM
+101|42|en|Y|Vendor Remit To Country||Nov  3 2005  7:11PM
+101|43|en|Y|Vendor Remit To State||Nov  3 2005  7:11PM
+101|44|en|Y|Vendor Remit To City||Nov  3 2005  7:11PM
+101|45|en|Y|Vendor Remit To Postal Code||Nov  3 2005  7:11PM
+101|46|en|Y|Vendor Remit To Phone Number||Nov  3 2005  7:11PM
+101|47|en|Y|Vendor Remit To Contact First Name||Nov  3 2005  7:11PM
+101|48|en|Y|Vendor Remit To Contact Last Name||Nov  3 2005  7:11PM
+101|49|en|Y|Vendor Remit To Custom 1||Nov  3 2005  7:11PM
+101|50|en|Y|Vendor Remit To Custom 2||Nov  3 2005  7:11PM
+101|51|en|Y|Vendor Remit To Custom 3||Nov  3 2005  7:11PM
+101|52|en|Y|Vendor Remit To Custom 4||Nov  3 2005  7:11PM
+101|53|en|Y|Vendor Remit To Custom 5||Nov  3 2005  7:11PM
+101|54|en|Y|Vendor Remit To Custom 6||Nov  3 2005  7:11PM
+101|55|en|Y|Vendor Remit To Custom 7||Nov  3 2005  7:11PM
+101|56|en|Y|Vendor Remit To Custom 8||Nov  3 2005  7:11PM
+101|57|en|Y|Vendor Remit To Custom 9||Nov  3 2005  7:11PM
+101|58|en|Y|Vendor Remit To Custom 10||Nov  3 2005  7:11PM
+101|59|en|Y|Vendor Remit To Custom 11||Nov  3 2005  7:11PM
+101|60|en|Y|Vendor Remit To Custom 12||Nov  3 2005  7:11PM
+101|61|en|Y|Vendor Remit To Custom 13||Nov  3 2005  7:11PM
+101|62|en|Y|Vendor Remit To Custom 14||Nov  3 2005  7:11PM
+101|63|en|Y|Vendor Remit To Custom 15||Nov  3 2005  7:11PM
+101|64|en|Y|Vendor Remit To Address Create Date||Nov  3 2005  7:11PM
+101|65|en|Y|Vendor Ship From Address ID||Nov  3 2005  7:11PM
+101|66|en|Y|Vendor Ship From Address Code||Nov  3 2005  7:11PM
+101|67|en|Y|Vendor Ship From Vendor Address Name||Nov  3 2005  7:11PM
+101|68|en|Y|Vendor Ship From Vendor Location Image Received||Nov  3 2005  7:11PM
+101|69|en|Y|Vendor Ship From Address 1||Nov  3 2005  7:11PM
+101|70|en|Y|Vendor Ship From Address 2||Nov  3 2005  7:11PM
+101|71|en|Y|Vendor Ship From Address 3||Nov  3 2005  7:11PM
+101|72|en|Y|Vendor Ship From Country Code||Nov  3 2005  7:11PM
+101|73|en|Y|Vendor Ship From State||Nov  3 2005  7:11PM
+101|74|en|Y|Vendor Ship From City||Nov  3 2005  7:11PM
+101|75|en|Y|Vendor Ship From Zip Code||Nov  3 2005  7:11PM
+101|76|en|Y|Vendor Ship From Phone Number||Nov  3 2005  7:11PM
+101|77|en|Y|Vendor Ship From Contact First Name||Nov  3 2005  7:11PM
+101|78|en|Y|Vendor Ship From Contact Last Name||Nov  3 2005  7:11PM
+101|79|en|Y|Vendor Ship From Custom 1||Nov  3 2005  7:11PM
+101|80|en|Y|Vendor Ship From Custom 2||Nov  3 2005  7:11PM
+101|81|en|Y|Vendor Ship From Custom 3||Nov  3 2005  7:11PM
+101|82|en|Y|Vendor Ship From Custom 4||Nov  3 2005  7:11PM
+101|83|en|Y|Vendor Ship From Custom 5||Nov  3 2005  7:11PM
+101|84|en|Y|Vendor Ship From Custom 6||Nov  3 2005  7:11PM
+101|85|en|Y|Vendor Ship From Custom 7||Nov  3 2005  7:11PM
+101|86|en|Y|Vendor Ship From Custom 8||Nov  3 2005  7:11PM
+101|87|en|Y|Vendor Ship From Custom 9||Nov  3 2005  7:11PM
+101|88|en|Y|Vendor Ship From Custom 10||Nov  3 2005  7:11PM
+101|89|en|Y|Vendor Ship From Custom 11||Nov  3 2005  7:11PM
+101|90|en|Y|Vendor Ship From Custom 12||Nov  3 2005  7:11PM
+101|91|en|Y|Vendor Ship From Custom 13||Nov  3 2005  7:11PM
+101|92|en|Y|Vendor Ship From Custom 14||Nov  3 2005  7:11PM
+101|93|en|Y|Vendor Ship From Custom 15||Nov  3 2005  7:11PM
+101|94|en|Y|Vendor Ship From Address Create Date||Nov  3 2005  7:11PM
+101|95|en|Y|Company Bill To Address Code||Nov  3 2005  7:11PM
+101|96|en|Y|Request Group Code||Jun 21 2005  3:53PM
+101|97|en|Y|Request Group Name||Jun 21 2005  3:53PM
+101|98|en|Y|Request Reporting Group Code||Jun 21 2005  3:53PM
+101|99|en|Y|Request Reporting Group Name||Jun 21 2005  3:53PM
+101|100|en|Y|Request Data Source Code||Jun 21 2005  3:53PM
+101|101|en|Y|Policy Name||Jun 21 2005  3:53PM
+101|102|en|Y|Request Key||Jun 21 2005  3:53PM
+101|103|en|Y|Approval Status||Jun 21 2005  3:53PM
+101|104|en|Y|Payment Status||Jun 21 2005  3:53PM
+101|105|en|Y|Ledger Code||Jun 21 2005  3:53PM
+101|106|en|Y|Creation Date||Jun 21 2005  3:53PM
+101|107|en|Y|Request ID||Jun 21 2005  3:53PM
+101|108|en|Y|Title||Jun 21 2005  3:53PM
+101|109|en|Y|Invoice Received||Jun 21 2005  3:53PM
+101|110|en|Y|Image Available||Jun 21 2005  3:53PM
+101|111|en|Y|Is Workflow Modified||Jun 21 2005  3:53PM
+101|112|en|Y|Delegate Approved||Jun 21 2005  3:53PM
+101|113|en|Y|Delegate Submitted||Jun 21 2005  3:53PM
+101|114|en|Y|Exception Approved||Jun 21 2005  3:53PM
+101|115|en|Y|Exception Level Total||Jun 21 2005  3:53PM
+101|116|en|Y|Exception Level Max||Jun 21 2005  3:53PM
+101|117|en|Y|Limit Approved||Jun 21 2005  3:53PM
+101|118|en|Y|Comment Count||Jun 21 2005  3:53PM
+101|119|en|Y|Description||Jun 21 2005  3:53PM
+101|120|en|Y|PO Number||Jun 21 2005  3:53PM
+101|121|en|Y|Submit Date||Jun 21 2005  3:53PM
+101|122|en|Y|Total Amount||Jun 21 2005  3:53PM
+101|123|en|Y|Total Approved Amount||Jun 21 2005  3:53PM
+101|124|en|Y|Number Line Items||Jun 21 2005  3:53PM
+101|125|en|Y|Payment Due Date||Jun 21 2005  3:53PM
+101|126|en|Y|Invoice Date||Jun 21 2005  3:53PM
+101|127|en|Y|Vendor Invoice Number||Jun 21 2005  3:53PM
+101|128|en|Y|Notes to Vendor||Jun 21 2005  3:53PM
+101|129|en|Y|Notes to Approvers||Jun 21 2005  3:53PM
+101|130|en|Y|Process Completion Date||Jun 21 2005  3:53PM
+101|131|en|Y|Paid Date||Jun 21 2005  3:53PM
+101|132|en|Y|Is Request Fully Allocated||Jun 21 2005  3:53PM
+101|133|en|Y|Request Og Unit 1||Jun 21 2005  3:53PM
+101|134|en|Y|Request Og Unit 2||Jun 21 2005  3:53PM
+101|135|en|Y|Request Og Unit 3||Jun 21 2005  3:53PM
+101|136|en|Y|Request Og Unit 4||Jun 21 2005  3:53PM
+101|137|en|Y|Request Og Unit 5||Jun 21 2005  3:53PM
+101|138|en|Y|Request Og Unit 6||Jun 21 2005  3:53PM
+101|139|en|Y|Request Custom 1||Jun 21 2005  3:53PM
+101|140|en|Y|Request Custom 2||Jun 21 2005  3:53PM
+101|141|en|Y|Request Custom 3||Jun 21 2005  3:53PM
+101|142|en|Y|Request Custom 4||Jun 21 2005  3:53PM
+101|143|en|Y|Request Custom 5||Jun 21 2005  3:53PM
+101|144|en|Y|Request Custom 6||Jun 21 2005  3:53PM
+101|145|en|Y|Request Custom 7||Jun 21 2005  3:53PM
+101|146|en|Y|Request Custom 8||Jun 21 2005  3:53PM
+101|147|en|Y|Request Custom 9||Jun 21 2005  3:53PM
+101|148|en|Y|Request Custom 10||Jun 21 2005  3:53PM
+101|149|en|Y|Request Custom 11||Jun 21 2005  3:53PM
+101|150|en|Y|Request Custom 12||Jun 21 2005  3:53PM
+101|151|en|Y|Request Custom 13||Jun 21 2005  3:53PM
+101|152|en|Y|Request Custom 14||Jun 21 2005  3:53PM
+101|153|en|Y|Request Custom 15||Jun 21 2005  3:53PM
+101|154|en|Y|Request Custom 16||Jun 21 2005  3:53PM
+101|155|en|Y|Request Custom 17||Jun 21 2005  3:53PM
+101|156|en|Y|Request Custom 18||Jun 21 2005  3:53PM
+101|157|en|Y|Request Custom 19||Jun 21 2005  3:53PM
+101|158|en|Y|Request Custom 20||Jun 21 2005  3:53PM
+101|159|en|Y|Request Custom 21||Jun 21 2005  3:53PM
+101|160|en|Y|Request Custom 22||Jun 21 2005  3:53PM
+101|161|en|Y|Request Custom 23||Jun 21 2005  3:53PM
+101|162|en|Y|Request Custom 24||Jun 21 2005  3:53PM
+101|163|en|Y|Requested Alpha Currency Code||Jun 21 2005  3:53PM
+101|164|en|Y|Requested Numeric Currency Code||Jun 21 2005  3:53PM
+101|165|en|Y|Request Currency Name||Jun 21 2005  3:53PM
+101|166|en|Y|Data Source Name||Jun 21 2005  3:53PM
+101|167|en|Y|Approval Status Name||Jun 21 2005  3:53PM
+101|168|en|Y|Payment Status Name||Jun 21 2005  3:53PM
+101|169|en|Y|Ledger name||Jun 21 2005  3:53PM
+101|170|en|Y|Line Item Expense Type Code||Jun 21 2005  3:53PM
+101|171|en|Y|Line Item Sequence Order||Jun 21 2005  3:53PM
+101|172|en|Y|Line Item Quantity||Jun 21 2005  3:53PM
+101|173|en|Y|Line Item Description||Jun 21 2005  3:53PM
+101|174|en|Y|Line Item Unit Price||Jun 21 2005  3:53PM
+101|175|en|Y|Line Item Total||Jun 21 2005  3:53PM
+101|176|en|Y|Line Item Allocation State||Jun 21 2005  3:53PM
+101|177|en|Y|Line Item Requested Amount||Jun 21 2005  3:53PM
+101|178|en|Y|Line Item Approved Amount||Jun 21 2005  3:53PM
+101|179|en|Y|Line Item Custom 1||Jun 21 2005  3:53PM
+101|180|en|Y|Line Item Custom 2||Jun 21 2005  3:53PM
+101|181|en|Y|Line Item Custom 3||Jun 21 2005  3:53PM
+101|182|en|Y|Line Item Custom 4||Jun 21 2005  3:53PM
+101|183|en|Y|Line Item Custom 5||Jun 21 2005  3:53PM
+101|184|en|Y|Line Item Custom 6||Jun 21 2005  3:53PM
+101|185|en|Y|Line Item Custom 7||Jun 21 2005  3:53PM
+101|186|en|Y|Line Item Custom 8||Jun 21 2005  3:53PM
+101|187|en|Y|Line Item Custom 9||Jun 21 2005  3:53PM
+101|188|en|Y|Line Item Custom 10||Jun 21 2005  3:53PM
+101|189|en|Y|Line Item Custom 11||Jun 21 2005  3:53PM
+101|190|en|Y|Line Item Custom 12||Jun 21 2005  3:53PM
+101|191|en|Y|Line Item Custom 13||Jun 21 2005  3:53PM
+101|192|en|Y|Line Item Custom 14||Jun 21 2005  3:53PM
+101|193|en|Y|Line Item Custom 15||Jun 21 2005  3:53PM
+101|194|en|Y|Line Item Custom 16||Jun 21 2005  3:53PM
+101|195|en|Y|Line Item Custom 17||Jun 21 2005  3:53PM
+101|196|en|Y|Line Item Custom 18||Jun 21 2005  3:53PM
+101|197|en|Y|Line Item Custom 19||Jun 21 2005  3:53PM
+101|198|en|Y|Line Item Custom 20||Jun 21 2005  3:53PM
+101|199|en|Y|Line Item Expense Type Name||Jun 21 2005  3:53PM
+101|200|en|Y|Allocation Is Hidden||Jun 21 2005  3:53PM
+101|201|en|Y|Allocation Account Code||Jun 21 2005  3:53PM
+101|202|en|Y|Allocation Percentage||Jun 21 2005  3:53PM
+101|203|en|Y|Allocation Custom 1||Jun 21 2005  3:53PM
+101|204|en|Y|Allocation Custom 2||Jun 21 2005  3:53PM
+101|205|en|Y|Allocation Custom 3||Jun 21 2005  3:53PM
+101|206|en|Y|Allocation Custom 4||Jun 21 2005  3:53PM
+101|207|en|Y|Allocation Custom 5||Jun 21 2005  3:53PM
+101|208|en|Y|Allocation Custom 6||Jun 21 2005  3:53PM
+101|209|en|Y|Allocation Custom 7||Jun 21 2005  3:53PM
+101|210|en|Y|Allocation Custom 8||Jun 21 2005  3:53PM
+101|211|en|Y|Allocation Custom 9||Jun 21 2005  3:53PM
+101|212|en|Y|Allocation Custom 10||Jun 21 2005  3:53PM
+101|213|en|Y|Allocation Custom 11||Jun 21 2005  3:53PM
+101|214|en|Y|Allocation Custom 12||Jun 21 2005  3:53PM
+101|215|en|Y|Allocation Custom 13||Jun 21 2005  3:53PM
+101|216|en|Y|Allocation Custom 14||Jun 21 2005  3:53PM
+101|217|en|Y|Allocation Custom 15||Jun 21 2005  3:53PM
+101|218|en|Y|Allocation Custom 16||Jun 21 2005  3:53PM
+101|219|en|Y|Allocation Custom 17||Jun 21 2005  3:53PM
+101|220|en|Y|Allocation Custom 18||Jun 21 2005  3:53PM
+101|221|en|Y|Allocation Custom 19||Jun 21 2005  3:53PM
+101|222|en|Y|Allocation Custom 20||Jun 21 2005  3:53PM
+101|223|en|Y|Journal Account Code||Jun 21 2005  3:53PM
+101|224|en|Y|Debit or Credit||Jun 21 2005  3:53PM
+101|225|en|Y|Journal Amount||Jun 21 2005  3:53PM
+101|226|en|Y|Journal Is Contested||Jun 21 2005  3:53PM
+101|227|en|Y|Vendor Name||Jun 21 2005  3:53PM
+101|228|en|Y|Vendor Code||Jun 21 2005  3:53PM
+101|229|en|Y|Address ID||Jun 21 2005  3:53PM
+101|230|en|Y|Address Code||Jun 21 2005  3:53PM
+101|231|en|Y|Vendor Address Name||Jun 21 2005  3:53PM
+101|232|en|Y|Vendor Location Image Received||Jun 21 2005  3:53PM
+101|233|en|Y|Image Available||Jun 21 2005  3:53PM
+101|234|en|Y|Created by Employee ID||Jun 21 2005  3:53PM
+101|235|en|Y|Is Approved||Jun 21 2005  3:53PM
+101|236|en|Y|Is Deleted||Jun 21 2005  3:53PM
+101|237|en|Y|Address 1||Jun 21 2005  3:53PM
+101|238|en|Y|Address 2||Jun 21 2005  3:53PM
+101|239|en|Y|Address 3||Jun 21 2005  3:53PM
+101|240|en|Y|Country||Jun 21 2005  3:53PM
+101|241|en|Y|State||Jun 21 2005  3:53PM
+101|242|en|Y|City||Jun 21 2005  3:53PM
+101|243|en|Y|Postal Code||Jun 21 2005  3:53PM
+101|244|en|Y|Phone Number||Jun 21 2005  3:53PM
+101|245|en|Y|Contact First Name||Jun 21 2005  3:53PM
+101|246|en|Y|Contact Last Name||Jun 21 2005  3:53PM
+101|247|en|Y|Custom 1||Jun 21 2005  3:53PM
+101|248|en|Y|Custom 2||Jun 21 2005  3:53PM
+101|249|en|Y|Custom 3||Jun 21 2005  3:53PM
+101|250|en|Y|Custom 4||Jun 21 2005  3:53PM
+101|251|en|Y|Custom 5||Jun 21 2005  3:53PM
+101|252|en|Y|Custom 6||Jun 21 2005  3:53PM
+101|253|en|Y|Custom 7||Jun 21 2005  3:53PM
+101|254|en|Y|Custom 8||Jun 21 2005  3:53PM
+101|255|en|Y|Custom 9||Jun 21 2005  3:53PM
+101|256|en|Y|Custom 10||Jun 21 2005  3:53PM
+101|257|en|Y|Custom 11||Jun 21 2005  3:53PM
+101|258|en|Y|Custom 12||Jun 21 2005  3:53PM
+101|259|en|Y|Custom 13||Jun 21 2005  3:53PM
+101|260|en|Y|Custom 14||Jun 21 2005  3:53PM
+101|261|en|Y|Custom 15||Jun 21 2005  3:53PM
+101|262|en|Y|Address Create Date||Jun 21 2005  3:53PM
+101|263|en|Y|Employee ID||Jun 21 2005  3:53PM
+101|264|en|Y|Employee First Name||Jun 21 2005  3:53PM
+101|265|en|Y|Employee Last Name||Jun 21 2005  3:53PM
+101|266|en|Y|Employee Middle Initial||Jun 21 2005  3:53PM
+101|267|en|Y|Employee Email Address||Jun 21 2005  3:54PM
+101|268|en|Y|Employee Login ID||Jun 21 2005  3:54PM
+101|269|en|Y|Employee Org Unit 1||Jun 21 2005  3:54PM
+101|270|en|Y|Employee Org Unit 2||Jun 21 2005  3:54PM
+101|271|en|Y|Employee Org Unit 3||Jun 21 2005  3:54PM
+101|272|en|Y|Employee Org Unit 4||Jun 21 2005  3:54PM
+101|273|en|Y|Employee Org Unit 5||Jun 21 2005  3:54PM
+101|274|en|Y|Employee Org Unit 6||Jun 21 2005  3:54PM
+101|275|en|Y|Employee Custom 1||Jun 21 2005  3:54PM
+101|276|en|Y|Employee Custom 2||Jun 21 2005  3:54PM
+101|277|en|Y|Employee Custom 3||Jun 21 2005  3:54PM
+101|278|en|Y|Employee Custom 4||Jun 21 2005  3:54PM
+101|279|en|Y|Employee Custom 5||Jun 21 2005  3:54PM
+101|280|en|Y|Employee Custom 6||Jun 21 2005  3:54PM
+101|281|en|Y|Employee Custom 7||Jun 21 2005  3:54PM
+101|282|en|Y|Employee Custom 8||Jun 21 2005  3:54PM
+101|283|en|Y|Employee Custom 9||Jun 21 2005  3:54PM
+101|284|en|Y|Employee Custom 10||Jun 21 2005  3:54PM
+101|285|en|Y|Employee Custom 11||Jun 21 2005  3:54PM
+101|286|en|Y|Employee Custom 12||Jun 21 2005  3:54PM
+101|287|en|Y|Employee Custom 13||Jun 21 2005  3:54PM
+101|288|en|Y|Employee Custom 14||Jun 21 2005  3:54PM
+101|289|en|Y|Employee Custom 15||Jun 21 2005  3:54PM
+101|290|en|Y|Employee Custom 16||Jun 21 2005  3:54PM
+101|291|en|Y|Employee Custom 17||Jun 21 2005  3:54PM
+101|292|en|Y|Employee Custom 18||Jun 21 2005  3:54PM
+101|293|en|Y|Employee Custom 19||Jun 21 2005  3:54PM
+101|294|en|Y|Employee Custom 20||Jun 21 2005  3:54PM
+101|295|en|Y|Employee Custom 21||Jun 21 2005  3:54PM
+101|296|en|Y|Employee Default Currency Alpha Code||Jun 21 2005  3:54PM
+101|297|en|Y|Employee Default Currency Numeric Code||Jun 21 2005  3:54PM
+101|298|en|Y|Report Expense Group Code||Jun 21 2005  3:54PM
+101|299|en|Y|Report Expense Group Name||Jun 21 2005  3:54PM
+101|300|en|Y|Report BI Group Code||Jun 21 2005  3:54PM
+101|301|en|Y|Report BI Group Name||Jun 21 2005  3:54PM
+101|302|en|Y|Report ID||Jun 21 2005  3:54PM
+101|303|en|Y|Report Key||Jun 21 2005  3:54PM
+101|304|en|Y|Report Request Key||Apr 27 2013  2:14AM
+101|306|en|Y|Report Policy Name||Jun 21 2005  3:54PM
+101|307|en|Y|Report Receipts Received Flag||Jun 21 2005  3:54PM
+101|308|en|Y|Report Creation Date||Jun 21 2005  3:54PM
+101|309|en|Y|Report Submit Date||Jun 21 2005  3:54PM
+101|310|en|Y|Report User Defined Date||Jun 21 2005  3:54PM
+101|311|en|Y|Report Processing Payment Date||Jun 21 2005  3:54PM
+101|312|en|Y|Report Name||Jun 21 2005  3:54PM
+101|313|en|Y|Report Total Posted Amount||Jun 21 2005  3:54PM
+101|314|en|Y|Report Total Personal Amount||Jun 21 2005  3:54PM
+101|315|en|Y|Report Total Claimed Amount||Jun 21 2005  3:54PM
+101|316|en|Y|Report Total Approved Amount||Jun 21 2005  3:54PM
+101|317|en|Y|Total Employee Due||Jun 21 2005  3:54PM
+101|318|en|Y|Total Company Card Due||Jun 21 2005  3:54PM
+101|319|en|Y|Cash Advance Returned Amount||Jun 21 2005  3:54PM
+101|320|en|Y|Cash Advance Utilized Amount||Jun 21 2005  3:54PM
+101|321|en|Y|Image Required Flag||Jun 21 2005  3:54PM
+101|322|en|Y|Receipt Required Flag||Jun 21 2005  3:54PM
+101|323|en|Y|Receipt Container Id||Jun 21 2005  3:54PM
+101|324|en|Y|Receipt Image Available Flag||Jun 21 2005  3:54PM
+101|325|en|Y|Cash Advance Return Received Flag||Jun 21 2005  3:54PM
+101|326|en|Y|Report Entry Count||Jun 21 2005  3:54PM
+101|327|en|Y|Has VAT Entry||Jun 21 2005  3:54PM
+101|328|en|Y|Has TA Entry||Jun 21 2005  3:54PM
+101|329|en|Y|Report Org Unit 1||Jun 21 2005  3:54PM
+101|330|en|Y|Report Org Unit 2||Jun 21 2005  3:54PM
+101|331|en|Y|Report Org Unit 3||Jun 21 2005  3:54PM
+101|332|en|Y|Report Org Unit 4||Jun 21 2005  3:54PM
+101|333|en|Y|Report Org Unit 5||Jun 21 2005  3:54PM
+101|334|en|Y|Report Org Unit 6||Jun 21 2005  3:54PM
+101|335|en|Y|Report Custom 1||Jun 21 2005  3:54PM
+101|336|en|Y|Report Custom 2||Jun 21 2005  3:54PM
+101|337|en|Y|Report Custom 3||Jun 21 2005  3:54PM
+101|338|en|Y|Report Custom 4||Jun 21 2005  3:54PM
+101|339|en|Y|Report Custom 5||Jun 21 2005  3:54PM
+101|340|en|Y|Report Custom 6||Jun 21 2005  3:54PM
+101|341|en|Y|Report Custom 7||Jun 21 2005  3:54PM
+101|342|en|Y|Report Custom 8||Jun 21 2005  3:54PM
+101|343|en|Y|Report Custom 9||Jun 21 2005  3:54PM
+101|344|en|Y|Report Custom 10||Jun 21 2005  3:54PM
+101|345|en|Y|Report Custom 11||Jun 21 2005  3:54PM
+101|346|en|Y|Report Custom 12||Jun 21 2005  3:54PM
+101|347|en|Y|Report Custom 13||Jun 21 2005  3:54PM
+101|348|en|Y|Report Custom 14||Jun 21 2005  3:54PM
+101|349|en|Y|Report Custom 15||Jun 21 2005  3:54PM
+101|350|en|Y|Report Custom 16||Jun 21 2005  3:54PM
+101|351|en|Y|Report Custom 17||Jun 21 2005  3:54PM
+101|352|en|Y|Report Custom 18||Jun 21 2005  3:54PM
+101|353|en|Y|Report Custom 19||Jun 21 2005  3:54PM
+101|354|en|Y|Report Custom 20||Jun 21 2005  3:54PM
+101|355|en|Y|Authorization Request Name||Mar 22 2008  5:19AM
+101|356|en|Y|Authorization Request Total Posted Amount||Mar 22 2008  5:19AM
+101|357|en|Y|Authorization Request Total Approved Amount||Mar 22 2008  5:19AM
+101|358|en|Y|Authorization Request Start Date||Mar 22 2008  5:19AM
+101|359|en|Y|Authorization Request End Date||Mar 22 2008  5:19AM
+101|360|en|Y|Authorization Request Authorized Date||Mar 22 2008  5:19AM
+101|362|en|Y|Report Home Country Name||Jun 21 2005  3:54PM
+101|363|en|Y|Report Home Country ISO Code||Jun 21 2005  3:54PM
+101|364|en|Y|Report Currency Alpha Code||Jun 21 2005  3:54PM
+101|365|en|Y|Report Currency Numeric Code||Jun 21 2005  3:54PM
+101|366|en|Y|Payment Status||Jun 21 2005  3:54PM
+101|367|en|Y|Ledger Code||Jun 21 2005  3:54PM
+101|368|en|Y|Report Entry Id||Jun 21 2005  3:54PM
+101|369|en|Y|Report Entry Transaction Type||Jun 21 2005  3:54PM
+101|370|en|Y|Report Entry Expense Code Name||Jun 21 2005  3:54PM
+101|371|en|Y|Report Entry Expense Type Name||Jun 21 2005  3:54PM
+101|372|en|Y|Report Entry Receipt Received Flag||Jun 21 2005  3:54PM
+101|373|en|Y|Report Entry Transaction Date||Jun 21 2005  3:54PM
+101|374|en|Y|Report Entry Currency Alpha Code||Jun 21 2005  3:54PM
+101|375|en|Y|Report Entry Currency Numeric Code||Jun 21 2005  3:54PM
+101|376|en|Y|Report Entry Exchange Rate||Jun 21 2005  3:54PM
+101|377|en|Y|Report Entry Exchange Rate Direction||Jun 21 2005  3:54PM
+101|378|en|Y|Report Entry Is Personal Flag||Jun 21 2005  3:54PM
+101|379|en|Y|Report Entry Description||Jun 21 2005  3:54PM
+101|380|en|Y|Report Entry Vendor Name||Jun 21 2005  3:54PM
+101|381|en|Y|Report Entry Vendor Description||Jun 21 2005  3:54PM
+101|382|en|Y|Report Entry Org Unit 1||Jun 21 2005  3:54PM
+101|383|en|Y|Report Entry Org Unit 2||Jun 21 2005  3:54PM
+101|384|en|Y|Report Entry Org Unit 3||Jun 21 2005  3:54PM
+101|385|en|Y|Report Entry Org Unit 4||Jun 21 2005  3:54PM
+101|386|en|Y|Report Entry Org Unit 5||Jun 21 2005  3:54PM
+101|387|en|Y|Report Entry Org Unit 6||Jun 21 2005  3:54PM
+101|388|en|Y|Report Entry Custom 1||Jun 21 2005  3:54PM
+101|389|en|Y|Report Entry Custom 2||Jun 21 2005  3:54PM
+101|390|en|Y|Report Entry Custom 3||Jun 21 2005  3:54PM
+101|391|en|Y|Report Entry Custom 4||Jun 21 2005  3:54PM
+101|392|en|Y|Report Entry Custom 5||Jun 21 2005  3:54PM
+101|393|en|Y|Report Entry Custom 6||Jun 21 2005  3:54PM
+101|394|en|Y|Report Entry Custom 7||Jun 21 2005  3:54PM
+101|395|en|Y|Report Entry Custom 8||Jun 21 2005  3:54PM
+101|396|en|Y|Report Entry Custom 9||Jun 21 2005  3:54PM
+101|397|en|Y|Report Entry Custom 10||Jun 21 2005  3:54PM
+101|398|en|Y|Report Entry Custom 11||Jun 21 2005  3:54PM
+101|399|en|Y|Report Entry Custom 12||Jun 21 2005  3:54PM
+101|400|en|Y|Report Entry Custom 13||Jun 21 2005  3:54PM
+101|401|en|Y|Report Entry Custom 14||Jun 21 2005  3:54PM
+101|402|en|Y|Report Entry Custom 15||Jun 21 2005  3:54PM
+101|403|en|Y|Report Entry Custom 16||Jun 21 2005  3:54PM
+101|404|en|Y|Report Entry Custom 17||Jun 21 2005  3:54PM
+101|405|en|Y|Report Entry Custom 18||Jun 21 2005  3:54PM
+101|406|en|Y|Report Entry Custom 19||Jun 21 2005  3:54PM
+101|407|en|Y|Report Entry Custom 20||Jun 21 2005  3:54PM
+101|408|en|Y|Report Entry Custom 21||Jun 21 2005  3:54PM
+101|409|en|Y|Report Entry Custom 22||Jun 21 2005  3:54PM
+101|410|en|Y|Report Entry Custom 23||Jun 21 2005  3:54PM
+101|411|en|Y|Report Entry Custom 24||Jun 21 2005  3:54PM
+101|412|en|Y|Report Entry Custom 25||Jun 21 2005  3:54PM
+101|413|en|Y|Report Entry Custom 26||Jun 21 2005  3:54PM
+101|414|en|Y|Report Entry Custom 27||Jun 21 2005  3:54PM
+101|415|en|Y|Report Entry Custom 28||Jun 21 2005  3:54PM
+101|416|en|Y|Report Entry Custom 29||Jun 21 2005  3:54PM
+101|417|en|Y|Report Entry Custom 30||Jun 21 2005  3:54PM
+101|418|en|Y|Report Entry Custom 31||Jun 21 2005  3:54PM
+101|419|en|Y|Report Entry Custom 32||Jun 21 2005  3:54PM
+101|420|en|Y|Report Entry Custom 33||Jun 21 2005  3:54PM
+101|421|en|Y|Report Entry Custom 34||Jun 21 2005  3:54PM
+101|422|en|Y|Report Entry Custom 35||Jun 21 2005  3:54PM
+101|423|en|Y|Report Entry Custom 36||Jun 21 2005  3:54PM
+101|424|en|Y|Report Entry Custom 37||Jun 21 2005  3:54PM
+101|425|en|Y|Report Entry Custom 38||Jun 21 2005  3:54PM
+101|426|en|Y|Report Entry Custom 39||Jun 21 2005  3:54PM
+101|427|en|Y|Report Entry Custom 40||Jun 21 2005  3:54PM
+101|428|en|Y|Report Entry Transaction Amount||Jun 21 2005  3:54PM
+101|429|en|Y|Report Entry Posted Amount||Jun 21 2005  3:54PM
+101|430|en|Y|Report Entry Approved Amount||Jun 21 2005  3:54PM
+101|431|en|Y|Report Entry Receipt Type||Jun 21 2005  3:54PM
+101|432|en|Y|Report Entry Receipt Required Flag||Jun 21 2005  3:54PM
+101|433|en|Y|Report Entry Image Required Flag||Jun 21 2005  3:54PM
+101|434|en|Y|Report Entry Has Vat Flag||Jun 21 2005  3:54PM
+101|435|en|Y|Report Entry Claimed Amount||Jun 21 2005  3:54PM
+101|436|en|Y|Report Entry Adjusted Amount||Jun 21 2005  3:54PM
+101|437|en|Y|Report Entry From Location||Jun 21 2005  3:54PM
+101|438|en|Y|Report Entry To Location||Jun 21 2005  3:54PM
+101|439|en|Y|Report Entry Foreign or Domestic Flag||Jun 21 2005  3:54PM
+101|440|en|Y|Report Entry Location Country Code||Jun 21 2005  3:54PM
+101|441|en|Y|Report Entry Location Country Sub Code||Jun 21 2005  3:54PM
+101|442|en|Y|Report Entry Payment Type Name||Jun 21 2005  3:54PM
+101|443|en|Y|Report Entry Payment Code Name||Jun 21 2005  3:54PM
+101|444|en|Y|Report Entry Payment Code Code||Jun 21 2005  3:54PM
+101|445|en|Y|Individual Credit Card Account Number||Aug 16 2008  5:48AM
+101|446|en|Y|Individual Credit Card Account Name On Card||Aug 16 2008  5:48AM
+101|447|en|Y|Credit Card Transaction JR Key||Jun 21 2005  3:54PM
+101|448|en|Y|Credit Card Transaction Reference Number||Jun 21 2005  3:54PM
+101|449|en|Y|Credit Card Transaction CCT Key||Jun 21 2005  3:54PM
+101|450|en|Y|Credit Card Transaction Status||Jun 21 2005  3:54PM
+101|451|en|Y|Credit Card Transaction CCT Type||Jun 21 2005  3:54PM
+101|452|en|Y|Credit Card Transaction Master Card Code||Jun 21 2005  3:54PM
+101|453|en|Y|Credit Card Transaction ID||Jun 21 2005  3:54PM
+101|454|en|Y|Credit Card Transaction Amount||Jun 21 2005  3:54PM
+101|455|en|Y|Credit Card Transaction Posted Amount||Jun 21 2005  3:54PM
+101|456|en|Y|Credit Card Transaction Date||Jun 21 2005  3:54PM
+101|457|en|Y|Credit Card Transaction Posted Date||Jun 21 2005  3:54PM
+101|458|en|Y|Credit Card Transaction Description||Jun 21 2005  3:54PM
+101|459|en|Y|Credit Card Transaction Merchant Name||Jun 21 2005  3:54PM
+101|460|en|Y|Credit Card Transaction Merchant City||Jun 21 2005  3:54PM
+101|461|en|Y|Credit Card Transaction Merchant State||Jun 21 2005  3:54PM
+101|462|en|Y|Credit Card Transaction Merchant Country Code||Jun 21 2005  3:54PM
+101|463|en|Y|Credit Card Transaction Tax Amount||Jun 21 2005  3:54PM
+101|464|en|Y|Credit Card Transaction Custom 1||Jun 21 2005  3:54PM
+101|465|en|Y|Credit Card Transaction Custom 2||Jun 21 2005  3:54PM
+101|466|en|Y|Credit Card Transaction Custom 3||Jun 21 2005  3:54PM
+101|467|en|Y|Credit Card Transaction Custom 4||Jun 21 2005  3:54PM
+101|468|en|Y|Credit Card Transaction Custom 5||Jun 21 2005  3:54PM
+101|469|en|Y|Credit Card Transaction Custom 6||Jun 21 2005  3:54PM
+101|470|en|Y|Credit Card Transaction Custom 7||Jun 21 2005  3:54PM
+101|471|en|Y|Credit Card Transaction Custom 8||Jun 21 2005  3:54PM
+101|472|en|Y|Credit Card Transaction Custom 9||Jun 21 2005  3:54PM
+101|473|en|Y|Credit Card Transaction Custom 10||Jun 21 2005  3:54PM
+101|474|en|Y|Credit Card Transaction Account Code 1||Jun 21 2005  3:54PM
+101|475|en|Y|Credit Card Transaction Account Code 2||Jun 21 2005  3:54PM
+101|476|en|Y|Credit Card Transaction Account Code 3||Jun 21 2005  3:54PM
+101|477|en|Y|Credit Card Transaction Account Code 4||Jun 21 2005  3:54PM
+101|478|en|Y|Credit Card Transaction Account Code 5||Jun 21 2005  3:54PM
+101|479|en|Y|Credit Card Transaction Account Code 6||Jun 21 2005  3:54PM
+101|480|en|Y|Credit Card Transaction Account Code 7||Jun 21 2005  3:54PM
+101|481|en|Y|Credit Card Transaction Account Code 8||Jun 21 2005  3:54PM
+101|482|en|Y|Credit Card Transaction Account Code 9||Jun 21 2005  3:54PM
+101|483|en|Y|Credit Card Transaction Account Code 10||Jun 21 2005  3:54PM
+101|484|en|Y|Credit Card Transaction Billing Type||Jun 21 2005  3:54PM
+101|485|en|Y|Credit Card Transaction Merchant Reference Number||Jun 21 2005  3:54PM
+101|486|en|Y|Credit Card Transaction Currency Alpha Code||Jun 21 2005  3:54PM
+101|487|en|Y|Credit Card Transaction Currency Numeric Code||Jun 21 2005  3:54PM
+101|488|en|Y|Credit Card Posted Currency Alpha Code||Jun 21 2005  3:54PM
+101|489|en|Y|Credit Card Posted Currency Numeric Code||Jun 21 2005  3:54PM
+101|490|en|Y|Total Employee Attendee||Jun 21 2005  3:54PM
+101|491|en|Y|Total Spouse Attendee||Jun 21 2005  3:54PM
+101|492|en|Y|Total Business Attendee||Jun 21 2005  3:54PM
+101|493|en|Y|Business Distance||Jun 21 2005  3:54PM
+101|494|en|Y|Personal Distance||Jun 21 2005  3:54PM
+101|495|en|Y|Passenger Count||Jun 21 2005  3:54PM
+101|496|en|Y|Vehicle Id||Jun 21 2005  3:54PM
+101|497|en|Y|Odometer Start||Jun 21 2005  3:54PM
+101|498|en|Y|Odometer End||Jun 21 2005  3:54PM
+101|499|en|Y|TA Reimb. Meal Lodging or Combined Type||Jun 21 2005  3:54PM
+101|500|en|Y|TA Reimb. Display Limit||Jun 21 2005  3:54PM
+101|501|en|Y|TA Reimb. Allowance Limit||Jun 21 2005  3:54PM
+101|502|en|Y|TA Reimb. Threshold||Jun 21 2005  3:54PM
+101|503|en|Y|TA Fixed Meal Lodging Type||Jun 21 2005  3:54PM
+101|504|en|Y|TA Fixed Base Amount||Jun 21 2005  3:54PM
+101|505|en|Y|TA Fixed Allowance Amount||Jun 21 2005  3:54PM
+101|506|en|Y|TA Fixed Overnight||Jun 21 2005  3:54PM
+101|507|en|Y|TA Fixed Breakfast Provided Flag||Jun 21 2005  3:54PM
+101|508|en|Y|TA Fixed Lunch Provided Flag||Jun 21 2005  3:54PM
+101|509|en|Y|TA Fixed Dinner Provided Flag||Jun 21 2005  3:54PM
+101|510|en|Y|TA Full Allownace Day Flag||Jun 21 2005  3:54PM
+101|511|en|Y|Report Entry Tax Transaction Amount||Jun 21 2005  3:54PM
+101|512|en|Y|Report Entry Tax Posted Amount||Jun 21 2005  3:54PM
+101|513|en|Y|Report Entry Tax Source||Jun 21 2005  3:54PM
+101|514|en|Y|Report Entry Tax Reclaim Transaction Amount||Jun 21 2005  3:54PM
+101|515|en|Y|Report Entry Tax Reclaim Posted Amount||Jun 21 2005  3:54PM
+101|516|en|Y|Report Entry Tax Reclaim Adjusted Amount||Jun 21 2005  3:54PM
+101|517|en|Y|Report Entry Tax Reclaim Trans Adjusted Amount||Jun 21 2005  3:54PM
+101|518|en|Y|Report Entry Tax Adjusted Amount||Jun 21 2005  3:54PM
+101|519|en|Y|Report Entry Tax Code||Jun 21 2005  3:54PM
+101|520|en|Y|Report Entry Tax Reclaim Code||Jun 21 2005  3:54PM
+101|521|en|Y|Report Entry Tax Reclaim Domestic Flag||Jun 21 2005  3:54PM
+101|522|en|Y|Tax Authority Name||Jun 21 2005  3:54PM
+101|523|en|Y|Tax Authority Label||Jun 21 2005  3:54PM
+101|524|en|Y|Allocation Key||Jun 21 2005  3:54PM
+101|525|en|Y|Allocation Is Hidden Flag||Jun 21 2005  3:54PM
+101|526|en|Y|Allocation Percentage||Jun 21 2005  3:54PM
+101|527|en|Y|Allocation Account Code 1||Jun 21 2005  3:54PM
+101|528|en|Y|Allocation Account Code 2||Jun 21 2005  3:54PM
+101|529|en|Y|Allocation Custom 1||Jun 21 2005  3:54PM
+101|530|en|Y|Allocation Custom 2||Jun 21 2005  3:54PM
+101|531|en|Y|Allocation Custom 3||Jun 21 2005  3:54PM
+101|532|en|Y|Allocation Custom 4||Jun 21 2005  3:54PM
+101|533|en|Y|Allocation Custom 5||Jun 21 2005  3:54PM
+101|534|en|Y|Allocation Custom 6||Jun 21 2005  3:54PM
+101|535|en|Y|Allocation Custom 7||Jun 21 2005  3:54PM
+101|536|en|Y|Allocation Custom 8||Jun 21 2005  3:54PM
+101|537|en|Y|Allocation Custom 9||Jun 21 2005  3:54PM
+101|538|en|Y|Allocation Custom 10||Jun 21 2005  3:54PM
+101|539|en|Y|Allocation Custom 11||Jun 21 2005  3:54PM
+101|540|en|Y|Allocation Custom 12||Jun 21 2005  3:54PM
+101|541|en|Y|Allocation Custom 13||Jun 21 2005  3:54PM
+101|542|en|Y|Allocation Custom 14||Jun 21 2005  3:54PM
+101|543|en|Y|Allocation Custom 15||Jun 21 2005  3:54PM
+101|544|en|Y|Allocation Custom 16||Jun 21 2005  3:54PM
+101|545|en|Y|Allocation Custom 17||Jun 21 2005  3:54PM
+101|546|en|Y|Allocation Custom 18||Jun 21 2005  3:54PM
+101|547|en|Y|Allocation Custom 19||Jun 21 2005  3:54PM
+101|548|en|Y|Allocation Custom 20||Jun 21 2005  3:54PM
+101|549|en|Y|Cash Advance Request Amount||Jun 21 2005  3:54PM
+101|550|en|Y|Cash Advance Exchange Rate||Jun 21 2005  3:55PM
+101|551|en|Y|Cash Advance Issued Date||Jun 21 2005  3:55PM
+101|552|en|Y|Cash Advance Request Date||Jun 21 2005  3:55PM
+101|553|en|Y|Cash Advance Request Currency Alpha Code||Jun 21 2005  3:55PM
+101|554|en|Y|Cash Advance Request Currency Numeric Code||Jun 21 2005  3:55PM
+101|555|en|Y|Cash Advance Currency Alpha Code||Jun 21 2005  3:55PM
+101|556|en|Y|Cash Advance Currency Numeric Code||Jun 21 2005  3:55PM
+101|557|en|Y|Cash Advance Payment Type Code||Feb  9 2006  5:20PM
+101|558|en|Y|Cash Advance Payment Code Name||Jun 21 2005  3:55PM
+101|559|en|Y|Cash Advance Transaction Type||Jun 21 2005  3:55PM
+101|560|en|Y|Journal Payer Payment Type Name||Jun 21 2005  3:55PM
+101|561|en|Y|Journal Payer Payment Code Name||Jun 21 2005  3:55PM
+101|562|en|Y|Journal Payer Payment Type Code||Jun 21 2005  3:55PM
+101|563|en|Y|Journal Payee Payment Type Name||Jun 21 2005  3:55PM
+101|564|en|Y|Journal Payee Payment Code Name||Jun 21 2005  3:55PM
+101|565|en|Y|Journal Payee Payment Type Code||Jun 21 2005  3:55PM
+101|566|en|Y|Journal Key||Jun 21 2005  3:55PM
+101|567|en|Y|Journal Account Code||Jun 21 2005  3:55PM
+101|568|en|Y|Journal Debit Or Credit||Jun 21 2005  3:55PM
+101|569|en|Y|Journal Amount||Jun 21 2005  3:55PM
+101|570|en|Y|Journal Gross Amount||Nov  3 2005  7:11PM
+101|571|en|Y|Invoice Amount||Nov  3 2005  7:11PM
+101|572|en|Y|Request First Submit Date||Nov  3 2005  7:11PM
+101|573|en|Y|Request First Approval Date||Nov  3 2005  7:11PM
+101|574|en|Y|Request Accounting Extract Date||Nov  3 2005  7:11PM
+101|575|en|Y|Line Item Ship To Zip Code||Nov  3 2005  7:11PM
+101|576|en|Y|Line Item Ship From Zip Code||Nov  3 2005  7:11PM
+101|577|en|Y|Company Bill To Address ID||Nov  3 2005  7:11PM
+101|578|en|Y|Company Bill To Vendor Address Name||Nov  3 2005  7:11PM
+101|579|en|Y|Company Bill To Vendor Location Image Received||Nov  3 2005  7:11PM
+101|580|en|Y|Company Bill To Address 1||Nov  3 2005  7:11PM
+101|581|en|Y|Company Bill To Address 2||Nov  3 2005  7:11PM
+101|582|en|Y|Company Bill To Address 3||Nov  3 2005  7:11PM
+101|583|en|Y|Company Bill To Country Code||Nov  3 2005  7:11PM
+101|584|en|Y|Company Bill To State||Nov  3 2005  7:11PM
+101|585|en|Y|Company Bill To City||Nov  3 2005  7:11PM
+101|586|en|Y|Company Bill To Zip Code||Nov  3 2005  7:11PM
+101|587|en|Y|Company Bill To Phone Number||Nov  3 2005  7:11PM
+101|588|en|Y|Company Bill To Contact First Name||Nov  3 2005  7:11PM
+101|589|en|Y|Company Bill To Contact Last Name||Nov  3 2005  7:11PM
+101|590|en|Y|Company Bill To Custom 1||Nov  3 2005  7:11PM
+101|591|en|Y|Company Bill To Custom 2||Nov  3 2005  7:11PM
+101|592|en|Y|Company Bill To Custom 3||Nov  3 2005  7:11PM
+101|593|en|Y|Company Bill To Custom 4||Nov  3 2005  7:11PM
+101|594|en|Y|Company Bill To Custom 5||Nov  3 2005  7:11PM
+101|595|en|Y|Company Bill To Custom 6||Nov  3 2005  7:11PM
+101|596|en|Y|Company Bill To Custom 7||Nov  3 2005  7:11PM
+101|597|en|Y|Company Bill To Custom 8||Nov  3 2005  7:11PM
+101|598|en|Y|Company Bill To Custom 9||Nov  3 2005  7:11PM
+101|599|en|Y|Company Bill To Custom 10||Nov  3 2005  7:11PM
+101|600|en|Y|Company Bill To Custom 11||Nov  3 2005  7:11PM
+101|601|en|Y|Company Bill To Custom 12||Nov  3 2005  7:11PM
+101|602|en|Y|Company Bill To Custom 13||Nov  3 2005  7:11PM
+101|603|en|Y|Company Bill To Custom 14||Nov  3 2005  7:11PM
+101|604|en|Y|Company Bill To Custom 15||Nov  3 2005  7:11PM
+101|605|en|Y|Company Bill To Address Create Date||Nov  3 2005  7:11PM
+101|606|en|Y|Company Ship To Address Code||Nov  3 2005  7:11PM
+101|607|en|Y|Company Ship To Address ID||Nov  3 2005  7:11PM
+101|608|en|Y|Company Ship To Vendor Address Name||Nov  3 2005  7:11PM
+101|609|en|Y|Company Ship To Vendor Location Image Received||Nov  3 2005  7:11PM
+101|610|en|Y|Company Ship To Address 1||Nov  3 2005  7:11PM
+101|611|en|Y|Company Ship To Address 2||Nov  3 2005  7:11PM
+101|612|en|Y|Company Ship To Address 3||Nov  3 2005  7:11PM
+101|613|en|Y|Company Ship To Country Code||Nov  3 2005  7:11PM
+101|614|en|Y|Company Ship To State||Nov  3 2005  7:11PM
+101|615|en|Y|Company Ship To City||Nov  3 2005  7:11PM
+101|616|en|Y|Company Ship To Zip Code||Nov  3 2005  7:11PM
+101|617|en|Y|Company Ship To Phone Number||Nov  3 2005  7:11PM
+101|618|en|Y|Company Ship To Contact First Name||Nov  3 2005  7:11PM
+101|619|en|Y|Company Ship To Contact Last Name||Nov  3 2005  7:11PM
+101|620|en|Y|Company Ship To Custom 1||Nov  3 2005  7:11PM
+101|621|en|Y|Company Ship To Custom 2||Nov  3 2005  7:11PM
+101|622|en|Y|Company Ship To Custom 3||Nov  3 2005  7:11PM
+101|623|en|Y|Company Ship To Custom 4||Nov  3 2005  7:11PM
+101|624|en|Y|Company Ship To Custom 5||Nov  3 2005  7:11PM
+101|625|en|Y|Company Ship To Custom 6||Nov  3 2005  7:11PM
+101|626|en|Y|Company Ship To Custom 7||Nov  3 2005  7:11PM
+101|627|en|Y|Company Ship To Custom 8||Nov  3 2005  7:11PM
+101|628|en|Y|Company Ship To Custom 9||Nov  3 2005  7:11PM
+101|629|en|Y|Company Ship To Custom 10||Nov  3 2005  7:11PM
+101|630|en|Y|Company Ship To Custom 11||Nov  3 2005  7:11PM
+101|631|en|Y|Company Ship To Custom 12||Nov  3 2005  7:11PM
+101|632|en|Y|Company Ship To Custom 13||Nov  3 2005  7:11PM
+101|633|en|Y|Company Ship To Custom 14||Nov  3 2005  7:11PM
+101|634|en|Y|Company Ship To Custom 15||Nov  3 2005  7:11PM
+101|635|en|Y|Company Ship To Address Create Date||Nov  3 2005  7:11PM
+101|636|en|Y|Report Entry Location City Name||Jul 21 2006  4:58PM
+101|637|en|Y|Cash Advance Key||Jul 21 2006  4:58PM
+101|638|en|Y|Is Request Emergency Check Run||Sep 28 2006  9:11PM
+101|639|en|Y|Request Shipping Amount||Dec  5 2006  6:56PM
+101|640|en|Y|Request Tax Amount||Dec  5 2006  6:56PM
+101|641|en|Y|Exchange Rate From Billing To Employee Currency||Dec  5 2006  6:56PM
+101|642|en|Y|Billing Amount||Dec  5 2006  6:56PM
+101|643|en|Y|Report Entry Custom Bool 01||Dec  5 2006  6:56PM
+101|644|en|Y|Report Entry Custom Bool 02||Dec  5 2006  6:56PM
+101|645|en|Y|Report Entry Custom Bool 03||Dec  5 2006  6:56PM
+101|646|en|Y|Report Entry Custom Bool 04||Dec  5 2006  6:56PM
+101|647|en|Y|Report Entry Custom Bool 05||Dec  5 2006  6:56PM
+101|648|en|Y|Report Entry Custom Amount 01||Dec  5 2006  6:56PM
+101|649|en|Y|Report Entry Custom Amount 02||Dec  5 2006  6:56PM
+101|650|en|Y|Report Entry Custom Amount 03||Dec  5 2006  6:56PM
+101|651|en|Y|Report Entry Custom Amount 04||Dec  5 2006  6:56PM
+101|652|en|Y|Report Entry Custom Amount 05||Dec  5 2006  6:56PM
+101|653|en|Y|Report Entry Custom Amount 06||Dec  5 2006  6:56PM
+101|654|en|Y|Report Entry Custom Amount 07||Dec  5 2006  6:56PM
+101|655|en|Y|Report Entry Custom Amount 08||Dec  5 2006  6:56PM
+101|656|en|Y|Report Entry Custom Amount 09||Dec  5 2006  6:56PM
+101|657|en|Y|Report Entry Custom Amount 10||Dec  5 2006  6:56PM
+101|658|en|Y|Report Entry Custom Amount 11||Dec  5 2006  6:56PM
+101|659|en|Y|Report Entry Custom Amount 12||Dec  5 2006  6:56PM
+101|660|en|Y|Report Entry Custom Amount 13||Dec  5 2006  6:56PM
+101|661|en|Y|Report Entry Custom Amount 14||Dec  5 2006  6:56PM
+101|662|en|Y|Report Entry Custom Amount 15||Dec  5 2006  6:56PM
+101|663|en|Y|Report Entry Custom Text 01||Dec  5 2006  6:56PM
+101|664|en|Y|Report Entry Custom Text 02||Dec  5 2006  6:56PM
+101|665|en|Y|Report Entry Custom Text 03||Dec  5 2006  6:56PM
+101|666|en|Y|Report Entry Custom Text 04||Dec  5 2006  6:56PM
+101|667|en|Y|Report Entry Custom Text 05||Dec  5 2006  6:56PM
+101|668|en|Y|Report Entry Custom Text 06||Dec  5 2006  6:56PM
+101|669|en|Y|Report Entry Custom Text 07||Dec  5 2006  6:56PM
+101|670|en|Y|Report Entry Custom Text 08||Dec  5 2006  6:56PM
+101|671|en|Y|Report Entry Custom Text 09||Dec  5 2006  6:56PM
+101|672|en|Y|Report Entry Custom Text 10||Dec  5 2006  6:56PM
+101|673|en|Y|Report Entry Custom Text 11||Dec  5 2006  6:56PM
+101|674|en|Y|Report Entry Custom Text 12||Dec  5 2006  6:56PM
+101|675|en|Y|Report Entry Custom Text 13||Dec  5 2006  6:56PM
+101|676|en|Y|Report Entry Custom Text 14||Dec  5 2006  6:56PM
+101|677|en|Y|Report Entry Custom Text 15||Dec  5 2006  6:56PM
+101|678|en|Y|Report Payment Reimbursement Type||Mar 16 2007  6:01PM
+101|680|en|Y|Report Entry Tax Allocation Reclaim Code||Mar 16 2007  6:01PM
+101|681|en|Y|Employee Country Name||Jun 19 2007  6:32PM
+101|682|en|Y|Employee Org Unit 1||Jun 19 2007  6:32PM
+101|683|en|Y|Employee Org Unit 2||Jun 19 2007  6:32PM
+101|684|en|Y|Employee Org Unit 3||Jun 19 2007  6:32PM
+101|685|en|Y|Employee Org Unit 4||Jun 19 2007  6:32PM
+101|686|en|Y|Employee Org Unit 5||Jun 19 2007  6:32PM
+101|687|en|Y|Employee Org Unit 6||Jun 19 2007  6:32PM
+101|688|en|Y|Employee Custom 1||Jun 19 2007  6:32PM
+101|689|en|Y|Employee Custom 2||Jun 19 2007  6:32PM
+101|690|en|Y|Employee Custom 3||Jun 19 2007  6:32PM
+101|691|en|Y|Employee Custom 4||Jun 19 2007  6:32PM
+101|692|en|Y|Employee Custom 5||Jun 19 2007  6:32PM
+101|693|en|Y|Employee Custom 6||Jun 19 2007  6:32PM
+101|694|en|Y|Employee Custom 7||Jun 19 2007  6:32PM
+101|695|en|Y|Employee Custom 8||Jun 19 2007  6:32PM
+101|696|en|Y|Employee Custom 9||Jun 19 2007  6:32PM
+101|697|en|Y|Employee Custom 10||Jun 19 2007  6:32PM
+101|698|en|Y|Employee Custom 11||Jun 19 2007  6:32PM
+101|699|en|Y|Employee Custom 12||Jun 19 2007  6:32PM
+101|700|en|Y|Employee Custom 13||Jun 19 2007  6:32PM
+101|701|en|Y|Employee Custom 14||Jun 19 2007  6:32PM
+101|702|en|Y|Employee Custom 15||Jun 19 2007  6:32PM
+101|703|en|Y|Employee Custom 16||Jun 19 2007  6:32PM
+101|704|en|Y|Employee Custom 17||Jun 19 2007  6:32PM
+101|705|en|Y|Employee Custom 18||Jun 19 2007  6:32PM
+101|706|en|Y|Employee Custom 19||Jun 19 2007  6:32PM
+101|707|en|Y|Employee Custom 20||Jun 19 2007  6:32PM
+101|708|en|Y|Employee Custom 21||Jun 19 2007  6:32PM
+101|709|en|Y|Employee Key||Jun 19 2007  6:32PM
+101|710|en|Y|Employee ID||Jun 19 2007  6:32PM
+101|711|en|Y|Employee First Name||Jun 19 2007  6:32PM
+101|712|en|Y|Employee Last Name||Jun 19 2007  6:32PM
+101|713|en|Y|Employee Middle Name||Jun 19 2007  6:32PM
+101|714|en|Y|Employee Default Currency Alpha Code||Jun 19 2007  6:32PM
+101|715|en|Y|Payment Demand Company Bank Account Name||Jun 19 2007  6:32PM
+101|716|en|Y|Payment Demand Company Bank Account Number||Jun 19 2007  6:32PM
+101|717|en|Y|Payment Demand Company Bank Account Routing Number||Jun 19 2007  6:32PM
+101|718|en|Y|Payment Demand Company Bank Currency Alpha Code||Jun 19 2007  6:32PM
+101|719|en|Y|Payment Demand Payee Bank Name||Jun 19 2007  6:32PM
+101|720|en|Y|Payment Demand Payee Bank Account Type||Jun 19 2007  6:32PM
+101|721|en|Y|Payment Demand Payee Bank Account Number||Jun 19 2007  6:32PM
+101|722|en|Y|Payment Demand Payee Bank Routing number||Jun 19 2007  6:32PM
+101|723|en|Y|Payment Demand Payee Bank Currency Alpha Code||Jun 19 2007  6:32PM
+101|724|en|Y|Payment Transaction Type||Jun 19 2007  6:32PM
+101|725|en|Y|Payment Demand Cash Account Code||Jun 19 2007  6:32PM
+101|726|en|Y|Payment Demand Liability Account Code||Jun 19 2007  6:32PM
+101|727|en|Y|Payment Demand Event Date||Jun 19 2007  6:32PM
+101|728|en|Y|Payment Demand Transaction Journal Amount||Jun 19 2007  6:32PM
+101|729|en|Y|Payment Demand Liability Debit or Credit||Jun 19 2007  6:32PM
+101|730|en|Y|Report Key||Jun 19 2007  6:32PM
+101|731|en|Y|Report ID||Jun 19 2007  6:32PM
+101|732|en|Y|Report Name||Jun 19 2007  6:32PM
+101|733|en|Y|Report Ledger||Jun 19 2007  6:32PM
+101|734|en|Y|Report Processing Payment Date||Jun 19 2007  6:32PM
+101|735|en|Y|Report Expense Group||Jun 19 2007  6:32PM
+101|736|en|Y|Report Org Unit 1||Jun 19 2007  6:32PM
+101|737|en|Y|Report Org Unit 2||Jun 19 2007  6:32PM
+101|738|en|Y|Report Org Unit 3||Jun 19 2007  6:32PM
+101|739|en|Y|Report Org Unit 4||Jun 19 2007  6:32PM
+101|740|en|Y|Report Org Unit 5||Jun 19 2007  6:32PM
+101|741|en|Y|Report Org Unit 6||Jun 19 2007  6:32PM
+101|742|en|Y|Report Custom 1||Jun 19 2007  6:32PM
+101|743|en|Y|Report Custom 2||Jun 19 2007  6:32PM
+101|744|en|Y|Report Custom 3||Jun 19 2007  6:32PM
+101|745|en|Y|Report Custom 4||Jun 19 2007  6:32PM
+101|746|en|Y|Report Custom 5||Jun 19 2007  6:32PM
+101|747|en|Y|Report Custom 6||Jun 19 2007  6:32PM
+101|748|en|Y|Report Custom 7||Jun 19 2007  6:32PM
+101|749|en|Y|Report Custom 8||Jun 19 2007  6:32PM
+101|750|en|Y|Report Custom 9||Jun 19 2007  6:32PM
+101|751|en|Y|Report Custom 10||Jun 19 2007  6:32PM
+101|752|en|Y|Report Custom 11||Jun 19 2007  6:32PM
+101|753|en|Y|Report Custom 12||Jun 19 2007  6:32PM
+101|754|en|Y|Report Custom 13||Jun 19 2007  6:32PM
+101|755|en|Y|Report Custom 14||Jun 19 2007  6:32PM
+101|756|en|Y|Report Custom 15||Jun 19 2007  6:32PM
+101|757|en|Y|Report Custom 16||Jun 19 2007  6:32PM
+101|758|en|Y|Report Custom 17||Jun 19 2007  6:32PM
+101|759|en|Y|Report Custom 18||Jun 19 2007  6:32PM
+101|760|en|Y|Report Custom 19||Jun 19 2007  6:32PM
+101|761|en|Y|Report Custom 20||Jun 19 2007  6:32PM
+101|762|en|Y|Payment Demand ID||Jun 19 2007  6:32PM
+101|763|en|Y|Payment Demand Amount||Jun 19 2007  6:32PM
+101|764|en|Y|Payment Demand Batch Close Date||Jun 19 2007  6:32PM
+101|765|en|Y|Payment Demand Batch ID||Jun 19 2007  6:32PM
+101|766|en|Y|Payment Demand Batch Total||Jun 19 2007  6:32PM
+101|767|en|Y|Accounting Extract Batch ID||Jun 19 2007  6:32PM
+101|768|en|Y|Accounting Extract Run Date||Jun 19 2007  6:32PM
+101|769|en|Y|Allocation Key||Jul 18 2007  4:34PM
+101|770|en|Y|Tax ID||Sep  6 2007 10:08PM
+101|771|en|Y|Company Billing Address Tax Id||Sep  6 2007 10:08PM
+101|772|en|Y|Company Shipping Address Tax Id||Sep  6 2007 10:08PM
+101|773|en|Y|Vendor Remittance Address Tax Id||Sep  6 2007 10:08PM
+101|774|en|Y|Vendor Ship From Tax Id||Sep  6 2007 10:08PM
+101|775|en|Y|Item Code||Oct  9 2007  6:23PM
+101|776|en|Y|Credit Card Transaction Sequence Number||Oct  9 2007  6:23PM
+101|777|en|Y|Report Entry Attendee Count||Oct  9 2007  6:23PM
+101|778|en|Y|Attendee Key||Oct  9 2007  6:23PM
+101|779|en|Y|Attendee First Name||Oct  9 2007  6:23PM
+101|780|en|Y|Attendee Last Name||Oct  9 2007  6:23PM
+101|781|en|Y|Attendee Title||Oct  9 2007  6:23PM
+101|782|en|Y|Attendee Company Name||Oct  9 2007  6:23PM
+101|783|en|Y|Attendee Unique Identifier||Oct  9 2007  6:23PM
+101|784|en|Y|Attendee Custom 1||Oct  9 2007  6:23PM
+101|785|en|Y|Attendee Custom 2||Oct  9 2007  6:23PM
+101|786|en|Y|Attendee Custom 3||Oct  9 2007  6:23PM
+101|787|en|Y|Attendee Custom 4||Oct  9 2007  6:23PM
+101|788|en|Y|Attendee Custom 5||Oct  9 2007  6:23PM
+101|789|en|Y|Attendee Custom 6||Oct  9 2007  6:23PM
+101|790|en|Y|Attendee Custom 7||Oct  9 2007  6:23PM
+101|791|en|Y|Attendee Custom 8||Oct  9 2007  6:23PM
+101|792|en|Y|Attendee Custom 9||Oct  9 2007  6:23PM
+101|793|en|Y|Attendee Custom 10||Oct  9 2007  6:23PM
+101|794|en|Y|Attendee Custom 11||Oct  9 2007  6:23PM
+101|795|en|Y|Attendee Custom 12||Oct  9 2007  6:23PM
+101|796|en|Y|Attendee Custom 13||Oct  9 2007  6:23PM
+101|797|en|Y|Attendee Custom 14||Oct  9 2007  6:23PM
+101|798|en|Y|Attendee Custom 15||Oct  9 2007  6:23PM
+101|799|en|Y|Attendee Custom 16||Oct  9 2007  6:23PM
+101|800|en|Y|Attendee Custom 17||Oct  9 2007  6:23PM
+101|801|en|Y|Attendee Custom 18||Oct  9 2007  6:23PM
+101|802|en|Y|Attendee Custom 19||Oct  9 2007  6:23PM
+101|803|en|Y|Attendee Custom 20||Oct  9 2007  6:23PM
+101|804|en|Y|Attendee Year-To-Date Amount||Oct  9 2007  6:23PM
+101|805|en|Y|Attendee Previous Year Amount||Oct  9 2007  6:23PM
+101|806|en|Y|Attendee Transaction Amount||Oct  9 2007  6:23PM
+101|807|en|Y|Attendee Approved Amount in reimbursement currency||Oct  9 2007  6:23PM
+101|808|en|Y|Attendee Approved Amount in attendee currency||Oct  9 2007  6:23PM
+101|809|en|Y|Attendee Amount Is Edited||Oct  9 2007  6:23PM
+101|810|en|Y|Attendee Instance Count||Oct  9 2007  6:23PM
+101|811|en|Y|Attendee Type Name||Oct  9 2007  6:23PM
+101|812|en|Y|Attendee Type Code||Oct  9 2007  6:23PM
+101|813|en|Y|Employee owning the attendee record||Oct  9 2007  6:23PM
+101|814|en|Y|Currency Alpha Code of attendee currency||Oct  9 2007  6:23PM
+101|816|en|Y|Transaction Id||Apr 19 2008  5:10AM
+101|817|en|Y|Buyer Id||Apr 19 2008  5:10AM
+101|818|en|Y|Buyer Cost Center||Apr 19 2008  5:10AM
+101|819|en|Y|Payment Demand Card Program Company ID||Jun 21 2008  8:51AM
+101|820|en|Y|Payment Demand Card Program Load Number||Jun 21 2008  8:51AM
+101|821|en|Y|Payment Demand Card Program Book Number||Jun 21 2008  8:51AM
+101|822|en|Y|Individual Credit Card Account Number||Aug 16 2008  5:48AM
+101|823|en|Y|Payment Type Name||Jun 21 2008  8:51AM
+101|824|en|Y|Billed Credit Card Account Number||Aug 16 2008  5:48AM
+101|825|en|Y|Billed Credit Card Account Description||Aug 16 2008  5:48AM
+101|827|en|Y|Credit Card Transaction Billing Date||Oct 18 2008  5:19AM
+101|828|en|Y|Employee Banking Account Number||Nov 15 2008  5:17AM
+101|829|en|Y|Employee Banking Bank Number||Nov 15 2008  5:17AM
+101|830|en|Y|Credit Card Transaction Merchant Description||Jan 17 2009  7:35AM
+101|831|en|Y|Payment Demand Company Liability Account Code||Feb 14 2009  7:46AM
+101|832|en|Y|Payment Demand Company Cash Account Code||Feb 14 2009  7:46AM
+101|833|en|Y|Acquirer Reference Number||Feb 14 2009  7:46AM
+101|834|en|Y|Estimated Payment Date||Mar 21 2009  5:21AM
+101|835|en|Y|Provider Market||Apr 18 2009  4:59AM
+101|836|en|Y|Credit Card Account Last Segment||May 16 2009  5:16AM
+101|837|en|Y|Is Billable||Mar 20 2010  4:40AM
+101|838|en|Y|Contact Email||Jun 19 2010  5:29AM
+101|839|en|Y|Currency Alpha Code||Jun 19 2010  5:29AM
+101|840|en|Y|Currency Num Code||Jun 19 2010  5:29AM
+101|841|en|Y|Currency Name||Jun 19 2010  5:29AM
+101|842|en|Y|Report Purpose||Jun 19 2010  5:30AM
+101|843|en|Y|Report Total Rejected||Jun 19 2010  5:30AM
+101|844|en|Y|Report Total Company Paid||Jun 19 2010  5:30AM
+101|845|en|Y|Report Total Due Company||Jun 19 2010  5:30AM
+101|846|en|Y|Report Total Confirmed Paid||Jun 19 2010  5:30AM
+101|847|en|Y|Report Actual Total Due Employee||Jun 19 2010  5:30AM
+101|848|en|Y|Report Currency Name||Jun 19 2010  5:30AM
+101|849|en|Y|Employee Default Currency Name||Jun 19 2010  5:30AM
+101|850|en|Y|Report Entry Currency Name||Jun 19 2010  5:30AM
+101|851|en|Y|Expense Type Key||Aug 21 2010  5:36AM
+101|852|en|Y|Payment Demand Company Liability Account Code||Oct 16 2010  1:31AM
+101|853|en|Y|Payment Demand Company Cash Account Code||Oct 16 2010  1:31AM
+101|854|en|Y|Estimated Payment Date||Oct 16 2010  1:31AM
+101|855|en|Y|Payee payment type key||Oct 16 2010  1:31AM
+101|856|en|Y|Payer payment type key||Oct 16 2010  1:31AM
+101|857|en|Y|Line Item Tax||Nov 13 2010  2:26AM
+101|858|en|Y|Report Entry Total Tax Posted Amount||Nov 13 2010  2:26AM
+101|859|en|Y|Report Entry Total Tax Adjusted Amount||Nov 13 2010  2:26AM
+101|860|en|Y|Report Entry Total Reclaim Posted Amount||Nov 13 2010  2:26AM
+101|861|en|Y|Report Entry Total Reclaim Adjusted Amount||Nov 13 2010  2:26AM
+101|862|en|Y|Net Tax Amount||Nov 13 2010  2:26AM
+101|863|en|Y|Net Adjusted Tax Amount||Nov 13 2010  2:26AM
+101|864|en|Y|Net Reclaim Amount||Nov 13 2010  2:26AM
+101|865|en|Y|Net Adjusted Reclaim Amount||Nov 13 2010  2:26AM
+101|866|en|Y|Employee Reimbursement Method||Mar 19 2011  1:05AM
+101|867|en|Y|Employee or File Number for ADP EPIP||Mar 19 2011  1:05AM
+101|868|en|Y|Employee Company Code for ADP EPIP||Mar 19 2011  1:05AM
+101|869|en|Y|Employee Deduction Code for ADP EPIP||Mar 19 2011  1:05AM
+101|870|en|Y|Cash Advance Request Name||Apr 16 2011  1:19AM
+101|871|en|Y|Cash Advance Comment||Apr 16 2011  1:19AM
+101|872|en|Y|Request ID||Apr 27 2013  2:14AM
+101|873|en|Y|Authorization Request ID||May 21 2011  1:03AM
+101|874|en|Y|Authorization Request Name||May 21 2011  1:03AM
+101|875|en|Y|Total Posted Amount||May 21 2011  1:03AM
+101|876|en|Y|Total Approved Amount||May 21 2011  1:03AM
+101|877|en|Y|Start Date||May 21 2011  1:03AM
+101|878|en|Y|End Date||May 21 2011  1:03AM
+101|879|en|Y|Authorized Date||May 21 2011  1:03AM
+101|880|en|Y|Report Actual Total Due Company Card||Jun 18 2011  1:30AM
+101|881|en|Y|Invoice Received Date||Jul 23 2011  1:22AM
+101|882|en|Y|Payment Method Type||Aug 13 2011  1:18AM
+101|883|en|Y|Report Type||Aug 13 2011  1:18AM
+101|884|en|Y|Payment Amount||Aug 13 2011  1:18AM
+101|885|en|Y|Vat data flag||Sep 24 2011  3:04AM
+101|886|en|Y|Processor Reference Number||Oct 22 2011  4:00AM
+101|887|en|Y|Account String||Oct 22 2011  4:00AM
+101|888|en|Y|Batch ID||Oct 22 2011  4:00AM
+101|889|en|Y|Batch Date||Oct 22 2011  4:00AM
+101|890|en|Y|Detail Row count||Oct 22 2011  4:00AM
+101|891|en|Y|File Sequence Number||Oct 22 2011  4:00AM
+101|892|en|Y|Blank/Placeholder||Oct 22 2011  4:00AM
+101|893|en|Y|None - Do Not Group||Oct 22 2011  4:00AM
+101|894|en|Y|Offset Approved Amount||Oct 22 2011  4:00AM
+101|895|en|Y|Certificate Number||Dec 17 2011  6:16AM
+101|896|en|Y|Bank Name||Dec 17 2011  6:16AM
+101|897|en|Y|Account Number||Dec 17 2011  6:16AM
+101|898|en|Y|Check Number||Dec 17 2011  6:16AM
+101|899|en|Y|Amount||Dec 17 2011  6:16AM
+101|900|en|Y|Event Type||Dec 17 2011  6:16AM
+101|901|en|Y|Event Date||Dec 17 2011  6:16AM
+101|902|en|Y|Vendor Name||Dec 17 2011  6:16AM
+101|903|en|Y|Employee Middle Name||Dec 17 2011  6:16AM
+101|904|en|Y|Agency office key||Feb 18 2012  3:08AM
+101|905|en|Y|Request Custom 01||Apr 27 2013  2:14AM
+101|906|en|Y|Request Custom 02||Apr 27 2013  2:14AM
+101|907|en|Y|Request Custom 03||Apr 27 2013  2:14AM
+101|908|en|Y|Request Custom 04||Apr 27 2013  2:14AM
+101|909|en|Y|Request Custom 05||Apr 27 2013  2:14AM
+101|910|en|Y|Request Custom 06||Apr 27 2013  2:14AM
+101|911|en|Y|Request Custom 07||Apr 27 2013  2:14AM
+101|912|en|Y|Request Custom 08||Apr 27 2013  2:14AM
+101|913|en|Y|Request Custom 09||Apr 27 2013  2:14AM
+101|914|en|Y|Request Custom 10||Apr 27 2013  2:14AM
+101|915|en|Y|Request Custom 11||Apr 27 2013  2:14AM
+101|916|en|Y|Request Custom 12||Apr 27 2013  2:14AM
+101|917|en|Y|Request Custom 13||Apr 27 2013  2:14AM
+101|918|en|Y|Request Custom 14||Apr 27 2013  2:14AM
+101|919|en|Y|Request Custom 15||Apr 27 2013  2:14AM
+101|920|en|Y|Request Custom 16||Apr 27 2013  2:14AM
+101|921|en|Y|Request Custom 17||Apr 27 2013  2:14AM
+101|922|en|Y|Request Custom 18||Apr 27 2013  2:14AM
+101|923|en|Y|Request Custom 19||Apr 27 2013  2:14AM
+101|924|en|Y|Request Custom 20||Apr 27 2013  2:14AM
+101|925|en|Y|Request Total Approved Amount||Apr 27 2013  2:14AM
+101|926|en|Y|Request Total Posted Amount||Apr 27 2013  2:14AM
+101|927|en|Y|Request Total Remaining Amount||Apr 27 2013  2:14AM
+101|928|en|Y|Authorization Request Key||Feb 18 2012  3:08AM
+101|929|en|Y|Request ID||Apr 27 2013  2:14AM
+101|930|en|Y|Request Submit Date||Apr 27 2013  2:14AM
+101|931|en|Y|Request Start Date||Apr 27 2013  2:14AM
+101|932|en|Y|Request Start Time||Apr 27 2013  2:14AM
+101|933|en|Y|Request End Date||Apr 27 2013  2:14AM
+101|934|en|Y|Request End Time||Apr 27 2013  2:14AM
+101|935|en|Y|Request Name||Apr 27 2013  2:14AM
+101|936|en|Y|Request Authorized Date||Apr 27 2013  2:14AM
+101|937|en|Y|Request Approval Status||Apr 27 2013  2:14AM
+101|938|en|Y|Is Closed||Feb 18 2012  3:08AM
+101|939|en|Y|Extention of||Feb 18 2012  3:08AM
+101|940|en|Y|Request Creation Date||Apr 27 2013  2:14AM
+101|941|en|Y|Purpose||Feb 18 2012  3:08AM
+101|942|en|Y|Approval Time Limit||Feb 18 2012  3:08AM
+101|943|en|Y|Limit Approved||Feb 18 2012  3:08AM
+101|944|en|Y|Employee ID||Feb 18 2012  3:08AM
+101|945|en|Y|Employee Last Name||Feb 18 2012  3:08AM
+101|946|en|Y|Employee First Name||Feb 18 2012  3:08AM
+101|947|en|Y|Employee Middle Initial||Feb 18 2012  3:08AM
+101|948|en|Y|Employee Login ID||Feb 18 2012  3:08AM
+101|949|en|Y|Request Entry Key||Apr 27 2013  2:14AM
+101|950|en|Y|Request Entry Amount||Apr 27 2013  2:14AM
+101|951|en|Y|Expense Report Name||Feb 18 2012  3:08AM
+101|952|en|Y|Request Segment Key||Apr 27 2013  2:14AM
+101|953|en|Y|Request Entry Foreign Amount||Apr 27 2013  2:14AM
+101|954|en|Y|Request Entry Remaining Amount||Apr 27 2013  2:14AM
+101|955|en|Y|Request Entry Approved Amount||Apr 27 2013  2:14AM
+101|956|en|Y|Request Amount||Feb 18 2012  3:08AM
+101|957|en|Y|Submitted Balance||Feb 18 2012  3:08AM
+101|958|en|Y|Unsubmitted Balance||Feb 18 2012  3:08AM
+101|959|en|Y|Utilized Amount||Feb 18 2012  3:08AM
+101|960|en|Y|Expense Report Processing Payment Date||Mar 24 2012  1:54AM
+101|961|en|Y|User Defined Date||Feb 18 2012  3:08AM
+101|962|en|Y|Expense Report Total Posted Amount||Mar 24 2012  1:54AM
+101|963|en|Y|Total personal Amount||Feb 18 2012  3:08AM
+101|964|en|Y|Total claimed Amount||Feb 18 2012  3:08AM
+101|965|en|Y|Expense Report Total Approved Amount||Mar 24 2012  1:54AM
+101|966|en|Y|Total due Employee||Feb 18 2012  3:08AM
+101|967|en|Y|Total due Company Card||Feb 18 2012  3:08AM
+101|968|en|Y|Total Rejected Amount||Feb 18 2012  3:08AM
+101|969|en|Y|Total Company Paid||Feb 18 2012  3:08AM
+101|970|en|Y|Total Due Company||Feb 18 2012  3:08AM
+101|971|en|Y|Total Confirmed Paid||Feb 18 2012  3:08AM
+101|972|en|Y|Actual Total Due Emplyee||Feb 18 2012  3:08AM
+101|973|en|Y|Actual Total Due Company Card||Feb 18 2012  3:08AM
+101|974|en|Y|Employee Custom 21||Feb 18 2012  3:08AM
+101|975|en|Y|Employee Org Unit 1||Feb 18 2012  3:08AM
+101|976|en|Y|Employee Org Unit 2||Feb 18 2012  3:08AM
+101|977|en|Y|Employee Org Unit 3||Feb 18 2012  3:08AM
+101|978|en|Y|Employee Org Unit 4||Feb 18 2012  3:08AM
+101|979|en|Y|Employee Org Unit 5||Feb 18 2012  3:08AM
+101|980|en|Y|Employee Org Unit 6||Feb 18 2012  3:08AM
+101|981|en|Y|Email Address||Feb 18 2012  3:08AM
+101|982|en|Y|Employee Custom 1||Feb 18 2012  3:08AM
+101|983|en|Y|Employee Custom 2||Feb 18 2012  3:08AM
+101|984|en|Y|Employee Custom 3||Feb 18 2012  3:08AM
+101|985|en|Y|Employee Custom 4||Feb 18 2012  3:08AM
+101|986|en|Y|Employee Custom 5||Feb 18 2012  3:08AM
+101|987|en|Y|Employee Custom 6||Feb 18 2012  3:08AM
+101|988|en|Y|Employee Custom 7||Feb 18 2012  3:08AM
+101|989|en|Y|Employee Custom 8||Feb 18 2012  3:08AM
+101|990|en|Y|Employee Custom 9||Feb 18 2012  3:08AM
+101|991|en|Y|Employee Custom 10||Feb 18 2012  3:08AM
+101|992|en|Y|Employee Custom 11||Feb 18 2012  3:08AM
+101|993|en|Y|Employee Custom 12||Feb 18 2012  3:08AM
+101|994|en|Y|Employee Custom 13||Feb 18 2012  3:08AM
+101|995|en|Y|Employee Custom 14||Feb 18 2012  3:08AM
+101|996|en|Y|Employee Custom 15||Feb 18 2012  3:08AM
+101|997|en|Y|Employee Custom 16||Feb 18 2012  3:08AM
+101|998|en|Y|Employee Custom 17||Feb 18 2012  3:08AM
+101|999|en|Y|Employee Custom 18||Feb 18 2012  3:08AM
+101|1000|en|Y|Employee Custom 19||Feb 18 2012  3:08AM
+101|1001|en|Y|Employee Custom 20||Feb 18 2012  3:08AM
+101|1002|en|Y|Pmt Method Code||Feb 18 2012  3:08AM
+101|1003|en|Y|Employee Middle Name||Feb 18 2012  3:08AM
+101|1004|en|Y|Agency Name||Feb 18 2012  3:08AM
+101|1005|en|Y|Request Policy Label||Feb 18 2012  3:08AM
+101|1006|en|Y|Ledger Code||Feb 18 2012  3:08AM
+101|1007|en|Y|Country Numeric Code||Apr 21 2012  3:25AM
+101|1008|en|Y|Request Home Country Name||Apr 27 2013  2:14AM
+101|1009|en|Y|Transaction Date||Feb 18 2012  3:08AM
+101|1010|en|Y|Request Entry Exchange Rate||Apr 27 2013  2:14AM
+101|1011|en|Y|Request Entry Exchange Rate Direction||Apr 27 2013  2:14AM
+101|1012|en|Y|Request Entry Description||Apr 27 2013  2:14AM
+101|1013|en|Y|Request Entry Org Unit 1||Apr 27 2013  2:14AM
+101|1014|en|Y|Request Entry Org Unit 2||Apr 27 2013  2:14AM
+101|1015|en|Y|Request Entry Org Unit 3||Apr 27 2013  2:14AM
+101|1016|en|Y|Request Entry Org Unit 4||Apr 27 2013  2:14AM
+101|1017|en|Y|Request Entry Org Unit 5||Apr 27 2013  2:14AM
+101|1018|en|Y|Request Entry Org Unit 6||Apr 27 2013  2:14AM
+101|1019|en|Y|Request Entry Custom 01||Apr 27 2013  2:14AM
+101|1020|en|Y|Request Entry Custom 02||Apr 27 2013  2:14AM
+101|1021|en|Y|Request Entry Custom 03||Apr 27 2013  2:14AM
+101|1022|en|Y|Request Entry Custom 04||Apr 27 2013  2:14AM
+101|1023|en|Y|Request Entry Custom 05||Apr 27 2013  2:14AM
+101|1024|en|Y|Request Entry Custom 06||Apr 27 2013  2:14AM
+101|1025|en|Y|Request Entry Custom 07||Apr 27 2013  2:14AM
+101|1026|en|Y|Request Entry Custom 08||Apr 27 2013  2:14AM
+101|1027|en|Y|Request Entry Custom 09||Apr 27 2013  2:14AM
+101|1028|en|Y|Request Entry Custom 10||Apr 27 2013  2:14AM
+101|1029|en|Y|Request Entry Custom 11||Apr 27 2013  2:14AM
+101|1030|en|Y|Request Entry Custom 12||Apr 27 2013  2:14AM
+101|1031|en|Y|Request Entry Custom 13||Apr 27 2013  2:14AM
+101|1032|en|Y|Request Entry Custom 14||Apr 27 2013  2:14AM
+101|1033|en|Y|Request Entry Custom 15||Apr 27 2013  2:14AM
+101|1034|en|Y|Request Entry Custom 16||Apr 27 2013  2:14AM
+101|1035|en|Y|Request Entry Custom 17||Apr 27 2013  2:14AM
+101|1036|en|Y|Request Entry Custom 18||Apr 27 2013  2:14AM
+101|1037|en|Y|Request Entry Custom 19||Apr 27 2013  2:14AM
+101|1038|en|Y|Request Entry Custom 20||Apr 27 2013  2:14AM
+101|1039|en|Y|Request Entry Custom 21||Apr 27 2013  2:14AM
+101|1040|en|Y|Request Entry Custom 22||Apr 27 2013  2:14AM
+101|1041|en|Y|Request Entry Custom 23||Apr 27 2013  2:14AM
+101|1042|en|Y|Request Entry Custom 24||Apr 27 2013  2:14AM
+101|1043|en|Y|Request Entry Custom 25||Apr 27 2013  2:14AM
+101|1044|en|Y|Request Entry Custom 26||Apr 27 2013  2:14AM
+101|1045|en|Y|Request Entry Custom 27||Apr 27 2013  2:14AM
+101|1046|en|Y|Request Entry Custom 28||Apr 27 2013  2:14AM
+101|1047|en|Y|Request Entry Custom 29||Apr 27 2013  2:14AM
+101|1048|en|Y|Request Entry Custom 30||Apr 27 2013  2:14AM
+101|1049|en|Y|Request Entry Custom 31||Apr 27 2013  2:14AM
+101|1050|en|Y|Request Entry Custom 32||Apr 27 2013  2:14AM
+101|1051|en|Y|Request Entry Custom 33||Apr 27 2013  2:14AM
+101|1052|en|Y|Request Entry Custom 34||Apr 27 2013  2:14AM
+101|1053|en|Y|Request Entry Custom 35||Apr 27 2013  2:14AM
+101|1054|en|Y|Request Entry Custom 36||Apr 27 2013  2:14AM
+101|1055|en|Y|Request Entry Custom 37||Apr 27 2013  2:14AM
+101|1056|en|Y|Request Entry Custom 38||Apr 27 2013  2:14AM
+101|1057|en|Y|Request Entry Custom 39||Apr 27 2013  2:14AM
+101|1058|en|Y|Request Entry Custom 40||Apr 27 2013  2:14AM
+101|1059|en|Y|Request Entry Expense Type Name||Apr 27 2013  2:14AM
+101|1060|en|Y|Request Allocation Key||Apr 27 2013  2:14AM
+101|1061|en|Y|Request Allocation Percentage||Apr 27 2013  2:14AM
+101|1062|en|Y|Request Allocation Custom 01||Apr 27 2013  2:14AM
+101|1063|en|Y|Request Allocation Custom 02||Apr 27 2013  2:14AM
+101|1064|en|Y|Request Allocation Custom 03||Apr 27 2013  2:14AM
+101|1065|en|Y|Request Allocation Custom 04||Apr 27 2013  2:14AM
+101|1066|en|Y|Request Allocation Custom 05||Apr 27 2013  2:14AM
+101|1067|en|Y|Request Allocation Custom 06||Apr 27 2013  2:14AM
+101|1068|en|Y|Request Allocation Custom 07||Apr 27 2013  2:14AM
+101|1069|en|Y|Request Allocation Custom 08||Apr 27 2013  2:14AM
+101|1070|en|Y|Request Allocation Custom 09||Apr 27 2013  2:14AM
+101|1071|en|Y|Request Allocation Custom 10||Apr 27 2013  2:14AM
+101|1072|en|Y|Request Allocation Custom 11||Apr 27 2013  2:14AM
+101|1073|en|Y|Request Allocation Custom 12||Apr 27 2013  2:14AM
+101|1074|en|Y|Request Allocation Custom 13||Apr 27 2013  2:14AM
+101|1075|en|Y|Request Allocation Custom 14||Apr 27 2013  2:14AM
+101|1076|en|Y|Request Allocation Custom 15||Apr 27 2013  2:14AM
+101|1077|en|Y|Request Allocation Custom 16||Apr 27 2013  2:14AM
+101|1078|en|Y|Request Allocation Custom 17||Apr 27 2013  2:14AM
+101|1079|en|Y|Request Allocation Custom 18||Apr 27 2013  2:14AM
+101|1080|en|Y|Request Allocation Custom 19||Apr 27 2013  2:14AM
+101|1081|en|Y|Request Allocation Custom 20||Apr 27 2013  2:14AM
+101|1082|en|Y|Outbound Request Segment Key||Apr 27 2013  2:14AM
+101|1083|en|Y|Segment Type Key||Feb 18 2012  3:08AM
+101|1084|en|Y|Is Agency Booked||Feb 18 2012  3:08AM
+101|1085|en|Y|Is Self Booked||Feb 18 2012  3:08AM
+101|1086|en|Y|Request Segment Departure Date||Apr 27 2013  2:14AM
+101|1087|en|Y|Request Segment Departure Time||Apr 27 2013  2:14AM
+101|1088|en|Y|Request Segment Arrival Date||Apr 27 2013  2:14AM
+101|1089|en|Y|Request Segment Arrival Time||Apr 27 2013  2:14AM
+101|1090|en|Y|Request Segment To Location Name Key||Apr 27 2013  2:14AM
+101|1091|en|Y|Request Segment From Location Name Key||Apr 27 2013  2:14AM
+101|1092|en|Y|Request Segment To Country Code||Apr 27 2013  2:14AM
+101|1093|en|Y|Request Segment From Country Code||Apr 27 2013  2:14AM
+101|1094|en|Y|Request Segment Message Key||Apr 27 2013  2:14AM
+101|1095|en|Y|Request Segment From Location Detail||Apr 27 2013  2:14AM
+101|1096|en|Y|Request Segment To Location Detail||Apr 27 2013  2:14AM
+101|1097|en|Y|Passenger Name Record||Feb 18 2012  3:08AM
+101|1098|en|Y|Policy compliant||Feb 18 2012  3:08AM
+101|1099|en|Y|Class of Service||Feb 18 2012  3:08AM
+101|1100|en|Y|Flight Number||Feb 18 2012  3:08AM
+101|1101|en|Y|Duration||Feb 18 2012  3:08AM
+101|1102|en|Y|Vendor Name||Feb 18 2012  3:08AM
+101|1103|en|Y|Vehicle Type||Feb 18 2012  3:08AM
+101|1104|en|Y|Request Segment Custom 01||Apr 27 2013  2:14AM
+101|1105|en|Y|Request Segment Custom 02||Apr 27 2013  2:14AM
+101|1106|en|Y|Request Segment Custom 03||Apr 27 2013  2:14AM
+101|1107|en|Y|Request Segment Custom 04||Apr 27 2013  2:14AM
+101|1108|en|Y|Request Segment Custom 05||Apr 27 2013  2:14AM
+101|1109|en|Y|Request Segment Custom 06||Apr 27 2013  2:14AM
+101|1110|en|Y|Request Segment Custom 07||Apr 27 2013  2:14AM
+101|1111|en|Y|Request Segment Custom 08||Apr 27 2013  2:14AM
+101|1112|en|Y|Request Segment Custom 09||Apr 27 2013  2:14AM
+101|1113|en|Y|Request Segment Custom 10||Apr 27 2013  2:14AM
+101|1114|en|Y|Request Segment Custom 11||Apr 27 2013  2:14AM
+101|1115|en|Y|Request Segment Custom 12||Apr 27 2013  2:14AM
+101|1116|en|Y|Request Segment Custom 13||Apr 27 2013  2:14AM
+101|1117|en|Y|Request Segment Custom 14||Apr 27 2013  2:14AM
+101|1118|en|Y|Request Segment Custom 15||Apr 27 2013  2:14AM
+101|1119|en|Y|Request Segment Custom 16||Apr 27 2013  2:14AM
+101|1120|en|Y|Request Segment Custom 17||Apr 27 2013  2:14AM
+101|1121|en|Y|Request Segment Custom 18||Apr 27 2013  2:14AM
+101|1122|en|Y|Request Segment Custom 19||Apr 27 2013  2:14AM
+101|1123|en|Y|Request Segment Custom 20||Apr 27 2013  2:14AM
+101|1124|en|Y|Request Segment Custom 21||Apr 27 2013  2:14AM
+101|1125|en|Y|Request Segment Custom 22||Apr 27 2013  2:14AM
+101|1126|en|Y|Request Segment Custom 23||Apr 27 2013  2:14AM
+101|1127|en|Y|Request Segment Custom 24||Apr 27 2013  2:14AM
+101|1128|en|Y|Request Segment Custom 25||Apr 27 2013  2:14AM
+101|1129|en|Y|Request Segment Custom 26||Apr 27 2013  2:14AM
+101|1130|en|Y|Request Segment Custom 27||Apr 27 2013  2:14AM
+101|1131|en|Y|Request Segment Custom 28||Apr 27 2013  2:14AM
+101|1132|en|Y|Request Segment Custom 29||Apr 27 2013  2:14AM
+101|1133|en|Y|Request Segment Custom 30||Apr 27 2013  2:14AM
+101|1134|en|Y|Request Segment Custom 31||Apr 27 2013  2:14AM
+101|1135|en|Y|Request Segment Custom 32||Apr 27 2013  2:14AM
+101|1136|en|Y|Request Segment Custom 33||Apr 27 2013  2:14AM
+101|1137|en|Y|Request Segment Custom 34||Apr 27 2013  2:14AM
+101|1138|en|Y|Request Segment Custom 35||Apr 27 2013  2:14AM
+101|1139|en|Y|Request Segment Custom 36||Apr 27 2013  2:14AM
+101|1140|en|Y|Request Segment Custom 37||Apr 27 2013  2:14AM
+101|1141|en|Y|Request Segment Custom 38||Apr 27 2013  2:14AM
+101|1142|en|Y|Request Segment Custom 39||Apr 27 2013  2:14AM
+101|1143|en|Y|Request Segment Custom 40||Apr 27 2013  2:14AM
+101|1144|en|Y|Exchange Rate||Feb 18 2012  3:08AM
+101|1145|en|Y|Issued date||Feb 18 2012  3:08AM
+101|1146|en|Y|Request Date||Feb 18 2012  3:08AM
+101|1147|en|Y|CA Key||Feb 18 2012  3:08AM
+101|1148|en|Y|Cash Advance Name||Apr 21 2012  3:25AM
+101|1149|en|Y|Text||Feb 18 2012  3:08AM
+101|1150|en|Y|Report Creation date||Mar 24 2012  1:54AM
+101|1151|en|Y|Submit Date||Feb 18 2012  3:08AM
+101|1152|en|Y|Report ID||Feb 18 2012  3:08AM
+101|1153|en|Y|Cash Advance Payment Code Name||Feb 18 2012  3:08AM
+101|1154|en|Y|Employee Currency Alpha Code||Feb 18 2012  3:08AM
+101|1155|en|Y|Employee Currency Numeric Code||Feb 18 2012  3:08AM
+101|1156|en|Y|Employee Currency Name||Feb 18 2012  3:08AM
+101|1157|en|Y|Request Currency Alpha Code||Apr 27 2013  2:14AM
+101|1158|en|Y|Request Currency Numeric Code||Apr 27 2013  2:14AM
+101|1159|en|Y|Request Currency Name||Apr 27 2013  2:14AM
+101|1160|en|Y|Request Entry Currency Alpha Code||Apr 27 2013  2:14AM
+101|1161|en|Y|Request Entry Currency Numeric Code||Apr 27 2013  2:14AM
+101|1162|en|Y|Request Entry Currency Name||Apr 27 2013  2:14AM
+101|1163|en|Y|Cash Advance Request Currency Alpha Code||Mar 24 2012  1:54AM
+101|1164|en|Y|Cash Advance Request Currency Numeric Code||Feb 18 2012  3:08AM
+101|1165|en|Y|Cash Advance Request Currency Name||Feb 18 2012  3:08AM
+101|1166|en|Y|Report Currency Alpha Code||Feb 18 2012  3:08AM
+101|1167|en|Y|Report Currency Numeric Code||Feb 18 2012  3:08AM
+101|1168|en|Y|Report Currency Name||Feb 18 2012  3:08AM
+101|1169|en|Y|Cash Advance Currency Alpha Code||Feb 18 2012  3:08AM
+101|1170|en|Y|Cash Advance Currency Numeric Code||Feb 18 2012  3:08AM
+101|1171|en|Y|Request Key||Mar 24 2012  1:54AM
+101|1172|en|Y|Request Id||Mar 24 2012  1:54AM
+101|1173|en|Y|Invoice Number||Mar 24 2012  1:54AM
+101|1174|en|Y|Purchase Order Number||Mar 24 2012  1:54AM
+101|1175|en|Y|Request Name||Mar 24 2012  1:54AM
+101|1176|en|Y|Payment Method Type||Mar 24 2012  1:54AM
+101|1177|en|Y|Payment Amount||Mar 24 2012  1:54AM
+101|1178|en|Y|Payment Adjustment Notes||Mar 24 2012  1:54AM
+101|1179|en|Y|Payment Status Date||Mar 24 2012  1:54AM
+101|1180|en|Y|Check Number||Mar 24 2012  1:54AM
+101|1181|en|Y|Payment Status||Mar 24 2012  1:54AM
+101|1182|en|Y|Supplier Name||Mar 24 2012  1:54AM
+101|1183|en|Y|Vendor Code||Mar 24 2012  1:54AM
+101|1184|en|Y|Vendor Address Code||Mar 24 2012  1:54AM
+101|1185|en|Y|Statement Period Start Date||Apr 21 2012  3:25AM
+101|1186|en|Y|Statement Period End Date||Apr 21 2012  3:25AM
+101|1187|en|Y|Card Program Type Code||Apr 21 2012  3:25AM
+101|1188|en|Y|Request Entry City||Apr 27 2013  2:14AM
+101|1189|en|Y|Request Entry Country||Apr 27 2013  2:14AM
+101|1190|en|Y|Request Entry Country Subdivision||Apr 27 2013  2:14AM
+101|1191|en|Y|Request Entry Vendor||Apr 27 2013  2:14AM
+101|1192|en|Y|Request Entry Vendor Name||Apr 27 2013  2:14AM
+101|1193|en|Y|Segment Vendor||Apr 21 2012  3:25AM
+101|1194|en|Y|Account String||Jun 23 2012  1:42AM
+101|1195|en|Y|Batch ID||Jun 23 2012  1:42AM
+101|1196|en|Y|Batch Date||Jun 23 2012  1:42AM
+101|1197|en|Y|Detail Row count||Jun 23 2012  1:42AM
+101|1198|en|Y|File Sequence Number||Jun 23 2012  1:42AM
+101|1199|en|Y|Blank/Placeholder||Jun 23 2012  1:42AM
+101|1200|en|Y|None - Do Not Group||Jun 23 2012  1:42AM
+101|1201|en|Y|Expense Report ID||Jun 23 2012  1:42AM
+101|1202|en|Y|Attendee Entry Custom 1||Sep 15 2012  2:07AM
+101|1203|en|Y|Attendee Entry Custom 2||Sep 15 2012  2:07AM
+101|1204|en|Y|Attendee Entry Custom 3||Sep 15 2012  2:07AM
+101|1205|en|Y|Attendee Entry Custom 4||Sep 15 2012  2:07AM
+101|1206|en|Y|Attendee Entry Custom 5||Sep 15 2012  2:07AM
+101|1207|en|Y|Supplier Part ID||Oct 20 2012  2:06AM
+101|1208|en|Y|Payment Demand ID||Oct 20 2012  2:06AM
+101|1209|en|Y|Funding Initiation Date||Oct 20 2012  2:06AM
+101|1210|en|Y|Funding Settlement Date||Oct 20 2012  2:06AM
+101|1211|en|Y|Return Initiation Date||Oct 20 2012  2:06AM
+101|1212|en|Y|Return Settlement Date||Oct 20 2012  2:06AM
+101|1213|en|Y|Payment Initiation Date||Oct 20 2012  2:06AM
+101|1214|en|Y|Payment Settlement Date||Oct 20 2012  2:06AM
+101|1215|en|Y|Cash Account Code||Oct 20 2012  2:06AM
+101|1216|en|Y|Liability Account Code||Oct 20 2012  2:06AM
+101|1217|en|Y|Batch ID||Oct 20 2012  2:06AM
+101|1218|en|Y|Payment Status Date||Nov 17 2012  4:26AM
+101|1219|en|Y|Check Number||Nov 17 2012  4:26AM
+101|1220|en|Y|Payment Adjustment Notes||Nov 17 2012  4:26AM
+101|1221|en|Y|Net Payment Terms||Nov 17 2012  4:26AM
+101|1222|en|Y|Request Main Destination City||Jan 19 2013  3:55AM
+101|1223|en|Y|Request Main Destination Country||Jan 19 2013  3:55AM
+101|1224|en|Y|Request Main Destination Country subdivision||Jan 19 2013  3:55AM
+101|1225|en|Y|Request Expiration date||Feb 23 2013  4:02AM
+101|1226|en|Y|Request Post Approval Updated Amount||Feb 23 2013  4:02AM
+101|1227|en|Y|Is Cash Advance related||Feb 23 2013  4:02AM
+101|1228|en|Y|Request Entry Budget Date||Feb 23 2013  4:02AM
+101|1229|en|Y|Request Type||Feb 23 2013  4:02AM
+101|1230|en|Y|Cash Advance Payment Method||Mar 23 2013  2:02AM
+101|1231|en|Y|Issued Date||Mar 23 2013  2:02AM
+101|1232|en|Y|CA Key||Mar 23 2013  2:02AM
+101|1233|en|Y|Cash Advance Name||Mar 23 2013  2:02AM
+101|1234|en|Y|Shipping Terms Code||Apr 27 2013  2:14AM
+101|1235|en|Y|Shipping Method Code||Apr 27 2013  2:14AM
+101|1236|en|Y|Payment Terms Days||Apr 27 2013  2:14AM
+101|1237|en|Y|Discount Terms Days||Apr 27 2013  2:14AM
+101|1238|en|Y|Discount Percentage||Apr 27 2013  2:14AM
+101|1239|en|Y|Credit Card Transaction Sales Tax Amount||Apr 27 2013  2:14AM
+101|1240|en|Y|Payment Demand Credit Card Vendor||Apr 27 2013  2:14AM
+101|1241|en|Y|Report Entry Budget Accrual Date||Apr 27 2013  2:14AM
+101|1242|en|Y|PO Contact First Name||May 18 2013  1:35AM
+101|1243|en|Y|PO Contact Last Name||May 18 2013  1:35AM
+101|1244|en|Y|PO Contact Email||May 18 2013  1:35AM
+101|1245|en|Y|PO Contact Phone Number||May 18 2013  1:35AM
+101|1246|en|Y|Vendor Remit To PO ContactPhone Number||May 18 2013  1:35AM
+101|1247|en|Y|Vendor Remit To PO Contact First Name||May 18 2013  1:35AM
+101|1248|en|Y|Vendor Remit To PO Contact Last Name||May 18 2013  1:35AM
+101|1249|en|Y|Vendor Remit To PO Contact Email||May 18 2013  1:35AM
+101|1250|en|Y|Event Request ID||Jun 15 2013  3:04AM
+101|1251|en|Y|Main Destination Risk Level||Jun 15 2013  3:04AM
+101|1252|en|Y|Highest Location Risk Level||Jun 15 2013  3:04AM
+101|1253|en|Y|Location Risk Level||Jun 15 2013  3:04AM
+101|1254|en|Y|From Location Risk Level||Jun 15 2013  3:04AM
+101|1255|en|Y|To Location Risk Level||Jun 15 2013  3:04AM
+101|1256|en|Y|Report Entry Country Code||Jul 20 2013  2:19AM
+101|1257|en|Y|Report Entry Country Sub Code||Jul 20 2013  2:19AM
+101|1258|en|Y|Report Entry Location Name||Jul 20 2013  2:19AM
+101|1259|en|Y|Attendee Middle Initial||Jul 20 2013  2:19AM
+101|1260|en|Y|Attendee Suffix||Jul 20 2013  2:19AM
+101|1261|en|Y|Attendee Custom 21||Jul 20 2013  2:19AM
+101|1262|en|Y|Attendee Custom 22||Jul 20 2013  2:19AM
+101|1263|en|Y|Attendee Custom 23||Jul 20 2013  2:19AM
+101|1264|en|Y|Attendee Custom 24||Jul 20 2013  2:19AM
+101|1265|en|Y|Attendee Custom 25||Jul 20 2013  2:19AM
+101|1266|en|Y|Payment Demand Payment Date||Aug 24 2013  3:29AM
+101|1267|en|Y|Receipt Confirmation Type||Sep 21 2013  2:35AM
+101|1268|en|Y|Allocation Total Tax Transaction Amount||Sep 21 2013  2:35AM
+101|1269|en|Y|Allocation Total Tax Posted Amount||Sep 21 2013  2:35AM
+101|1270|en|Y|Allocation Total Tax Adjusted Amount||Sep 21 2013  2:35AM
+101|1271|en|Y|Allocation Total Tax Reclaim Transaction Amount||Sep 21 2013  2:35AM
+101|1272|en|Y|Allocation Total Tax Reclaim Posted Amount||Sep 21 2013  2:35AM
+101|1273|en|Y|Allocation Total Tax Reclaim Transaction Adjusted Amount||Sep 21 2013  2:35AM
+101|1274|en|Y|Allocation Total Tax Reclaim Adjusted Amount||Sep 21 2013  2:35AM
+101|1275|en|Y|Journal Net of Total Adjusted Reclaim Tax||Sep 21 2013  2:35AM
+101|1276|en|Y|Journal Net of Total Adjusted Tax||Sep 21 2013  2:35AM
+101|1277|en|Y|Request Segment Booking Origin||Oct 19 2013  5:17AM
+101|1278|en|Y|Employee Custom 21||Dec 14 2013  6:34AM
+101|1279|en|Y|Employee Custom 22||Dec 14 2013  6:34AM
+101|1280|en|Y|Vendor Remit To Custom 16||Jan 18 2014  4:58AM
+101|1281|en|Y|Vendor Remit To Custom 17||Jan 18 2014  4:58AM
+101|1282|en|Y|Vendor Remit To Custom 18||Jan 18 2014  4:58AM
+101|1283|en|Y|Vendor Remit To Custom 19||Jan 18 2014  4:58AM
+101|1284|en|Y|Vendor Remit To Custom 20||Jan 18 2014  4:58AM
+101|1285|en|Y|Vendor Ship From Custom 16||Jan 18 2014  4:58AM
+101|1286|en|Y|Vendor Ship From Custom 17||Jan 18 2014  4:58AM
+101|1287|en|Y|Vendor Ship From Custom 18||Jan 18 2014  4:58AM
+101|1288|en|Y|Vendor Ship From Custom 19||Jan 18 2014  4:58AM
+101|1289|en|Y|Vendor Ship From Custom 20||Jan 18 2014  4:58AM
+101|1290|en|Y|Custom 16||Jan 18 2014  4:58AM
+101|1291|en|Y|Custom 17||Jan 18 2014  4:58AM
+101|1292|en|Y|Custom 18||Jan 18 2014  4:58AM
+101|1293|en|Y|Custom 19||Jan 18 2014  4:58AM
+101|1294|en|Y|Custom 20||Jan 18 2014  4:58AM
+101|1295|en|Y|Report Total Posted Amount||Jan 18 2014  4:58AM
+101|1296|en|Y|Report Total Personal Amount||Jan 18 2014  4:58AM
+101|1297|en|Y|Report Total Claimed Amount||Jan 18 2014  4:58AM
+101|1298|en|Y|Report Total Approved Amount||Jan 18 2014  4:58AM
+101|1299|en|Y|Total Employee Due||Jan 18 2014  4:58AM
+101|1300|en|Y|Total Company Card Due||Jan 18 2014  4:58AM
+101|1301|en|Y|Report Entry Count||Jan 18 2014  4:58AM
+101|1302|en|Y|Has VAT Entry||Jan 18 2014  4:58AM
+101|1303|en|Y|Has TA Entry||Jan 18 2014  4:58AM
+101|1304|en|Y|Report Total Rejected||Jan 18 2014  4:58AM
+101|1305|en|Y|Report Total Company Paid||Jan 18 2014  4:58AM
+101|1306|en|Y|Report Total Due Company||Jan 18 2014  4:58AM
+101|1307|en|Y|Report Total Confirmed Paid||Jan 18 2014  4:58AM
+101|1308|en|Y|Report Actual Total Due Employee||Jan 18 2014  4:58AM
+101|1309|en|Y|Report Actual Total Due Company Card||Jan 18 2014  4:58AM
+101|1310|en|Y|Request Advance Disbursement Date||Feb  8 2014  5:05AM
+101|1311|en|Y|Request Advance Travel Start Date||Feb  8 2014  5:05AM
+101|1312|en|Y|Request Advance Travel End Date||Feb  8 2014  5:05AM
+101|1313|en|Y|Request Advance Purpose||Feb  8 2014  5:05AM
+101|1314|en|Y|Request Advance Location Name||Feb  8 2014  5:05AM
+101|1315|en|Y|Cash Advance Disbursement Date||Feb  8 2014  5:05AM
+101|1316|en|Y|Cash Advance Travel Start Date||Feb  8 2014  5:05AM
+101|1317|en|Y|Cash Advance Travel End Date||Feb  8 2014  5:05AM
+101|1318|en|Y|Cash Advance Purpose||Feb  8 2014  5:05AM
+101|1319|en|Y|Cash Advance Location Name||Feb  8 2014  5:05AM
+101|1320|en|Y|Request Calculated Tax Amount||Aug 23 2014  2:54AM
+101|1321|en|Y|Request Calculated Tax Rate||Aug 23 2014  2:54AM
+101|1322|en|Y|Tax Reference ID||Aug 23 2014  2:54AM
+101|1323|en|Y|Line Item Calculated Tax Amount||Aug 23 2014  2:54AM
+101|1324|en|Y|Line Item Calculated Tax Rate||Aug 23 2014  2:54AM
+101|1325|en|Y|Employee First Name||Sep 13 2014  3:10AM
+101|1326|en|Y|Employee ID||Sep 13 2014  3:10AM
+101|1327|en|Y|Employee Last Name||Sep 13 2014  3:10AM
+101|1328|en|Y|Employee Middle Initial||Sep 13 2014  3:10AM
+101|1329|en|Y|Employee Email Address||Sep 13 2014  3:10AM
+101|1330|en|Y|Employee Login ID||Sep 13 2014  3:10AM
+101|1331|en|Y|Employee Org Unit 1||Sep 13 2014  3:10AM
+101|1332|en|Y|Employee Org Unit 2||Sep 13 2014  3:10AM
+101|1333|en|Y|Employee Org Unit 3||Sep 13 2014  3:10AM
+101|1334|en|Y|Employee Org Unit 4||Sep 13 2014  3:10AM
+101|1335|en|Y|Employee Org Unit 5||Sep 13 2014  3:10AM
+101|1336|en|Y|Employee Org Unit 6||Sep 13 2014  3:10AM
+101|1337|en|Y|Employee Custom 1||Sep 13 2014  3:10AM
+101|1338|en|Y|Employee Custom 2||Sep 13 2014  3:10AM
+101|1339|en|Y|Employee Custom 3||Sep 13 2014  3:10AM
+101|1340|en|Y|Employee Custom 4||Sep 13 2014  3:10AM
+101|1341|en|Y|Employee Custom 5||Sep 13 2014  3:10AM
+101|1342|en|Y|Employee Custom 6||Sep 13 2014  3:10AM
+101|1343|en|Y|Employee Custom 7||Sep 13 2014  3:10AM
+101|1344|en|Y|Employee Custom 8||Sep 13 2014  3:10AM
+101|1345|en|Y|Employee Custom 9||Sep 13 2014  3:10AM
+101|1346|en|Y|Employee Custom 10||Sep 13 2014  3:10AM
+101|1347|en|Y|Employee Custom 11||Sep 13 2014  3:10AM
+101|1348|en|Y|Employee Custom 12||Sep 13 2014  3:10AM
+101|1349|en|Y|Employee Custom 13||Sep 13 2014  3:10AM
+101|1350|en|Y|Employee Custom 14||Sep 13 2014  3:10AM
+101|1351|en|Y|Employee Custom 15||Sep 13 2014  3:10AM
+101|1352|en|Y|Employee Custom 16||Sep 13 2014  3:10AM
+101|1353|en|Y|Employee Custom 17||Sep 13 2014  3:10AM
+101|1354|en|Y|Employee Custom 18||Sep 13 2014  3:10AM
+101|1355|en|Y|Employee Custom 19||Sep 13 2014  3:10AM
+101|1356|en|Y|Employee Custom 20||Sep 13 2014  3:10AM
+101|1357|en|Y|Employee Custom 21||Sep 13 2014  3:10AM
+101|1358|en|Y|Employee Custom 22||Sep 13 2014  3:10AM
+101|1359|en|Y|Purchase Order Header PO Key||Sep 13 2014  3:10AM
+101|1360|en|Y|Purchase Order Header PO Number||Sep 13 2014  3:10AM
+101|1361|en|Y|Purchase Order Header Order Date||Sep 13 2014  3:10AM
+101|1362|en|Y|Purchase Order Header Order Type||Sep 13 2014  3:10AM
+101|1363|en|Y|Purchase Order Header Name||Sep 13 2014  3:10AM
+101|1364|en|Y|Purchase Order Header Description||Sep 13 2014  3:10AM
+101|1365|en|Y|Purchase Order Header Requested Delivery Date||Sep 13 2014  3:10AM
+101|1366|en|Y|Purchase Order Header Requested By||Sep 13 2014  3:10AM
+101|1367|en|Y|Purchase Order Header Net Payment Terms Days||Sep 13 2014  3:10AM
+101|1368|en|Y|Purchase Order Header Discount Terms Days||Sep 13 2014  3:10AM
+101|1369|en|Y|Purchase Order Header Discount Percentage||Sep 13 2014  3:10AM
+101|1370|en|Y|Purchase Order Header Tax||Sep 13 2014  3:10AM
+101|1371|en|Y|Purchase Order Header Is Line Item Tax||Sep 13 2014  3:10AM
+101|1372|en|Y|Purchase Order Header Shipping||Sep 13 2014  3:10AM
+101|1373|en|Y|Purchase Order Header Shipping Description||Sep 13 2014  3:10AM
+101|1374|en|Y|Purchase Order Header Total||Sep 13 2014  3:10AM
+101|1375|en|Y|Purchase Order Header Creation Date||Sep 13 2014  3:10AM
+101|1376|en|Y|Purchase Order Header Needed By Date||Sep 13 2014  3:10AM
+101|1377|en|Y|Purchase Order Header PO Status||Sep 13 2014  3:10AM
+101|1378|en|Y|Purchase Order Header Notes to Supplier||Sep 13 2014  3:10AM
+101|1379|en|Y|Purchase Order Header First Order Date||Sep 13 2014  3:10AM
+101|1380|en|Y|Purchase Order Header Custom 1||Sep 13 2014  3:10AM
+101|1381|en|Y|Purchase Order Header Custom 2||Sep 13 2014  3:10AM
+101|1382|en|Y|Purchase Order Header Custom 3||Sep 13 2014  3:10AM
+101|1383|en|Y|Purchase Order Header Custom 4||Sep 13 2014  3:10AM
+101|1384|en|Y|Purchase Order Header Custom 5||Sep 13 2014  3:10AM
+101|1385|en|Y|Purchase Order Header Custom 6||Sep 13 2014  3:10AM
+101|1386|en|Y|Purchase Order Header Custom 7||Sep 13 2014  3:10AM
+101|1387|en|Y|Purchase Order Header Custom 8||Sep 13 2014  3:10AM
+101|1388|en|Y|Purchase Order Header Custom 9||Sep 13 2014  3:10AM
+101|1389|en|Y|Purchase Order Header Custom 10||Sep 13 2014  3:10AM
+101|1390|en|Y|Purchase Order Header Custom 11||Sep 13 2014  3:10AM
+101|1391|en|Y|Purchase Order Header Custom 12||Sep 13 2014  3:10AM
+101|1392|en|Y|Purchase Order Header Custom 13||Sep 13 2014  3:10AM
+101|1393|en|Y|Purchase Order Header Custom 14||Sep 13 2014  3:10AM
+101|1394|en|Y|Purchase Order Header Custom 15||Sep 13 2014  3:10AM
+101|1395|en|Y|Purchase Order Header Custom 16||Sep 13 2014  3:10AM
+101|1396|en|Y|Purchase Order Header Custom 17||Sep 13 2014  3:10AM
+101|1397|en|Y|Purchase Order Header Custom 18||Sep 13 2014  3:10AM
+101|1398|en|Y|Purchase Order Header Custom 19||Sep 13 2014  3:10AM
+101|1399|en|Y|Purchase Order Header Custom 20||Sep 13 2014  3:10AM
+101|1400|en|Y|Purchase Order Header Custom 21||Sep 13 2014  3:10AM
+101|1401|en|Y|Purchase Order Header Custom 22||Sep 13 2014  3:10AM
+101|1402|en|Y|Purchase Order Header Custom 23||Sep 13 2014  3:10AM
+101|1403|en|Y|Purchase Order Header Custom 24||Sep 13 2014  3:10AM
+101|1404|en|Y|Purchase Order Line Item Key||Sep 13 2014  3:10AM
+101|1405|en|Y|Purchase Order Line Item PO Key||Sep 13 2014  3:10AM
+101|1406|en|Y|Purchase Order Line Item Line Number||Sep 13 2014  3:10AM
+101|1407|en|Y|Purchase Order Line Item Requested Delivery Date||Sep 13 2014  3:10AM
+101|1408|en|Y|Purchase Order Line Item Requested By||Sep 13 2014  3:10AM
+101|1409|en|Y|Purchase Order Line Item Description||Sep 13 2014  3:10AM
+101|1410|en|Y|Purchase Order Line Item Quantity||Sep 13 2014  3:10AM
+101|1411|en|Y|Purchase Order Line Item Unit Price||Sep 13 2014  3:10AM
+101|1412|en|Y|Purchase Order Line Item Tax||Sep 13 2014  3:10AM
+101|1413|en|Y|Purchase Order Line Item Total||Sep 13 2014  3:10AM
+101|1414|en|Y|Purchase Order Line Item Creation Date||Sep 13 2014  3:10AM
+101|1415|en|Y|Purchase Order Line Item Account Code||Sep 13 2014  3:10AM
+101|1416|en|Y|Purchase Order Line Item Notes to Vendor||Sep 13 2014  3:10AM
+101|1417|en|Y|Purchase Order Line Item Is Receipt Required||Sep 13 2014  3:10AM
+101|1418|en|Y|Purchase Order Line Item Is Received||Sep 13 2014  3:10AM
+101|1419|en|Y|Purchase Order Line Item Received Quantity||Sep 13 2014  3:10AM
+101|1420|en|Y|Purchase Order Line Item Received Date||Sep 13 2014  3:10AM
+101|1421|en|Y|Purchase Order Line Item Custom 1||Sep 13 2014  3:10AM
+101|1422|en|Y|Purchase Order Line Item Custom 2||Sep 13 2014  3:10AM
+101|1423|en|Y|Purchase Order Line Item Custom 3||Sep 13 2014  3:10AM
+101|1424|en|Y|Purchase Order Line Item Custom 4||Sep 13 2014  3:10AM
+101|1425|en|Y|Purchase Order Line Item Custom 5||Sep 13 2014  3:10AM
+101|1426|en|Y|Purchase Order Line Item Custom 6||Sep 13 2014  3:10AM
+101|1427|en|Y|Purchase Order Line Item Custom 7||Sep 13 2014  3:10AM
+101|1428|en|Y|Purchase Order Line Item Custom 8||Sep 13 2014  3:10AM
+101|1429|en|Y|Purchase Order Line Item Custom 9||Sep 13 2014  3:10AM
+101|1430|en|Y|Purchase Order Line Item Custom 10||Sep 13 2014  3:10AM
+101|1431|en|Y|Purchase Order Line Item Custom 11||Sep 13 2014  3:10AM
+101|1432|en|Y|Purchase Order Line Item Custom 12||Sep 13 2014  3:10AM
+101|1433|en|Y|Purchase Order Line Item Custom 13||Sep 13 2014  3:10AM
+101|1434|en|Y|Purchase Order Line Item Custom 14||Sep 13 2014  3:10AM
+101|1435|en|Y|Purchase Order Line Item Custom 15||Sep 13 2014  3:10AM
+101|1436|en|Y|Purchase Order Line Item Custom 16||Sep 13 2014  3:10AM
+101|1437|en|Y|Purchase Order Line Item Custom 17||Sep 13 2014  3:10AM
+101|1438|en|Y|Purchase Order Line Item Custom 18||Sep 13 2014  3:10AM
+101|1439|en|Y|Purchase Order Line Item Custom 19||Sep 13 2014  3:10AM
+101|1440|en|Y|Purchase Order Line Item Custom 20||Sep 13 2014  3:10AM
+101|1441|en|Y|Purchase Order Allocation Key||Sep 13 2014  3:10AM
+101|1442|en|Y|Purchase Order Line Item Key||Sep 13 2014  3:10AM
+101|1443|en|Y|Purchase Order Allocation Percentage||Sep 13 2014  3:10AM
+101|1444|en|Y|Purchase Order Allocation Custom 1||Sep 13 2014  3:10AM
+101|1445|en|Y|Purchase Order Allocation Custom 2||Sep 13 2014  3:10AM
+101|1446|en|Y|Purchase Order Allocation Custom 3||Sep 13 2014  3:10AM
+101|1447|en|Y|Purchase Order Allocation Custom 4||Sep 13 2014  3:10AM
+101|1448|en|Y|Purchase Order Allocation Custom 5||Sep 13 2014  3:10AM
+101|1449|en|Y|Purchase Order Allocation Custom 6||Sep 13 2014  3:10AM
+101|1450|en|Y|Purchase Order Allocation Custom 7||Sep 13 2014  3:10AM
+101|1451|en|Y|Purchase Order Allocation Custom 8||Sep 13 2014  3:10AM
+101|1452|en|Y|Purchase Order Allocation Custom 9||Sep 13 2014  3:10AM
+101|1453|en|Y|Purchase Order Allocation Custom 10||Sep 13 2014  3:10AM
+101|1454|en|Y|Purchase Order Allocation Custom 11||Sep 13 2014  3:10AM
+101|1455|en|Y|Purchase Order Allocation Custom 12||Sep 13 2014  3:10AM
+101|1456|en|Y|Purchase Order Allocation Custom 13||Sep 13 2014  3:10AM
+101|1457|en|Y|Purchase Order Allocation Custom 14||Sep 13 2014  3:10AM
+101|1458|en|Y|Purchase Order Allocation Custom 15||Sep 13 2014  3:10AM
+101|1459|en|Y|Purchase Order Allocation Custom 16||Sep 13 2014  3:10AM
+101|1460|en|Y|Purchase Order Allocation Custom 17||Sep 13 2014  3:10AM
+101|1461|en|Y|Purchase Order Allocation Custom 18||Sep 13 2014  3:10AM
+101|1462|en|Y|Purchase Order Allocation Custom 19||Sep 13 2014  3:10AM
+101|1463|en|Y|Purchase Order Allocation Custom 20||Sep 13 2014  3:10AM
+101|1464|en|Y|Purchase Order Ship To Address ID||Sep 13 2014  3:10AM
+101|1465|en|Y|Purchase Order Ship To Address Code||Sep 13 2014  3:10AM
+101|1466|en|Y|Purchase Order Ship To Address 1||Sep 13 2014  3:10AM
+101|1467|en|Y|Purchase Order Ship To Address 2||Sep 13 2014  3:10AM
+101|1468|en|Y|Purchase Order Ship To Address 3||Sep 13 2014  3:10AM
+101|1469|en|Y|Purchase Order Ship To Country Code||Sep 13 2014  3:10AM
+101|1470|en|Y|Purchase Order Ship To State||Sep 13 2014  3:10AM
+101|1471|en|Y|Purchase Order Ship To City||Sep 13 2014  3:10AM
+101|1472|en|Y|Purchase Order Ship To Zip Code||Sep 13 2014  3:10AM
+101|1473|en|Y|Purchase Order Ship To Phone Number||Sep 13 2014  3:10AM
+101|1474|en|Y|Purchase Order Ship To Contact First Name||Sep 13 2014  3:10AM
+101|1475|en|Y|Purchase Order Ship To Contact Last Name||Sep 13 2014  3:10AM
+101|1476|en|Y|Purchase Order Ship To Custom 1||Sep 13 2014  3:10AM
+101|1477|en|Y|Purchase Order Ship To Custom 2||Sep 13 2014  3:10AM
+101|1478|en|Y|Purchase Order Ship To Custom 3||Sep 13 2014  3:10AM
+101|1479|en|Y|Purchase Order Ship To Custom 4||Sep 13 2014  3:10AM
+101|1480|en|Y|Purchase Order Ship To Custom 5||Sep 13 2014  3:10AM
+101|1481|en|Y|Purchase Order Ship To Custom 6||Sep 13 2014  3:10AM
+101|1482|en|Y|Purchase Order Ship To Custom 7||Sep 13 2014  3:10AM
+101|1483|en|Y|Purchase Order Ship To Custom 8||Sep 13 2014  3:10AM
+101|1484|en|Y|Purchase Order Ship To Custom 9||Sep 13 2014  3:10AM
+101|1485|en|Y|Purchase Order Ship To Custom 10||Sep 13 2014  3:10AM
+101|1486|en|Y|Purchase Order Ship To Custom 11||Sep 13 2014  3:10AM
+101|1487|en|Y|Purchase Order Ship To Custom 12||Sep 13 2014  3:10AM
+101|1488|en|Y|Purchase Order Ship To Custom 13||Sep 13 2014  3:10AM
+101|1489|en|Y|Purchase Order Ship To Custom 14||Sep 13 2014  3:10AM
+101|1490|en|Y|Purchase Order Ship To Custom 15||Sep 13 2014  3:10AM
+101|1491|en|Y|Purchase Order Ship From Address ID||Sep 13 2014  3:10AM
+101|1492|en|Y|Purchase Order Ship From Address Code||Sep 13 2014  3:10AM
+101|1493|en|Y|Purchase Order Ship From Address 1||Sep 13 2014  3:10AM
+101|1494|en|Y|Purchase Order Ship From Address 2||Sep 13 2014  3:10AM
+101|1495|en|Y|Purchase Order Ship From Address 3||Sep 13 2014  3:10AM
+101|1496|en|Y|Purchase Order Ship From Country Code||Sep 13 2014  3:10AM
+101|1497|en|Y|Purchase Order Ship From State||Sep 13 2014  3:10AM
+101|1498|en|Y|Purchase Order Ship From City||Sep 13 2014  3:10AM
+101|1499|en|Y|Purchase Order Ship From Zip Code||Sep 13 2014  3:10AM
+101|1500|en|Y|Purchase Order Ship From Phone Number||Sep 13 2014  3:10AM
+101|1501|en|Y|Purchase Order Ship From Contact First Name||Sep 13 2014  3:10AM
+101|1502|en|Y|Purchase Order Ship From Contact Last Name||Sep 13 2014  3:10AM
+101|1503|en|Y|Purchase Order Ship From Custom 1||Sep 13 2014  3:10AM
+101|1504|en|Y|Purchase Order Ship From Custom 2||Sep 13 2014  3:10AM
+101|1505|en|Y|Purchase Order Ship From Custom 3||Sep 13 2014  3:10AM
+101|1506|en|Y|Purchase Order Ship From Custom 4||Sep 13 2014  3:10AM
+101|1507|en|Y|Purchase Order Ship From Custom 5||Sep 13 2014  3:10AM
+101|1508|en|Y|Purchase Order Ship From Custom 6||Sep 13 2014  3:10AM
+101|1509|en|Y|Purchase Order Ship From Custom 7||Sep 13 2014  3:10AM
+101|1510|en|Y|Purchase Order Ship From Custom 8||Sep 13 2014  3:10AM
+101|1511|en|Y|Purchase Order Ship From Custom 9||Sep 13 2014  3:10AM
+101|1512|en|Y|Purchase Order Ship From Custom 10||Sep 13 2014  3:10AM
+101|1513|en|Y|Purchase Order Ship From Custom 11||Sep 13 2014  3:10AM
+101|1514|en|Y|Purchase Order Ship From Custom 12||Sep 13 2014  3:10AM
+101|1515|en|Y|Purchase Order Ship From Custom 13||Sep 13 2014  3:10AM
+101|1516|en|Y|Purchase Order Ship From Custom 14||Sep 13 2014  3:10AM
+101|1517|en|Y|Purchase Order Ship From Custom 15||Sep 13 2014  3:10AM
+101|1518|en|Y|Employee Banking Account Is Active||Oct 18 2014  2:23AM
+101|1519|en|Y|Employee Banking Bank Account Type||Oct 18 2014  2:23AM
+101|1520|en|Y|Employee Banking Name On Account||Oct 18 2014  2:23AM
+101|1521|en|Y|Employee Banking Bank Name||Oct 18 2014  2:23AM
+101|1522|en|Y|Employee Banking Bank Branch Location||Oct 18 2014  2:23AM
+101|1523|en|Y|Employee Banking Bank Address Line 1||Oct 18 2014  2:23AM
+101|1524|en|Y|Employee Banking Bank Address Line 2||Oct 18 2014  2:23AM
+101|1525|en|Y|Employee Banking Bank City||Oct 18 2014  2:23AM
+101|1526|en|Y|Employee Banking Bank Region||Oct 18 2014  2:23AM
+101|1527|en|Y|Employee Banking Bank Postal Code||Oct 18 2014  2:23AM
+101|1528|en|Y|Employee Banking Bank Country Code||Oct 18 2014  2:23AM
+101|1529|en|Y|Employee Banking Tax ID||Oct 18 2014  2:23AM
+101|1530|en|Y|Employee Banking Is Resident||Oct 18 2014  2:23AM
+101|1531|en|Y|Employee Banking Account Status||Oct 18 2014  2:23AM
+101|1532|en|Y|Employee Banking Account Currency||Oct 18 2014  2:23AM
+101|1533|en|Y|Funding Trace Number||Oct 18 2014  2:24AM
+101|1534|en|Y|Payment Trace Number||Oct 18 2014  2:24AM
+101|1535|en|Y|Report Entry Xml Receipt UUID||Oct 18 2014  2:24AM
+101|1536|en|Y|Purchase Order Header Currency Name||Nov 15 2014  3:46AM
+101|1537|en|Y|Purchase Order Header Policy Name||Nov 15 2014  3:46AM
+101|1538|en|Y|Purchase Order Line Item Expense Type Name||Nov 15 2014  3:46AM
+101|1539|en|Y|Purchase Order Line Item Supplier Id||Nov 15 2014  3:46AM
+101|1540|en|Y|Purchase Order Vendor Code||Nov 15 2014  3:46AM
+101|1541|en|Y|Purchase Order Ship To Contact Email||Nov 15 2014  3:46AM
+101|1542|en|Y|Purchase Order Ship To PO Contact First Name||Nov 15 2014  3:46AM
+101|1543|en|Y|Purchase Order Ship To PO Contact Last Name||Nov 15 2014  3:46AM
+101|1544|en|Y|Purchase Order Ship To PO Contact Email||Nov 15 2014  3:46AM
+101|1545|en|Y|Purchase Order Ship To PO Contact Phone Nummber||Nov 15 2014  3:46AM
+101|1546|en|Y|Purchase Order Ship From Contact Email||Nov 15 2014  3:46AM
+101|1547|en|Y|Purchase Order Ship From PO Contact First Name||Nov 15 2014  3:46AM
+101|1548|en|Y|Purchase Order Ship From PO Contact Last Name||Nov 15 2014  3:46AM
+101|1549|en|Y|Purchase Order Ship From PO Contact Email||Nov 15 2014  3:46AM
+101|1550|en|Y|Purchase Order Ship From PO Contact Phone Number||Nov 15 2014  3:46AM
+101|1551|en|Y|Purchase Order Bill To Address Code||Nov 15 2014  3:46AM
+101|1552|en|Y|Purchase Order Bill To Address 1||Nov 15 2014  3:46AM
+101|1553|en|Y|Purchase Order Bill To Address 2||Nov 15 2014  3:46AM
+101|1554|en|Y|Purchase Order Bill To Address 3||Nov 15 2014  3:46AM
+101|1555|en|Y|Purchase Order Bill To Country Code||Nov 15 2014  3:46AM
+101|1556|en|Y|Purchase Order Bill To State||Nov 15 2014  3:46AM
+101|1557|en|Y|Purchase Order Bill To City||Nov 15 2014  3:46AM
+101|1558|en|Y|Purchase Order Bill To Zip Code||Nov 15 2014  3:46AM
+101|1559|en|Y|Purchase Order Bill To Phone Number||Nov 15 2014  3:46AM
+101|1560|en|Y|Purchase Order Bill To Contact First Name||Nov 15 2014  3:46AM
+101|1561|en|Y|Purchase Order Bill To Contact Last Name||Nov 15 2014  3:46AM
+101|1562|en|Y|Purchase Order Bill To Contact Email||Nov 15 2014  3:46AM
+101|1563|en|Y|Purchase Order Bill To PO Contact First Name||Nov 15 2014  3:46AM
+101|1564|en|Y|Purchase Order Bill To PO Contact Last Name||Nov 15 2014  3:46AM
+101|1565|en|Y|Purchase Order Bill To PO Contact Email||Nov 15 2014  3:46AM
+101|1566|en|Y|Purchase Order Bill To PO Contact Phone Number||Nov 15 2014  3:46AM
+101|1567|en|Y|Purchase Order Bill To Custom 1||Nov 15 2014  3:46AM
+101|1568|en|Y|Purchase Order Bill To Custom 2||Nov 15 2014  3:46AM
+101|1569|en|Y|Purchase Order Bill To Custom 3||Nov 15 2014  3:46AM
+101|1570|en|Y|Purchase Order Bill To Custom 4||Nov 15 2014  3:46AM
+101|1571|en|Y|Purchase Order Bill To Custom 5||Nov 15 2014  3:46AM
+101|1572|en|Y|Purchase Order Bill To Custom 6||Nov 15 2014  3:46AM
+101|1573|en|Y|Purchase Order Bill To Custom 7||Nov 15 2014  3:46AM
+101|1574|en|Y|Purchase Order Bill To Custom 8||Nov 15 2014  3:46AM
+101|1575|en|Y|Purchase Order Bill To Custom 9||Nov 15 2014  3:46AM
+101|1576|en|Y|Purchase Order Bill To Custom 10||Nov 15 2014  3:46AM
+101|1577|en|Y|Purchase Order Bill To Custom 11||Nov 15 2014  3:46AM
+101|1578|en|Y|Purchase Order Bill To Custom 12||Nov 15 2014  3:46AM
+101|1579|en|Y|Purchase Order Bill To Custom 13||Nov 15 2014  3:46AM
+101|1580|en|Y|Purchase Order Bill To Custom 14||Nov 15 2014  3:46AM
+101|1581|en|Y|Purchase Order Bill To Custom 15||Nov 15 2014  3:46AM
+101|1582|en|Y|Payment Request Xml Receipt UUID||Dec 13 2014  4:59AM
+101|1583|en|Y|Purchase Order Header Vendor Tax Identification Number||Feb  7 2015  4:07AM
+101|1584|en|Y|Purchase Order Header Provincial Tax Identification Number||Feb  7 2015  4:07AM
+101|1585|en|Y|Purchase Order Header VAT Amount One||Feb  7 2015  4:07AM
+101|1586|en|Y|Purchase Order Header VAT Amount Two||Feb  7 2015  4:07AM
+101|1587|en|Y|Purchase Order Header VAT Rate One||Feb  7 2015  4:07AM
+101|1588|en|Y|Purchase Order Header VAT Rate Two||Feb  7 2015  4:07AM
+101|1589|en|Y|Purchase Order Header Amount without VAT||Feb  7 2015  4:07AM
+101|1590|en|Y|Purchase Order Line Item VAT Amount||Feb  7 2015  4:07AM
+101|1591|en|Y|Purchase Order Line Item VAT Rate||Feb  7 2015  4:07AM
+101|1592|en|Y|Purchase Order Line Item without VAT||Feb  7 2015  4:07AM
+101|1593|en|Y|Provincial Tax Identification Number||Feb  7 2015  4:07AM
+101|1594|en|Y|Tax Type||Feb  7 2015  4:07AM
+101|1595|en|Y|Tax Type Name||Feb  7 2015  4:07AM
+101|1596|en|Y|Request Vendor Tax Identification Number||Feb  7 2015  4:07AM
+101|1597|en|Y|Request Provincial Tax Identification Number||Feb  7 2015  4:07AM
+101|1598|en|Y|Request VAT Amount One||Feb  7 2015  4:07AM
+101|1599|en|Y|Request VAT Amount Two||Feb  7 2015  4:07AM
+101|1600|en|Y|Request VAT Rate One||Feb  7 2015  4:07AM
+101|1601|en|Y|Request VAT Rate Two||Feb  7 2015  4:07AM
+101|1602|en|Y|Request Amount without VAT||Feb  7 2015  4:07AM
+101|1603|en|Y|Line Item VAT Amount||Feb  7 2015  4:07AM
+101|1604|en|Y|Line Item VAT Rate One||Feb  7 2015  4:07AM
+101|1605|en|Y|Line Item Amount without VAT||Feb  7 2015  4:07AM
+101|1606|en|Y|Vendor Provincial Tax Identification Number||Mar 14 2015  3:10AM
+101|1607|en|Y|Vendor Tax Type||Mar 14 2015  3:10AM
+101|1608|en|Y|Vendor Tax Type Name||Mar 14 2015  3:10AM
+101|1609|en|Y|Request Invoice Container ID||Mar 14 2015  3:10AM
+101|1610|en|Y|Purchase Order Line Item Key||May 16 2015  2:14AM
+101|1611|en|Y|Purchase Order Line Item External ID||May 16 2015  2:14AM
+101|1612|en|Y|Request Vat TAX Code||Jun 13 2015  2:11AM
+101|1613|en|Y|Line Item VAT Tax Code||Jun 13 2015  2:11AM
+101|1614|en|Y|Request Line Item Vat Amount||May 16 2015  2:14AM
+101|1615|en|Y|Purchase Order Header Receipt Type||May 16 2015  2:14AM
+101|1616|en|Y|Delivery slip Number||Jul 11 2015  2:17AM
+101|1617|en|Y|Line Item Delivery slip Number||Jul 11 2015  2:17AM
+101|1618|en|Y|Associated PO Line Item Number||Aug 15 2015  2:43AM
+101|1619|en|Y|Associated PO Line Item External ID||Aug 15 2015  2:43AM
+101|1620|en|Y|Associated PO Line Item Goods Receipt Number||Aug 15 2015  2:43AM
+101|1621|en|Y|Report Entry Xml Receipt Supplier Tax ID||Aug 15 2015  2:43AM
+101|1622|en|Y|Attendee Key||Sep 19 2015  3:38AM
+101|1623|en|Y|Attendee First Name||Sep 19 2015  3:38AM
+101|1624|en|Y|Attendee Middle Initial||Sep 19 2015  3:38AM
+101|1625|en|Y|Attendee Last Name||Sep 19 2015  3:38AM
+101|1626|en|Y|Attendee Suffix||Sep 19 2015  3:38AM
+101|1627|en|Y|Attendee Title||Sep 19 2015  3:38AM
+101|1628|en|Y|Attendee Company Name||Sep 19 2015  3:38AM
+101|1629|en|Y|Attendee Unique Identifier||Sep 19 2015  3:38AM
+101|1630|en|Y|Attendee Custom 1||Sep 19 2015  3:38AM
+101|1631|en|Y|Attendee Custom 2||Sep 19 2015  3:38AM
+101|1632|en|Y|Attendee Custom 3||Sep 19 2015  3:38AM
+101|1633|en|Y|Attendee Custom 4||Sep 19 2015  3:38AM
+101|1634|en|Y|Attendee Custom 5||Sep 19 2015  3:38AM
+101|1635|en|Y|Attendee Custom 6||Sep 19 2015  3:38AM
+101|1636|en|Y|Attendee Custom 7||Sep 19 2015  3:38AM
+101|1637|en|Y|Attendee Custom 8||Sep 19 2015  3:38AM
+101|1638|en|Y|Attendee Custom 9||Sep 19 2015  3:38AM
+101|1639|en|Y|Attendee Custom 10||Sep 19 2015  3:38AM
+101|1640|en|Y|Attendee Custom 11||Sep 19 2015  3:38AM
+101|1641|en|Y|Attendee Custom 12||Sep 19 2015  3:38AM
+101|1642|en|Y|Attendee Custom 13||Sep 19 2015  3:38AM
+101|1643|en|Y|Attendee Custom 14||Sep 19 2015  3:38AM
+101|1644|en|Y|Attendee Custom 15||Sep 19 2015  3:38AM
+101|1645|en|Y|Attendee Custom 16||Sep 19 2015  3:38AM
+101|1646|en|Y|Attendee Custom 17||Sep 19 2015  3:38AM
+101|1647|en|Y|Attendee Custom 18||Sep 19 2015  3:38AM
+101|1648|en|Y|Attendee Custom 19||Sep 19 2015  3:38AM
+101|1649|en|Y|Attendee Custom 20||Sep 19 2015  3:38AM
+101|1650|en|Y|Attendee Custom 21||Sep 19 2015  3:38AM
+101|1651|en|Y|Attendee Custom 22||Sep 19 2015  3:38AM
+101|1652|en|Y|Attendee Custom 23||Sep 19 2015  3:38AM
+101|1653|en|Y|Attendee Custom 24||Sep 19 2015  3:38AM
+101|1654|en|Y|Attendee Custom 25||Sep 19 2015  3:38AM
+101|1655|en|Y|Attendee Year-To-Date Amount||Sep 19 2015  3:38AM
+101|1656|en|Y|Attendee Previous Year Amount||Sep 19 2015  3:38AM
+101|1657|en|Y|Attendee Transaction Amount||Sep 19 2015  3:38AM
+101|1658|en|Y|Attendee Approved Amount in transaction currency||Sep 19 2015  3:38AM
+101|1659|en|Y|Attendee Approved Amount in attendee currency||Sep 19 2015  3:38AM
+101|1660|en|Y|Attendee Amount Is Edited||Sep 19 2015  3:38AM
+101|1661|en|Y|Attendee Instance Count||Sep 19 2015  3:38AM
+101|1662|en|Y|Attendee Type Name||Sep 19 2015  3:38AM
+101|1663|en|Y|Attendee Type Code||Sep 19 2015  3:38AM
+101|1664|en|Y|Employee owning the attendee record||Sep 19 2015  3:38AM
+101|1665|en|Y|Currency Alpha Code of attendee currency||Sep 19 2015  3:38AM
+101|1666|en|Y|Attendee Entry Custom 1||Sep 19 2015  3:38AM
+101|1667|en|Y|Attendee Entry Custom 2||Sep 19 2015  3:38AM
+101|1668|en|Y|Attendee Entry Custom 3||Sep 19 2015  3:38AM
+101|1669|en|Y|Attendee Entry Custom 4||Sep 19 2015  3:38AM
+101|1670|en|Y|Attendee Entry Custom 5||Sep 19 2015  3:38AM
+101|1671|en|Y|Multiple PO||Oct 17 2015  1:45AM
+101|1672|en|Y|Line Item Purchase Order||Oct 17 2015  1:45AM
+101|1673|en|Y|Associated PO Line Item Delivery slip Number||Oct 17 2015  1:45AM
+101|1674|en|Y|Prorated Shipping||Jan 16 2016  5:54AM
+101|1675|en|Y|Line item Unit Price Contains VAT||Feb 20 2016  3:27AM
+101|1676|en|Y|VAT Tax Code2||Mar 19 2016  2:21AM
+101|1677|en|Y|Employee Taxable Amount||Mar 19 2016  2:21AM
+101|1678|en|Y|Account Number||Mar 19 2016  2:21AM
+101|1679|en|Y|Routing Number||Mar 19 2016  2:21AM
+101|1680|en|Y|Bank Name||Mar 19 2016  2:21AM
+101|1681|en|Y|Branch Location||Mar 19 2016  2:21AM
+101|1682|en|Y|Transaction Type||Mar 19 2016  2:21AM
+101|1683|en|Y|Account Type||Mar 19 2016  2:21AM
+101|1684|en|Y|Is Active||Mar 19 2016  2:21AM
+101|1685|en|Y|Name on Account||Mar 19 2016  2:21AM
+101|1686|en|Y|Request VAT Amount Three||Apr 16 2016  1:25AM
+101|1687|en|Y|Request VAT Tax Code Four||Apr 16 2016  1:25AM
+101|1688|en|Y|Request VAT Amount Four||Apr 16 2016  1:25AM
+101|1689|en|Y|Request VAT Rate Three||Apr 16 2016  1:25AM
+101|1690|en|Y|Request VAT Rate Four||Apr 16 2016  1:25AM
+101|1691|en|Y|Request VAT Tax Code Three||Apr 16 2016  1:25AM
+101|1692|en|Y|Report Start Date||Apr 16 2016  1:25AM
+101|1693|en|Y|Report End Date||Apr 16 2016  1:25AM
+101|1694|en|Y|Line item Unit Price Contains VAT||May 14 2016  2:43AM
+101|1695|en|Y|Prorated VAT Amount 1||May 14 2016  2:43AM
+101|1696|en|Y|Prorated VAT Amount 2||May 14 2016  2:43AM
+101|1697|en|Y|Prorated VAT Amount 3||May 14 2016  2:43AM
+101|1698|en|Y|Prorated VAT Amount 4||May 14 2016  2:43AM
+101|1699|en|Y|Prorated VAT Tax Code 1||May 14 2016  2:43AM
+101|1700|en|Y|Prorated VAT Tax Code 2||May 14 2016  2:43AM
+101|1701|en|Y|Prorated VAT Tax Code 3||May 14 2016  2:43AM
+101|1702|en|Y|Prorated VAT Tax Code 4||May 14 2016  2:43AM
+101|1703|en|Y|Prorated Amount Without VAT||May 14 2016  2:43AM
+101|1704|en|Y|Report Entry Merchant Tax ID||Jun 18 2016  1:43AM
+101|1705|en|Y|Line Item VAT Amount Two||Jul  9 2016  1:29AM
+101|1706|en|Y|Line Item VAT Amount Three||Jul  9 2016  1:29AM
+101|1707|en|Y|Line Item VAT Amount Four||Jul  9 2016  1:29AM
+101|1708|en|Y|Line Item VAT Rate Two||Jul  9 2016  1:29AM
+101|1709|en|Y|Line Item VAT Rate Three||Jul  9 2016  1:29AM
+101|1710|en|Y|Line Item VAT Rate Four||Jul  9 2016  1:29AM
+101|1711|en|Y|Line Item VAT Tax Code Two||Jul  9 2016  1:29AM
+101|1712|en|Y|Line Item VAT Tax Code Three||Jul  9 2016  1:29AM
+101|1713|en|Y|Line Item VAT Tax Code Four||Jul  9 2016  1:29AM
+101|1714|en|Y|Entry Tax Form Custom 1||Aug 13 2016  2:04AM
+101|1715|en|Y|Entry Tax Form Custom 2||Aug 13 2016  2:04AM
+101|1716|en|Y|Entry Tax Form Custom 3||Aug 13 2016  2:04AM
+101|1717|en|Y|Entry Tax Form Custom 4||Aug 13 2016  2:04AM
+101|1718|en|Y|Entry Tax Form Custom 5||Aug 13 2016  2:04AM
+101|1719|en|Y|Entry Tax Form Custom 6||Aug 13 2016  2:04AM
+101|1720|en|Y|Entry Tax Form Custom 7||Aug 13 2016  2:04AM
+101|1721|en|Y|Entry Tax Form Custom 8||Aug 13 2016  2:04AM
+101|1722|en|Y|Entry Tax Form Custom 9||Aug 13 2016  2:04AM
+101|1723|en|Y|Entry Tax Form Custom 10||Aug 13 2016  2:04AM
+101|1724|en|Y|Posting Date||Sep 10 2016  4:11AM
+101|1725|en|Y|Receipts Matched Quantity||Oct 15 2016  1:31AM
+101|1726|en|Y|Journal Net of Total Adjusted Reclaim Tax V2||Jan  6 2017 11:25PM
+101|1727|en|Y|Journal Net of Total Adjusted Tax V2||Jan  6 2017 11:25PM
+101|1728|en|Y|Purchase order key||Apr 13 2017 10:57PM
+101|1729|en|Y|Purchase order number||Apr 13 2017 10:57PM
+101|1730|en|Y|Purchase Order Line item key||Apr 13 2017 10:57PM
+101|1731|en|Y|Receipt key||Apr 13 2017 10:57PM
+101|1732|en|Y|Receipt GRN Id||Apr 13 2017 10:57PM
+101|1733|en|Y|Receipt DSN Id||Apr 13 2017 10:57PM
+101|1734|en|Y|Receipt UOM Name||Apr 13 2017 10:57PM
+101|1735|en|Y|Received Quantity||Apr 13 2017 10:57PM
+101|1736|en|Y|Item Received Date||Apr 13 2017 10:57PM
+101|1737|en|Y|Is Deleted||Apr 13 2017 10:57PM
+101|1738|en|Y|Create Date||Apr 13 2017 10:57PM
+101|1739|en|Y|Data Source||Apr 13 2017 10:57PM
+101|1740|en|Y|Purchase Order Receipt Custom 1||Apr 13 2017 10:57PM
+101|1741|en|Y|Purchase Order Receipt Custom 2||Apr 13 2017 10:57PM
+101|1742|en|Y|Purchase Order Receipt Custom 3||Apr 13 2017 10:57PM
+101|1743|en|Y|Purchase Order Receipt Custom 4||Apr 13 2017 10:57PM
+101|1744|en|Y|Purchase Order Receipt Custom 5||Apr 13 2017 10:57PM
+101|1745|en|Y|Purchase Order Receipt Custom 6||Apr 13 2017 10:57PM
+101|1746|en|Y|Purchase Order Receipt Custom 7||Apr 13 2017 10:57PM
+101|1747|en|Y|Purchase Order Receipt Custom 8||Apr 13 2017 10:57PM
+101|1748|en|Y|Purchase Order Receipt Custom 9||Apr 13 2017 10:57PM
+101|1749|en|Y|Purchase Order Receipt Custom 10||Apr 13 2017 10:57PM
+101|1750|en|Y|Employee Key||Apr 13 2017 10:57PM
+101|1751|en|Y|Purchase order line number||May  4 2017 10:02PM
+101|1752|en|Y|Purchase order line external id||May  4 2017 10:02PM
+101|1753|en|Y|Employee Id||Jul  9 2017 12:22AM
+101|1754|en|Y|Receipts Matched Total||Dec 10 2017  1:13AM

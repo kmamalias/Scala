@@ -1,0 +1,85 @@
+101|ADV_SERVICES|en|Y|Advantage Services||Feb 23 2013  4:02AM
+101|AGCLOG_CLEANUP|en|Y|Agency proposal log clean up||Dec 14 2013  6:34AM
+101|AGENCY_PROPOSAL|en|Y|Agency proposal polling||Aug 18 2012  1:50AM
+101|ANALYSIS|en|Y|Analysis Extract||Jun 21 2005  3:50PM
+101|ANOMALY|en|Y|Anomaly and Fraud Detection||Aug 18 2012  1:50AM
+101|APPROVAL_EXPIRE|en|Y|Approval Time Expire||Jun 21 2005  3:52PM
+101|ARCHIVE|en|Y|Archive||Jun 21 2005  3:50PM
+101|ATTENDEE|en|Y|Attendee Import||Jul 26 2007  9:29PM
+101|AUTH_REQ_EXPIRE|en|Y|Authorization Request Expire||Mar 22 2008  5:19AM
+101|BILLING|en|Y|Billing||Apr 13 2006  9:01PM
+101|BRZ_PRVSNNG|en|Y|Breeze Provisioning||Apr 17 2010  5:42AM
+101|CARD_FEED|en|Y|Credit Card Feed||Jun 21 2005  3:48PM
+101|CAW_CLEAN_UP|en|Y|Audit workbench clean up||Mar 24 2012  1:54AM
+101|CAW_FIRE_RULES|en|Y|Audit workbench fire rules||Apr 21 2012  3:25AM
+101|CC_PRVR_VALID|en|Y|Card Program Validation||Oct 19 2013  5:17AM
+101|CONSOLIDATION|en|Y|Consolidation||Jun 21 2005  3:52PM
+101|CQ_EMPL_EXPORT|en|Y|Employee Export to Travel||Jan 22 2011  2:17AM
+101|CQ_EXPORT_DAILY|en|Y|Employee Daily Export to Travel||Jan 22 2011  2:17AM
+101|CTE_TASK|en|Y|CTE Admin Task||Mar 21 2009  5:21AM
+101|CWT_IMPORTER|en|Y|CWT Agency Proposals Importer||Oct 19 2013  5:17AM
+101|DATA_DUMP|en|Y|Data Dump Extract||Dec 18 2010  2:14AM
+101|DW_ACTN_ARCHIVE|en|Y|Data Warehouse Action Archive||May 17 2014  2:22AM
+101|DW_EXP_ARCHIVE|en|Y|Data Warehouse Expense Archive||May 17 2008  5:32AM
+101|DW_GEXP_ARCHIVE|en|Y|Data Warehouse Gov Exp Archive||Feb 18 2012  3:07AM
+101|DW_TRVL_ARCHIVE|en|Y|Data Warehouse Travel Archive||May 17 2008  5:32AM
+101|EFT_BATCH|en|Y|Expense Pay Reimbursement||Jan 22 2011  2:17AM
+101|EFT_EMAIL|en|Y|Expense Pay Daily Funding Email||Jan 22 2011  2:17AM
+101|EFT_FEED|en|Y|Expense Pay Feedback||Jan 22 2011  2:17AM
+101|EFT_PROCESS|en|Y|Expense Pay Demand Processor||Jan 22 2011  2:17AM
+101|EMAIL_REMINDER|en|Y|Email Reminder||Jun 21 2005  3:50PM
+101|EMPLOYEE|en|Y|Employee Import||Jun 21 2005  3:48PM
+101|EXCHANGE_RATE|en|Y|Exchange Rates||Jun 21 2005  3:48PM
+101|EXP_PAY_CONFIRM|en|Y|Expense Payment Confirmation||Mar 16 2007  6:01PM
+101|EXTRACT|en|Y|Accounting Extract||Jun 21 2005  3:48PM
+101|EXTRACT_OUTPUT|en|Y|Accounting Extract Output||Jul 21 2006  4:58PM
+101|GOVT_CC_LOAD|en|Y|CGE Credit Card Data Loader||Apr 12 2014  3:21AM
+101|GOVT_CC_RECON|en|Y|CGE Card Charge Reconciliation||Sep 13 2014  3:10AM
+101|GOVT_DOC_UNLOCK|en|Y|CGE Documents Unlock||Dec 14 2013  6:35AM
+101|GOVT_HHS_CANCL|en|Y|CGE HHS Reservation Cancellation||Jul 12 2014  2:50AM
+101|GOVT_HHS_EMAIL|en|Y|CGE HHS Email Warning||Jul 12 2014  2:50AM
+101|GOVT_IMG_EXPORT|en|Y|CGE Imaging Delivery Export||Jan 18 2014  4:58AM
+101|GOVT_PERDIEM|en|Y|CGE Perdiem Feed Generator||Sep 13 2014  3:10AM
+101|HK_MAINT|en|Y|Hong Kong Maintenance||May 18 2013  1:35AM
+101|HK_PERDIEM|en|Y|Travel Allowance Uber Job||Feb  7 2015  4:07AM
+101|HK_TRIAL|en|Y|HK Trial||Feb 23 2013  4:02AM
+101|HK_TRIAL_STAGE|en|Y|HK Trial Staging||Oct 18 2014  2:24AM
+101|IMAGE_EXTRACT|en|Y|Image Delivery Extract||Jul 18 2009  5:33AM
+101|IMAGE_SERVER|en|Y|Image Server||Jun 21 2005  3:50PM
+101|INV_EFT_BATCH|en|Y|Invoice Pay Payment Processor||Sep 18 2010  3:30AM
+101|INV_EFT_FEED|en|Y|Invoice Pay Feedback Import||Oct 16 2010  1:31AM
+101|INV_EFT_PROCESS|en|Y|Invoice Pay Demand Processor||Aug 21 2010  5:36AM
+101|LIST|en|Y|List Import||Jun 21 2005  3:50PM
+101|LOCATION|en|Y|Location||Aug 18 2006  4:33AM
+101|MT_ENTITY_DELET|en|Y|Entity Removal||Apr 12 2014  3:21AM
+101|OID_IMPORT|en|Y|OID Import||Oct 18 2014  2:24AM
+101|PAYMENT_HOLD|en|Y|Payment Hold||Jun 21 2005  3:50PM
+101|PAYMENT_NOTIF|en|Y|Vendor Payment Confirmation||Nov  3 2005  7:11PM
+101|PRVACCHASH_MIG|en|Y|Prvder Account Number Hash Mig||Jan 16 2016  5:54AM
+101|PURCHASE_ORDER|en|Y|Purchase Order Import||Feb 18 2012  3:07AM
+101|PURCH_RECEIPT|en|Y|Purchase Order Receipt Import||Aug 24 2013  3:29AM
+101|REC_INV_GEN|en|Y|Generate Recurring Invoices||Feb  8 2014  5:06AM
+101|REQUEST|en|Y|Payment Request Import||Jun 21 2005  3:52PM
+101|REQ_ASSIGN_TO|en|Y|Request Assignment Timeout||Aug 15 2009  4:24AM
+101|REQ_EXPIRE|en|Y|Request Expire||Mar 23 2013  2:02AM
+101|ROUTING_MAPPING|en|Y|Invoice Routing Mapping Import||Apr 21 2012  3:25AM
+101|RPRTNG_DB_DUMP|en|Y|Reporting DB Dump||Apr 19 2008  5:09AM
+101|STAMP_CC_GUID|en|Y|Data Warehouse CC Enrichment Job||Jun 13 2015  2:11AM
+101|SUPPLIER_QUEUE|en|Y|Supplier Queue Processing||Aug 18 2012  1:50AM
+101|SUPPORT_USR_UPD|en|Y|Update Support Portal User Data||Jul 20 2013  2:19AM
+101|SUP_HOTEL_LOAD|en|Y|Supplier Hotel Data Load||Jun 15 2013  3:04AM
+101|TAX|en|Y|Tax Import||Jun 21 2005  3:53PM
+101|TAXABILITY|en|Y|Taxability Import||Jun 20 2009  5:24AM
+101|TRVL_ALLOWANCE|en|Y|Travel Allowance Import||Jun 21 2005  3:51PM
+101|TRVL_ERBTI|en|Y|Ereceipts Batches To Instance||Jul 20 2013  2:19AM
+101|TRVL_ERCCL|en|Y|Ereceipts Central Cleanup||Jul 20 2013  2:19AM
+101|TRVL_ERICL|en|Y|Ereceipts Instance Cleanup||Jul 20 2013  2:19AM
+101|TRVL_ERIMG|en|Y|Ereceipts Instance Imaging||Jul 20 2013  2:19AM
+101|TRVL_ERITN|en|Y|Ereceipts Itinservices||Jul 20 2013  2:19AM
+101|TRVL_ERMAT|en|Y|Ereceipts Instance Matching Run||Jul 20 2013  2:19AM
+101|TRVL_ERRES|en|Y|Ereceipts Instance Result Report||Jul 20 2013  2:19AM
+101|TRVL_ERRTI|en|Y|Ereceipts Receipts To Instance||Jul 20 2013  2:19AM
+101|TRVL_PTS_FEED|en|Y|Employee Travel Points Feedback||Sep 21 2013  2:35AM
+101|UBER_IMAGE_RETR|en|Y|Uber Image Retrieval||Mar 19 2011  1:05AM
+101|VENDOR|en|Y|Payment Vendor Import||Jun 21 2005  3:52PM
+101|ZUORA_BILLING|en|Y|Zuora Billing||Dec 12 2009  5:14AM

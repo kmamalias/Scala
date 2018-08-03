@@ -1,0 +1,129 @@
+101|1000|en|Y|MANUALPAY||Jun 21 2005  3:48PM
+101|1002|en|Y|Email Reminders||May 14 2015 11:43PM
+101|1003|en|Y|Image Retrieval||Mar  8 2014 10:03AM
+101|1004|en|Y|Release Payment Hold||Jun 21 2005  3:50PM
+101|1005|en|Y|Consolidation||Jun 21 2005  3:52PM
+101|2006|en|Y|Approval Time Expire||Oct 16 2014 11:14PM
+101|2007|en|Y|AP/GL Extract||Jun 21 2005  3:55PM
+101|2008|en|Y|AP/GL CES Standard Extract||May 19 2012  1:30AM
+101|2009|en|Y|Paid To Employee||Jun 21 2005  3:55PM
+101|2010|en|Y|Employee Payable Data Entry||May 19 2012  1:30AM
+101|2011|en|Y|Payroll Interface||May 19 2012  1:30AM
+101|2012|en|Y|SAE_CASH||May 19 2012  1:30AM
+101|2013|en|Y|Paid to Credit Card||Jun 21 2005  3:55PM
+101|2014|en|Y|Paid to Credit Card Data Entry||May 19 2012  1:30AM
+101|2015|en|Y|Credit Card Remittance File||May 19 2012  1:30AM
+101|2016|en|Y|SAE_CARD||May 19 2012  1:30AM
+101|2017|en|Y|AMEX Remittance - US||Jul  5 2005  2:03PM
+101|2018|en|Y|Paid to Credit Card Data Entry||May 19 2012  1:30AM
+101|2019|en|Y|Credit Card Remittance File||May 19 2012  1:30AM
+101|2020|en|Y|SAE_CARD||May 19 2012  1:30AM
+101|2028|en|Y|Exchange Rate||May  2 2008  8:58PM
+101|2029|en|Y|AP/GL Extract V.2||Apr 24 2006  9:01PM
+101|2030|en|Y|AP/GL CES Standard Extract v.2||May 19 2012  1:30AM
+101|2031|en|Y|Paid To Employee V.2||Apr 24 2006  9:01PM
+101|2032|en|Y|Employee Payable Data Entry||May 19 2012  1:30AM
+101|2033|en|Y|Payroll Interface||May 19 2012  1:30AM
+101|2034|en|Y|SAE_CASH_v2||May 19 2012  1:30AM
+101|2035|en|Y|Paid to Credit Card V.2||Apr 24 2006  9:01PM
+101|2036|en|Y|Paid to Credit Card Data Entry||May 19 2012  1:30AM
+101|2037|en|Y|Credit Card Remittance File||May 19 2012  1:30AM
+101|2038|en|Y|SAE_CARD_v2||May 19 2012  1:30AM
+101|2040|en|N|TRVL_ALLOWANCE||Jul 19 2006  4:09PM
+101|2041|en|Y|list_p0002275z5tz||Jan  3 2018 12:02AM
+101|2042|en|Y|employee_p0002275z5tz||Jan  3 2018 12:02AM
+101|2043|en|N|ANALYSIS||Jul 19 2006  4:09PM
+101|2044|en|N|EMAIL_REMINDER||Jul 19 2006  4:09PM
+101|2045|en|Y|cc_Citi_US_IBIP_p0002275z5tz DISABLED!||Jan 25 2011  5:49PM
+101|2055|en|Y|Employee Extract to Travel||Jan  3 2018 12:02AM
+101|2056|en|Y|Expense Pay Reimbursement||Jan  3 2018 12:02AM
+101|2057|en|Y|Payroll Remittance File-No Cash Advance (US)||Mar 22 2007 10:58PM
+101|2058|en|Y|Payroll_Interface-does_not_include_Cash_Advance||May 19 2012  1:30AM
+101|2067|en|Y|Standard Payment Request Accounting Extract||Mar 27 2007  7:59PM
+101|2068|en|Y|Standard Payment Request Accounting Extract||May 19 2012  1:30AM
+101|2069|en|Y|Standard Payment Request Accounting Extract (ONP)||Jul 18 2007  4:47PM
+101|2070|en|Y|Standard Payment Request Accounting Extract||May 19 2012  1:30AM
+101|2071|en|Y|Standard Payment Request Accounting Extract (Emergency Run)||Mar 27 2007  8:07PM
+101|2072|en|Y|Standard Payment Request Accounting Extract||May 19 2012  1:30AM
+101|2077|en|Y|AMEX Remittance - US t0001628pvly||Apr 30 2007  8:35PM
+101|2078|en|Y|Credit Card Remittance File||May 19 2012  1:30AM
+101|2079|en|Y|AP/GL Extract V.2 t0001628pvly||Apr 30 2007  8:35PM
+101|2080|en|Y|AP/GL CES Standard Extract v.2||May 19 2012  1:30AM
+101|2081|en|Y|Paid To Employee V.2 t0001628pvly||Apr 30 2007  8:35PM
+101|2082|en|Y|Employee Payable Data Entry||May 19 2012  1:30AM
+101|2083|en|Y|Payroll Interface||May 19 2012  1:30AM
+101|2084|en|Y|SAE_CASH_v2||May 19 2012  1:30AM
+101|2085|en|Y|Paid to Credit Card V.2 t0001628pvly||Apr 30 2007  8:35PM
+101|2086|en|Y|Paid to Credit Card Data Entry||May 19 2012  1:30AM
+101|2087|en|Y|SAE_CARD_v2||May 19 2012  1:30AM
+101|2097|en|Y|AMEX Remittance v.2 - US||Jun  8 2007 12:23AM
+101|2098|en|Y|Credit Card Remittance File||May 19 2012  1:30AM
+101|2099|en|Y|AP/GL Extract V.2.1||Dec 28 2017 12:02AM
+101|2100|en|Y|AP/GL CES Standard Extract v.2||Dec 28 2017 12:02AM
+101|2101|en|Y|Paid To Employee V.2.1||Jun  8 2007 12:22AM
+101|2102|en|Y|Employee Payable Data Entry||May 19 2012  1:30AM
+101|2103|en|Y|Payroll Interface||May 19 2012  1:30AM
+101|2104|en|Y|SAE_CASH_v2||May 19 2012  1:30AM
+101|2105|en|Y|Paid to Credit Card V.2.1||Jun  8 2007 12:24AM
+101|2106|en|Y|Paid to Credit Card Data Entry||May 19 2012  1:30AM
+101|2107|en|Y|SAE_CARD_v2.1||May 19 2012  1:30AM
+101|2108|en|Y|AP/GL 256 Extract Tax On One Line v.1.1||Jun  8 2007 12:22AM
+101|2109|en|Y|AP/GL 256 Extract Tax on One Line||May 19 2012  1:30AM
+101|2117|en|Y|Location||Sep  6 2007  9:25PM
+101|2127|en|Y|Standard Employee Direct Reimbursement Extract||Oct 10 2007  3:52PM
+101|2128|en|Y|Direct Reimbursement Extract||May 19 2012  1:30AM
+101|2129|en|Y|Standard Direct Reimbursement Client Pay Extract||Oct 10 2007  3:53PM
+101|2130|en|Y|Standard Direct Reimbursement Client Pay Extract||May 19 2012  1:30AM
+101|2137|en|Y|Attendee Detail||Dec 28 2017 12:02AM
+101|2138|en|Y|Attendee Detail||May 19 2012  1:30AM
+101|2139|en|Y|Attendee Detail||May 19 2012  1:30AM
+101|2140|en|Y|Attendee Detail||May 19 2012  1:30AM
+101|2141|en|Y|casp0002275z5tz||Feb 12 2009 12:01AM
+101|2151|en|Y|Authorization Request Expire Process||Mar 15 2008  1:00AM
+101|2152|en|Y|Expense Pay Daily Funding Email||Jan  3 2018  8:01PM
+101|2154|en|N|EXCHANGE_RATE||Dec  2 2008  5:49AM
+101|2155|en|N|TRVL_ALLOWANCE||Dec  2 2008  5:49AM
+101|2156|en|Y|Data Warehouse Expense Archive||Jan  3 2018 12:03AM
+101|2157|en|Y|Data Warehouse Travel Archive||Jan  3 2018 12:05AM
+101|2158|en|Y|Expense Pay Demand Processor||Jan  3 2018 12:02AM
+101|2159|en|Y|CTE List Import||Mar 21 2009  5:21AM
+101|2160|en|Y|CTE Invoice Expense-Type Import||Mar 21 2009  5:21AM
+101|2161|en|Y|CTE Expense Expense-Type Import||Mar 21 2009  5:21AM
+101|2162|en|Y|cc_citi_sing_apa_p0002275z5tz||Jan  3 2018 12:02AM
+101|2172|en|Y|cc_Citi_US_IBCP_p0002275z5t DISABLED!||Jan 25 2011  5:50PM
+101|2182|en|Y|Request Assignment Timeout||Aug 15 2009  4:24AM
+101|2183|en|Y|cc_Citi_Korea_p0002275z5tz||Jan  3 2018 12:03AM
+101|2193|en|Y|Invoice Pay Demand Processor||Aug 21 2010  5:36AM
+101|2194|en|Y|Invoice Pay Payment Processor||Sep 18 2010  3:30AM
+101|2195|en|Y|cc_citi_APA_IBIP_p0002275z5tz||Jan  3 2018 12:03AM
+101|2196|en|Y|cc_Citi_US_CDF3_IBIP_p0002275z5tz||Jan  3 2018 12:03AM
+101|2197|en|Y|cc_Citi_US_CDF3_IBCP_p0002275z5t||Jan  3 2018 12:03AM
+101|2198|en|Y|cc_Citi_Japan_p0002275z5t||Nov  4 2015 12:35AM
+101|2199|en|Y|Standard Request Extract||Mar 23 2013  2:02AM
+101|2200|en|Y|Request Extract||Mar 23 2013  2:02AM
+101|2201|en|Y|Request Expire Process||Mar 23 2013  2:02AM
+101|2202|en|Y|CONNECTAPI||Jun 15 2013  3:05AM
+101|2203|en|Y|Generate Recurring Invoices||Feb  8 2014  5:06AM
+101|2204|en|Y|CTE Commuter Pass Routes Import||Mar  8 2014  4:19AM
+101|2205|en|Y|Data Warehouse CC Enrichment Job||Jan  3 2018 12:06AM
+101|2206|en|Y|Data Warehouse Action Archive||May 17 2014  2:22AM
+101|2207|en|Y|Attendee||Jun 17 2014  4:18PM
+101|2208|en|Y|Expense Pay Feedback||Jan  3 2018  8:00AM
+101|2209|en|Y|CC_US_Bank_Visa_CBCP_p0002275z5tz||Jan  3 2018 12:03AM
+101|2210|en|Y|CC_US_Bank_Visa_IBCP_p0002275z5tz||Jan  3 2018 12:03AM
+101|2211|en|Y|US Bank - Korea||Jan  3 2018 12:03AM
+101|2212|en|Y|Travel Allowance Import	||Jun  4 2015  8:01PM
+101|2213|en|Y|Test Card Feed||Jun  8 2015  9:38PM
+101|2214|en|Y|AP/GL Extract V.2.1 - Test User||May 12 2015  2:26PM
+101|2215|en|Y|AP/GL CES Standard Extract v.2 - Test User||May 12 2015  2:26PM
+101|2216|en|Y|Attendee Detail - Test User||May 12 2015  2:26PM
+101|2217|en|Y|US Bank Visa GBP||Jan  3 2018 12:03AM
+101|2218|en|Y|AP/GL Extract V.2.1 - EMEA - Test User||Jun 17 2015  4:04PM
+101|2219|en|Y|Attendee Detail - EMEA - Test User||Jun 17 2015  4:04PM
+101|2220|en|Y|AP/GL CES Standard Extract v.2 - EMEA - Test User||Jun 17 2015  4:04PM
+101|2221|en|Y|China Trust Visa TWD 0016089830||Jan  3 2018 12:03AM
+101|2222|en|Y|China Trust Visa TWD 0009443126||Jan  3 2018 12:03AM
+101|2223|en|Y|Provider Account Number Hash Migration||Jan 16 2016  5:54AM
+101|2224|en|Y|FIPAY||Jan 16 2016  5:54AM
+101|2225|en|Y|CTE Address Import||Feb 20 2016  3:27AM
+101|2226|en|Y|Data Dump Extract||Jan  9 2018  6:28PM

@@ -1,0 +1,10 @@
+101|CANCELED|en|Y|Canceled||Mar 21 2009  5:21AM
+101|FAILURE|en|Y|Failure||Jun 21 2005  3:48PM
+101|FAILURE_BADFILE|en|Y|Failure (Bad File)||Feb 20 2010  6:19AM
+101|FAILURE_NOFILE|en|Y|Failure (No File)||Jun 20 2009  5:24AM
+101|RUNNING|en|Y|Running||Jun 21 2005  3:48PM
+101|SUCCESS|en|Y|Success||Jun 21 2005  3:48PM
+101|SUCCESS_ERRORS|en|Y|Completed with Errors||Jun 21 2005  3:48PM
+101|SUCCESS_NOFILE|en|Y|Success (No File)||Jun 20 2009  5:24AM
+101|SUCCESS_WARNING|en|Y|Completed with Warnings||Jun 21 2005  3:48PM
+101|WAITING|en|Y|Waiting||Jun 21 2005  3:53PM

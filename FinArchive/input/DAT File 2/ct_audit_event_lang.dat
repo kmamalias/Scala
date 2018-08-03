@@ -1,0 +1,51 @@
+101|ALLOC_SAVE|en|Y|Allocation Save||Feb  9 2008  5:19AM
+101|ATN_SUBMIT|en|Y|Entry Attendee Submit||Oct  6 2007  4:08AM
+101|ATN_SUBMIT_AUTH|en|Y|Entry Attendee Submit (Authorized)||Mar 15 2008  1:00AM
+101|AUTH_REQ_ATN_SUBMIT|en|Y|Authorization Request Attendee Submit||Mar 15 2008  1:00AM
+101|BDGT_SUBMIT|en|Y|Report Budget Submit||Jan 19 2013  3:55AM
+101|CR_TR_ASSIGN|en|Y|Centrally Reconciled Invoice - Request Assign||Mar 23 2013  2:02AM
+101|ENTRY_SAVE|en|Y|Entry Save||Jun 21 2005  3:48PM
+101|ENTRY_SUBMIT|en|Y|Entry Submit||Jun 21 2005  3:48PM
+101|EXIT_STEP|en|Y|Exit Workflow Step||Oct 19 2013  5:17AM
+101|FI_POSTING_FAILED|en|Y|Posting Failed||Feb 20 2016  3:27AM
+101|INV_FI_POSTING_FAIL|en|Y|Financial Integration Posting Failed||Mar 19 2016  2:21AM
+101|PMT_ALLOC_SAVE|en|Y|Payment Request Allocation Save||Aug 16 2008  5:48AM
+101|PMT_ATN_SUBMIT|en|Y|Payment Request Attendee Submit||Sep 19 2015  3:38AM
+101|PMT_HDR_POSTSUBMIT|en|Y|Payment Post Request Submit||Jun 21 2005  3:51PM
+101|PMT_HEADER_ASSIGN|en|N|Payment Request Manual Assign||Jun 19 2010  5:30AM
+101|PMT_HEADER_SAVE|en|Y|Payment Request Save||Jun 21 2005  3:51PM
+101|PMT_HEADER_SUBMIT|en|Y|Payment Request Submit||Jun 21 2005  3:51PM
+101|PMT_IMPORT_ASSIGN|en|Y|Payment Request Import Assign||Jun 19 2010  5:30AM
+101|PMT_LINEITEM_SAVE|en|Y|Payment Request Details Save||Jun 21 2005  3:51PM
+101|PMT_LINEITEM_SUBMIT|en|Y|Payment Request Details Submit||Jun 21 2005  3:51PM
+101|PO_HEADER_SAVE|en|Y|Purchase Order Save||Jun 15 2013  3:04AM
+101|PO_LINEITEM_SAVE|en|Y|Purchase Order Line Item Save||Jun 15 2013  3:04AM
+101|PO_TRANSMIT|en|Y|Purchase Order Transmit||Jun 15 2013  3:04AM
+101|PURCH_ALLOC_SAVE|en|Y|Purchase Request Distribution Save||Mar 23 2013  2:02AM
+101|PURCH_DETAIL_SAVE|en|Y|Purchase Request Save||Mar 23 2013  2:02AM
+101|PURCH_DETAIL_SUBMIT|en|Y|Purchase Request Submit||Mar 23 2013  2:02AM
+101|PURCH_ITEM_SAVE|en|Y|Purchase Request Item Save||Mar 23 2013  2:02AM
+101|REC_REQ_CREATE|en|Y|Recurring Payment Request Creation||Feb  8 2014  5:06AM
+101|REPORT_POSTSUBMIT|en|Y|Post Report Submit||Jun 21 2005  3:48PM
+101|REPORT_SAVE|en|Y|Report Save||Jun 21 2005  3:48PM
+101|REPORT_SUBMIT|en|Y|Report Submit||Jun 21 2005  3:48PM
+101|REQ_ALLOC_SAVE|en|Y|Request Allocation Save||Jan 22 2011  2:17AM
+101|REQ_ATN_SUBMIT|en|Y|Request Entry Attendee Submit||May 19 2012  1:30AM
+101|REQ_BDGT_SUBMIT|en|Y|Request Budget Submit||Apr  5 2013  8:58AM
+101|REQ_ENTRY_SAVE|en|Y|Request Entry Save||Aug 21 2010  5:36AM
+101|REQ_ENTRY_SUBMIT|en|Y|Request Entry Submit||Aug 21 2010  5:36AM
+101|REQ_HDR_POSTSUBMIT|en|Y|Post Request Submit||Aug 21 2010  5:36AM
+101|REQ_HEADER_SAVE|en|Y|Request Save||Aug 21 2010  5:36AM
+101|REQ_HEADER_SUBMIT|en|Y|Request Submit||Aug 21 2010  5:36AM
+101|REQ_SEGMENT_SAVE|en|Y|Segment Save||Aug 21 2010  5:36AM
+101|REQ_SEGMENT_SUBMIT|en|Y|Segment Submit||Aug 21 2010  5:36AM
+101|RL_ENTRY_SAVE|en|Y|Entry Save - Receipt Limit||Jun 21 2005  3:53PM
+101|TR_ENTRY_SAVE|en|Y|Authorization Request Category Save||Mar 15 2008  1:00AM
+101|TR_ENTRY_SUBMIT|en|Y|Authorization Request Category Submit||Mar 15 2008  1:00AM
+101|TR_POSTSUBMIT|en|Y|Post Authorization Request Submit||Mar 15 2008  1:00AM
+101|TR_SAVE|en|Y|Authorization Request Save||Mar 15 2008  1:00AM
+101|TR_SUBMIT|en|Y|Authorization Request Submit||Mar 15 2008  1:00AM
+101|WS_ALLOC_EXCP|en|Y|WS Allocation Exception||Apr 21 2012  3:25AM
+101|WS_ATTN_EXCP|en|Y|WS Attendee Exception||Apr 21 2012  3:25AM
+101|WS_ENTRY_EXCP|en|Y|WS Entry Exception||Apr 21 2012  3:25AM
+101|WS_RPT_EXCP|en|Y|WS Report Exception||Apr 21 2012  3:25AM

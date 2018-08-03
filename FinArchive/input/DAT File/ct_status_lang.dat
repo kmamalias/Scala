@@ -1,0 +1,81 @@
+101|002000|en|Y|Final Accounting Approval|Accounting Approval|Report is pending accounting approval||Oct 13 2007  4:51AM
+101|002001|en|Y|Disputed|Dispute|Mark this invoice as disputed in the workflow, waiting for CR Processor and Issuer to solve the situation.||Jan 21 2012  3:31AM
+101|A_AAFH|en|Y|Anomaly & Fraud Check|Anomaly & Fraud Check|Report submission triggers Anomaly & Fraud Check||May 18 2013  1:35AM
+101|A_ACCO|en|Y|Approved & In Accounting Review|Accounting Review|Report is pending reviews||Nov  3 2005  7:11PM
+101|A_APPR|en|Y|Approved|Approve|Report has been approved||Jun 21 2005  3:48PM
+101|A_EXTV|en|Y|Pending External Validation|Pending External Validation|Report is pending external validation||Sep 18 2010  3:30AM
+101|A_FILE|en|Y|Submitted|Submitted|Report has been submitted||Jun 21 2005  3:48PM
+101|A_NOTF|en|Y|Not Submitted|Not Submitted|Report has not been submitted||Jun 21 2005  3:48PM
+101|A_PBDG|en|Y|Pending Budget Approval|Pending Budget Approval|Report approval is pending Budget approval||Jun 23 2012  1:42AM
+101|A_PECO|en|Y|Pending Cost Object Approval|Pending Cost Object Approval|Report approval is pending Cost object approval||Jan 17 2009  7:36AM
+101|A_PEND|en|Y|Submitted & Pending Approval|Pending Approval|Report is pending manager approval||Nov  3 2005  7:11PM
+101|A_PFIL|en|Y|Presubmit Validation|Validate Before Submit|Validate the report prior to submit||Mar 19 2017 12:43AM
+101|A_PREC|en|Y|Recalled to Processor|Recall to Processor|Report is recalled by processor||Mar 19 2017 12:43AM
+101|A_PVAL|en|Y|Pending Validation|Pending Validation|Report is pending prepayment validation||Jun 21 2005  3:48PM
+101|A_RESU|en|Y|Sent Back to Employee|Send Back to Employee|Report needs to be resubmitted||Jun 21 2005  3:50PM
+101|A_RHLD|en|Y|Hold for Receipt Image|Hold for Receipt Image|Report submission is pending receipt images||Mar 15 2008  1:00AM
+101|A_TEXP|en|Y|Approval Time Expired|Approval Time Expired|Report expired in approval queue||Jun 21 2005  3:52PM
+101|A_TREC|en|Y|Recalled by Traveler|Recall|Report is recalled by traveler||Mar 19 2017 12:43AM
+101|C_APPR|en|Y|Approved|Approve|Cash Advance has been Approved||Jun 21 2005  3:48PM
+101|C_COMP|en|Y|Completed|Complete|Cash Advance is completed||Jun 21 2005  3:48PM
+101|C_FILE|en|Y|Filed|File|Cash Advance has been submitted||Jun 21 2005  3:48PM
+101|C_ISSU|en|Y|Issued|Issue|Cash Advance has been issued||Jun 21 2005  3:48PM
+101|C_NISU|en|Y|Not Issued|Do not Issue|Cash Advance has been cancelled||Jun 21 2005  3:48PM
+101|C_NOTF|en|Y|Not Submitted|Not Submitted|Cash Advance has not been submitted||Jan 18 2014  4:57AM
+101|C_PECA|en|Y|Pending Expense Cash Advance Administrator|Pending Expense Cash Advance Administrator|Cash Advance is pending Expense Cash Advance Administrator||Jun 21 2005  3:48PM
+101|C_PEND|en|Y|Pending Approval|Pending Approval|Cash Advance is pending manager approval||Jun 21 2005  3:48PM
+101|C_REJE|en|Y|Sent Back to Employee|Reject|Cash Advance has been Rejected||Jan 18 2014  4:58AM
+101|P_FAIL|en|Y|Financial Posting Failed|Financial Posting Failed|Financial posting failed for the report||Feb 20 2016  3:27AM
+101|P_HOLD|en|Y|Holding Payment|Hold Payment|Report payment is on hold||Jun 21 2005  3:50PM
+101|P_NOTP|en|Y|Not Paid|Not Paid|Report has not been paid||Jun 21 2005  3:48PM
+101|P_PAID|en|Y|Extracted for Payment|Transmitted|Report has been submitted for payment||Sep 29 2006  3:16AM
+101|P_PAYC|en|Y|Payment Confirmed|Payment Confirmed|Some or all of the report expenses have been paid||Mar 17 2007  1:49AM
+101|P_PROC|en|Y|Processing Payment|Process Payment|Report is in process to be paid||Jun 21 2005  3:48PM
+101|Q_APPR|en|Y|Approved|Approve|Request has been approved||Oct 16 2010  1:31AM
+101|Q_CANC|en|Y|Cancelled|Cancelled|This request is cancelled||Oct 22 2011  4:01AM
+101|Q_EXTV|en|Y|Pending External Validation|Pending External Validation|Request is pending external validation||Jun 23 2012  1:42AM
+101|Q_FILE|en|Y|Submitted|Submitted|Request has been submitted||Aug 21 2010  5:36AM
+101|Q_NOTF|en|Y|Not Submitted|Not submitted|Request has not been submitted||Jun 18 2011  1:30AM
+101|Q_PBDG|en|Y|Pending Budget Approval|Pending Budget Approval|Request approval is pending Budget approval||Jun 23 2012  1:42AM
+101|Q_PEBK|en|Y|Approved - Pending Booking|Approved - Pending Booking|Resquest is approved - Pending Booking||May 17 2014  2:22AM
+101|Q_PECO|en|Y|Pending Cost Object Approval|Pending Cost Object Approval|Request approval is pending Cost object approval||Jun 23 2012  1:42AM
+101|Q_PEND|en|Y|Submitted & Pending Approval|Submitted & Pending Approval|Request is pending manager approval||Aug 21 2010  5:36AM
+101|Q_RESU|en|Y|Sent Back to Employee|Sent Back to Employee|Request needs to be resubmitted||Aug 21 2010  5:36AM
+101|Q_TEXP|en|Y|Approval Time Expired|Approval Time Expired|Request expired in approval queue||Aug 21 2010  5:36AM
+101|R_ACCO|en|Y|Accounting Review|Accounting Review|Payment request is pending reviews||Jun 21 2005  3:51PM
+101|R_APPR|en|Y|Approved|Approve|Payment request has been approved||Jun 21 2005  3:51PM
+101|R_CANC|en|Y|Cancelled|Request cancelled|This request is cancelled||Jun 20 2009  5:24AM
+101|R_EXTR|en|Y|Extracted|Sent for Payment|Payment request has been extracted to the payment system||Jun 21 2005  3:51PM
+101|R_FAIL|en|Y|Financial Posting Failed|Financial Posting Failed|Payment request was sent to the payment system that returned a failure||Feb 20 2016  3:27AM
+101|R_FILE|en|Y|Submitted|Submitted|Payment request has been submitted||Jun 21 2005  3:51PM
+101|R_FIXO|en|Y|Fix Owner|Fix Owner|The assigned owner of this Payment Request is incorrect||Jun 21 2005  3:51PM
+101|R_IHLD|en|Y|Require Hardcopy Receipts|Hold for Invoice HardCopy|Payment Request extract is pending Invoice HardCopy||Feb  7 2015  4:07AM
+101|R_NOTF|en|Y|Not Submitted|Not Submitted|Payment request has not been submitted||Jun 21 2005  3:51PM
+101|R_NOTP|en|Y|Not Paid|Not Paid|Payment request has not been paid||Jun 21 2005  3:51PM
+101|R_PAID|en|Y|Paid|Payment Confirmed|Payment system has returned data that confirms the vendor was paid for this payment request||Jun 21 2005  3:51PM
+101|R_PECO|en|Y|Pending Cost Object Approval|Pending Cost Object Approval|Request approval is pending Cost object approval||Jan 17 2009  7:36AM
+101|R_PEND|en|Y|Pending Approval|Pending Approval|Payment request is pending manager approval||Jun 21 2005  3:51PM
+101|R_PROC|en|Y|Pending Payment|Pending Payment|Payment request has passed all of its validations, but has yet to be extracted to the payment system||Jun 21 2005  3:51PM
+101|R_PVAL|en|Y|Pending Validation|Pending Validation|Payment Request is pending prepayment validation||Jun 21 2005  3:51PM
+101|R_RESU|en|Y|Sent Back To Employee|Send Back to Employee|Payment request needs to be resubmitted||Jun 21 2005  3:51PM
+101|R_TEXP|en|Y|Approval Time Expired|Approval Time Expired|Request expired in approval queue||Jun 21 2005  3:52PM
+101|R_VAPP|en|Y|Vendor Approval|Vendor Approval|Payment Request is pending vendor approval||Jun 21 2005  3:51PM
+101|R_VOID|en|Y|Voided|Request voided|This request is voided||Nov 10 2007  2:17AM
+101|T_APPR|en|Y|Approved|Approve|Travel Request Has Been Approved.||Sep 28 2006  4:36AM
+101|T_AUTH|en|Y|Authorized|Authorized|Authorization Request has been fully authorized.||Mar 15 2008  1:00AM
+101|T_FILE|en|Y|Filed|Filed|Travel Request Has Been Submitted||Sep 28 2006  4:37AM
+101|T_NOTF|en|Y|Not Filed|Not Filed|Travel Request Has Not Been Filed||Sep 28 2006  4:38AM
+101|T_PEND|en|Y|Pending Approval|Pending Approval|Travel Request Is Pending Manager Approval||Sep 28 2006  4:38AM
+101|T_PVAL|en|Y|Pending Authorization|Pending Authorization|Travel Request has been approved by all approvers||Sep 28 2006  4:38AM
+101|T_RESU|en|Y|Resubmit|Send Back to Employee|Authorization Request needs to be resubmitted||Mar 15 2008  1:00AM
+101|T_REVW|en|Y|Administrator Review|Pending Travel Administrator|Travel Request is pending Travel Administrator||Sep 28 2006  4:36AM
+101|U_ACCO|en|Y|Pending Processor Review|Pending Processor Review|Purchase request is pending processor review||Jan 19 2013  3:55AM
+101|U_APPR|en|Y|Approved|Approve|Purchase request has been approved||Jan 19 2013  3:55AM
+101|U_FILE|en|Y|Submitted|Submitted|Purchase request has been submitted||Jan 19 2013  3:55AM
+101|U_NOTF|en|Y|Not Submitted|Not Submitted|Purchase request has not been submitted||Jan 19 2013  3:55AM
+101|U_PECO|en|Y|Pending Cost Object Approval|Pending Cost Object Approval|Purchase Request approval is pending Cost object approval||Jan 19 2013  3:55AM
+101|U_PEND|en|Y|Pending Approval|Pending Approval|Purchase request is pending manager approval||Jan 19 2013  3:55AM
+101|U_RESU|en|Y|Sent Back To Employee|Send Back to Employee|Purchase request needs to be resubmitted||Jan 19 2013  3:55AM
+101|U_TEXP|en|Y|Approval Time Expired|Approval Time Expired|Purchase Request expired in approval queue||Jul 20 2013  2:19AM
+101|U_VAPP|en|Y|Vendor Approval|Vendor Approval|Purchase Request is pending vendor approval||Mar 23 2013  2:02AM
+101|W_SKIP|en|Y|Auto Approved|Auto Approved|Auto Approved||Jun 21 2005  3:48PM
